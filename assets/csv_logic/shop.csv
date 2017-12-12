@@ -50,5 +50,6 @@
 "ChronosOffer_50","Chronos","TID_SPECIAL_OFFER_50",,,,,,,,,,,,,,,,"com.supercell.scroll.specialoffertier50",,,,,,,,,,,,,,,,"TRUE"
 "ChronosOffer_60","Chronos","TID_SPECIAL_OFFER_60",,,,,,,,,,,,,,,,"com.supercell.scroll.specialoffertier60",,,,,,,,,,,,,,,,"TRUE"
 "StarterPackArenaT","StarterPack","TID_SHOP_STARTER_PACK_ARENA_T",,,"IAP",,,10,3,2,,"TRUE",,,,,3800,"com.supercell.scroll.consumablestarterpack8","Chest","Draft_StarterPack_T",,"ResourceGold","Gold3",,,,,4,,,"com.supercell.scroll.gempack2",,,
-"StarterPackArena1","StarterPack","TID_SHOP_STARTER_PACK_ARENA_1",,TRUE,"IAP",,,10,3,2,,"TRUE",,,,,100,"com.supercell.scroll.consumablestarterpack9","Chest","Magic_Arena1",,"ResourceDiamond","com.supercell.scroll.gempack5",,"ResourceGold","Gold1",,5,,,,,,
+"StarterPackArena1","StarterPack","TID_SHOP_STARTER_PACK_ARENA_1",,"TRUE","IAP",,,10,3,2,,"TRUE",,,,,100,"com.supercell.scroll.consumablestarterpack9","Chest","Magic_Arena1",,"ResourceDiamond","com.supercell.scroll.gempack5",,"ResourceGold","Gold1",,5,,,,,,
 "StarterPackArena2","StarterPack","TID_SHOP_STARTER_PACK_ARENA_2",,,"IAP",,,10,3,2,,"TRUE",,,,,400,"com.supercell.scroll.consumablestarterpack10","Chest","Magic_Arena2",,"ResourceDiamond","com.supercell.scroll.gempack5",,"ResourceGold","Gold1",,6,,,,,,
+"StarterPackArenaE","StarterPack","TID_SHOP_STARTER_PACK_ARENA_E",,,"IAP",,,10,3,2,,"TRUE",,,,,3400,"com.supercell.scroll.consumablestarterpack11","Chest","Legendary",,"ResourceDiamond","com.sup

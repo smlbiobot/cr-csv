@@ -11,3 +11,6 @@
 "CHALLENGE_CHAIN","ChallengeChainType"
 "CHALLENGE_PAGE","ChallengePageTitle"
 "ARENA_PACK","ArenaPackType"
+"NEWS","NewsDefinition"
+"FILE_PRELOAD","FileDefinition"
+"FORTUNE_TARGET","FortuneTargetDefinition"

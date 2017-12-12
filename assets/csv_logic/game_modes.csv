@@ -1,7 +1,13 @@
 "Name","TID","RequestTID","InProgressTID","CardLevelAdjustment","PlayerCount","DeckSelection","OvertimeSeconds","PredefinedDecks","SameDeckOnBoth","SeparateTeamDecks","ElixirProductionMultiplier","ElixirProductionOvertimeMultiplier","UseStartingElixir","StartingElixir","Heroes","ForcedDeckCards","Players","EventDeckSetLimit","ForcedDeckCardsUsingCardTheme","PrincessSkin","KingSkin","GivesClanScore","GoldPerTower1","GoldPerTower2","GoldPerTower3","GemsPerTower1","GemsPerTower2","GemsPerTower3","EndConfetti1","EndConfetti2","TargetTouchdowns","SkinSet","FixedDeckOrder","Icon"
 "string","string","String","String","String","int","String","int","string","boolean","boolean","int","int","boolean","int","boolean","String","String","String","boolean","String","String","boolean","int","int","int","int","int","int","String","String","int","String","Boolean","String"
-"BlindDeck","TID_BLIND_DECK_CHALLENGE",,,"Friendly",,"Predefined",180,"BlindDeck1",,,,,,,,,"PvP",,,,,,,,,,,,,,,,,
-,,,,,,,,"BlindDeck2",,,,,,,,,"PvP",,,,,,,,,,,,,,,,,
+"BlindDeck","TID_BLIND_DECK_CHALLENGE",,,"Friendly",,"Predefined",180,"KC_MetaMaulers",,"TRUE",,,,,,,"PvP",,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_MisplacedRockets",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_SaltyGoblins",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_SparkyMasters",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_TheUltraNytes",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_TowerTornados",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_VitaminC",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"KC_VivaLaSparky",,,,,,,,,,,,,,,,,,,,,,,,,,
 "DoubleElixir","TID_DOUBLE_ELIXIR_CHALLENGE",,,"Tournament",,"Collection",180,,,,200,,"true",0,,,"PvP",,,"PrincessPump","KingPump",,,,,,,,,,,,,
 "ThreeBridges","TID_THREE_BRIDGES_CHALLENGE",,,"Tournament",,"Collection",180,,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,
 "HeroChallenge","TID_HERO_CHALLENGE",,,"Tournament",,"Collection",180,,,,,,,,"true",,"PvP",,,,,,,,,,,,,,,,,
@@ -46,7 +52,7 @@
 "PickMode","TID_DRAFT_PICK_CHALLENGE",,,"Friendly",,"Pick",180,,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,
 "TeamVsTeamLadder_GoldRush","TID_GOLDRUSH_CHALLENGE",,,"Ladder",,"Collection",60,,,,85,70,,,,,"TvT",,,"PrincessGold","KingGold",,100,200,500,,,,"win_battle_confetti_gold","win_battle_confetti_gold_top",,,,
 "Ladder_GoldRush","TID_GOLDRUSH_CHALLENGE",,,"Ladder",,"Collection",60,,,,,,,,,,"PvP",,,"PrincessGold","KingGold",,100,200,500,,,,"win_battle_confetti_gold","win_battle_confetti_gold_top",,,,
-"Touchdown","TID_GAMEMODE_TOUCHDOWN","TID_REQUEST_TOUCHDOWN_1V1","TID_TOUCHDOWN_1V1_IN_PROGRESS","Friendly",,"Collection",180,,,,,,,,,,"PvP",,,,,,,,,,,,,,3,"Touchdown",,
+"Touchdown","TID_GAMEMODE_TOUCHDOWN","TID_REQUEST_TOUCHDOWN_1V1","TID_TOUCHDOWN_1V1_IN_PROGRESS","Friendly",,"Collection",180,,,,,,,,,,"PvP",,,,,,,,,,,,,,3,"Touchdown",,"icon_mode_touchdown"
 "TeamVsTeamLadder_GemRush","TID_GEMRUSH_CHALLENGE",,,"Ladder",,"Collection",60,,,,85,70,,,,,"TvT",,,"PrincessGem","KingGem",,,,,3,5,10,"win_battle_confetti_gem","win_battle_confetti_gem_top",,,,
 "Ladder_GemRush","TID_GEMRUSH_CHALLENGE",,,"Ladder",,"Collection",60,,,,,,,,,,"PvP",,,"PrincessGem","KingGem",,,,,3,5,10,"win_battle_confetti_gem","win_battle_confetti_gem_top",,,,
 "GemRush_Tournament","TID_GEMRUSH_CHALLENGE",,,"Tournament",,"Collection",180,,,,,,,,,,"PvP",,,"PrincessGem","KingGem",,,,,3,5,10,"win_battle_confetti_gem","win_battle_confetti_gem_top",,,,
@@ -59,3 +65,5 @@
 "TeamVsTeam_FixedDeckOrder","TID_TEAM_CHALLENGE_FD","TID_REQUEST_FRIENDLY_BATTLE_2v2_FD","TID_INPROGRESS_FRIENDLY_BATTLE_2v2_FD","Friendly",,"Collection",180,,,,85,70,,,,,"TvT",,,,,,,,,,,,,,,,"TRUE","icon_mode_2v2"
 "MirrorDeck_H","TID_MIRROR_DECK_CHALLENGE","TID_REQUEST_MIRROR_1V1","TID_MIRROR_1V1_IN_PROGRESS","Friendly",,"Predefined",180,"MirrorDeck_H","TRUE",,,,,,,,"PvP",,,,,,,,,,,,,,,,,"icon_mode_mirror"
 "TeamVsTeam_MirrorDeck_H","TID_MIRROR_DECK_CHALLENGE_2V2","TID_REQUEST_MIRROR_2V2","TID_MIRROR_2V2_IN_PROGRESS","Friendly",,"Predefined",180,"MirrorDeck2v2_H","TRUE","TRUE",,,,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_mirror"
+"KingOfTheHill","TID_GAMEMODE_KING_OF_THE_HILL","TID_REQUEST_KING_OF_THE_HILL","TID_KING_OF_THE_HILL_IN_PROGRESS","Friendly",,"Collection",60,,,,85,70,,,,,"PvP",,,,,,,,,,,,,,,,,
+"ModernRoyale","TID_MODERN_ROYALE_CHALLENGE",,,"Friendly",,"EventDeck",180,,,,,,,,,,"PvP","Event_Modern",,,,,,,,,,,,,,,,"icon_mode_retro"

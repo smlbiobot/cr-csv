@@ -1,5 +1,5 @@
-"Name","ExpToNextLevel","SummonerLevel","TowerLevel","TroopLevel","Decks","SummonerKillGold","TowerKillGold","DiamondReward","QuestSlots"
-"String","int","int","int","int","int","int","int","int","Int"
+Name,ExpToNextLevel,SummonerLevel,TowerLevel,TroopLevel,Decks,SummonerKillGold,TowerKillGold,DiamondReward,QuestSlots
+String,int,int,int,int,int,int,int,int,Int
 1,20,1,1,1,1,0,0,,1
 2,50,2,2,2,1,0,0,,2
 3,100,3,3,3,1,0,0,,3
