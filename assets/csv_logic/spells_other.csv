@@ -15,6 +15,6 @@
 "Tornado",,"tornado","Arena6",,"Epic",3,,,,,,,,,,,,,,5500,,,"true","TRUE",,,,,,,,,,,,,,,"true","TRUE",,"SpellCasting","Tornado","TID_SPELL_TORNADO","TID_SPELL_INFO_TORNADO",,,,,,,,,
 "Clone",,"copy","Arena8",,"Epic",3,,,,,,,,,,,,,,3000,,,,"TRUE",,,,,,,,,,,,,,"true",,"TRUE",,"SpellCasting","Clone","TID_SPELL_CLONE","TID_SPELL_INFO_CLONE",,,,,,,,,
 "NOTINUSESO1",,"fire_fireball","TrainingCamp",,"Rare",4,,"TRUE",,,,,,,,,,,,,,"FireballSpell",,"TRUE",,,,,,,,,,,,,,,"true","TRUE",,"Fire ball",,"TID_SPELL_FIREBALL","TID_SPELL_INFO_FIREBALL",,,,,,,,,
-"REPLACEBL",,"fire_fireball","TrainingCamp",,"Rare",4,,"TRUE",,,,,,,,,,,,,,"FireballSpell",,"TRUE",,,,,,,,,,,,,,,"true","TRUE",,"Fire ball",,"TID_SPELL_FIREBALL","TID_SPELL_INFO_FIREBALL",,,,,,,,,
+"BarbLog","sc/ui_spell_barb_barrel.sc","barb_barrel","Arena_L",,"Epic",3,,,,,,,,,,,,,,,,"BarbLogProjectile","TRUE","TRUE",,,,,"barb_log_deploy",,,,,,,,,,"true",,"TRUE","SpellCasting",,"TID_SPELL_BARBARIAN_LOG","TID_SPELL_INFO_BARBARIAN_LOG","sc/chr_barbarian_barrel_dl.sc","barb_barrel_deploy_indicator","true",,"Soon",,,,
 "Heal",,"heal","Arena_L",,"Rare",3,,,,,,,,,,,,,,3000,,,,"TRUE",,,,,,,,,,,,,,"TRUE",,"TRUE",,"SpellCasting","Heal","TID_SPELL_HEAL","TID_SPELL_INFO_HEAL",,,,,,,,,
 "REPLACESN",,"fire_fireball","TrainingCamp",,"Rare",4,,"TRUE",,,,,,,,,,,,,,"FireballSpell",,"TRUE",,,,,,,,,,,,,,,"true","TRUE",,"Fire ball",,"TID_SPELL_FIREBALL","TID_SPELL_INFO_FIREBALL",,,,,,,,,
