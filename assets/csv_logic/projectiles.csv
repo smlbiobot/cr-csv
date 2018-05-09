@@ -48,4 +48,4 @@
 "ZapSpiritProjectile","Common",800,"sc/chr_skeleton.sc","skeleton1_idle1_1",,,,,,"true",,,"Spell_zap2_effect_enemy",,,120,,,,,,"true","true","true",,,,,,,,,,,"ZapFreeze",500,,"zap_dashing",,,,,"TRUE",,,,,,,,,,5500,3,,,,,,,,,,,,,,,,,,
 "MegaCannonProjectile","Common",700,"sc/effects.sc","projectile_cannonball_large",,,,,200,,,,"megaCannon_hit",,"megaCannon_hit",480,,750,"TRUE",1000,,"TRUE","true","true",,,,,,,,,,,,,,,1500,,,13500,"TRUE",,,,,,,,,,,,,,"TRUE",16000,,,,,,,,,,,,,,
 "REPLACESN","Epic",300,"sc/effects.sc",,,,,,,,,,"Spell_zap2_effect",,,120,-65,,,2500,,"TRUE","TRUE","TRUE",,,,,,,,,,,"ZapFreeze",500,,"Zap_cloud",,,,10000,,,,10100,,50,,,,,,,,,,,,,,,,,,,5000,,,,,
-"REPLACERG","Epic",300,"sc/effects.sc",,,,,,,,,,"Spell_zap2_effect",,,120,-65,,,2500,,"TRUE","TRUE","TRUE",,,,,,,,,,,"ZapFreeze",500,,"Zap_cloud",,,,10000,,,,10100,,50,,,,,,,,,,,,,,,,,,,5000,,,,,
+"RascalGirlProjectile","Common",800,"sc/effects.sc","projectile_gum",,"projectile_arrow_shadow",,,75,"true",,,"BlowdartArrowHit",,,52,,,,,,,,"true",,,120,,,,,,,,,,,"BlowdartProjectileEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

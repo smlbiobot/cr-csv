@@ -53,7 +53,7 @@
 "Ghost","sc/ui_spell_ghost.sc","ghost","Arena_L",,"Legendary",3,,,,,"Ghost",1,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_GHOST","TID_SPELL_INFO_GHOST",,,,,,,,,,,,,
 "NOTINUSESC12",,"knight","TrainingCamp",,"Common",3,,"TRUE",,,"Knight",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_KNIGHT","TID_SPELL_INFO_KNIGHT",,,,,,,,,,,,,
 "MiniSparkys","sc/ui_spell_zappies.sc","zappies","Arena_Electric",,"Rare",4,,,,,"MiniZapMachine",3,,,,1000,,100,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,"true",,,,,,"TID_SPELL_MINI_ZAPMACHINE","TID_SPELL_INFO_MINI_ZAPMACHINE",,,,,,,,,,,,,
-"REPLACESC1",,"knight","TrainingCamp",,"Common",3,,TRUE,,,"Knight",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_KNIGHT","TID_SPELL_INFO_KNIGHT",,,,,,,,,,,,,
+"Rascals","sc/ui_spell_rascals.sc","rascals","Arena9",,"Common",5,,,,,"RascalGirl",2,,"RascalBoy",1,-1500,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_HOODED_GANG","TID_SPELL_INFO_HOODED_GANG",,,,,"Soon",,,,,,,,
 "MovingCannon",,"cannon_cart","Arena_L",,"Epic",5,,,,,"MovingCannon",1,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_MOVING_CANNON","TID_SPELL_INFO_MOVING_CANNON",,,,,,,,,,,,,
 "MegaKnight",,"mega_knight","Arena_L",,"Legendary",7,,,,,"MegaKnight",1,,,,,,,,,,,,"MegaKnightAppear",,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_MEGAKNIGHT","TID_SPELL_INFO_MEGAKNIGHT",,,,,,,,,,,,,
 "SkeletonBalloon",,"skeleton_balloon","Arena6",,"Common",3,,,,,"SkeletonBalloon",1,,,,,,,,,,,3000,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_SKELETON_BALLOON","TID_SPELL_INFO_SKELETON_BALLOON",,,,,,,,,,,,,

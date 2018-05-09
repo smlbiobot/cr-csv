@@ -30,7 +30,7 @@
 "PvE_Boss","TID_PUZZLE_MODE",,,"Friendly",,"Collection",60,,,,,,,,"true",10,,,,"PvE",,,,,,,,,,,,,,,,,,,,
 "PvE_Tutorial","TID_PUZZLE_MODE",,,"Ladder",,"Collection",60,,,,,,,,,,,,,"PvE",,,,,,,,,,,,,,,,,,,,
 "TeamVsTeamDraft","TID_TEAM_CHALLENGE_DRAFT","TID_REQUEST_DRAFT_2V2","TID_DRAFT_2V2_IN_PROGRESS","Friendly",,"Draft",180,,,,,,85,70,,,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_draft",,,
-"TeamVsTeamLadder","TID_TEAM_CHALLENGE_LADDER",,,"Ladder",,"Collection",60,,,,,,85,70,,,,,,"TvT",,,,,,,,,,,,,,,,,,,"TID_CLAN_WAR_GAME_MODE_INFO_2V2",
+"TeamVsTeamLadder","TID_TEAM_CHALLENGE_LADDER",,,"Ladder",,"Collection",60,,,,,,85,70,,,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_2v2",,"TID_CLAN_WAR_GAME_MODE_INFO_2V2",
 "Overtime_Tournament","TID_GAMEMODE_OVERTIME",,,"Tournament",,"Collection",180,,,,,,,,"true",0,,,,"PvP",,,,,,,,,,,,,,,,,,,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_OVERTIME",
 "GoldRush_Tournament","TID_GOLDRUSH_CHALLENGE",,,"Tournament",,"Collection",180,,,,,,,,,,,,,"PvP",,,"PrincessGold","KingGold",,100,200,500,,,,"win_battle_confetti_gold","win_battle_confetti_gold_top",,,,,,,
 "TeamVsTeamChallenge","TID_TEAM_CHALLENGE_SURVIVAL",,,"Tournament",,"Collection",180,,,,,,85,70,,,,,,"TvT",,,,,,,,,,,,,,,,,,,,
