@@ -8,7 +8,7 @@
 "Minions",,"minion","Arena2",,"Common",3,,,,,"Minion",3,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_MINIONS","TID_SPELL_INFO_MINIONS",,,,,,,,,,,,,
 "Balloon",,"chr_balloon","Arena2",,"Epic",5,,,,,"Balloon",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_BALLOON","TID_SPELL_INFO_BALLOON",,,,,,,,,,,,,
 "Witch",,"chr_witch","TrainingCamp",,"Epic",5,,,,,"Witch",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,"true",,,,,,"TID_SPELL_WITCH","TID_SPELL_INFO_WITCH",,,,,,,,,,,,,
-"Barbarians",,"barbarians","Arena3",,"Common",5,,,,,"Barbarian",4,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_BARBARIANS","TID_SPELL_INFO_BARBARIANS",,,,,,,,,,,,,
+"Barbarians",,"barbarians","Arena3",,"Common",5,,,,,"Barbarian",4,,,,700,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_BARBARIANS","TID_SPELL_INFO_BARBARIANS",,,,,,,,,,,,,
 "Golem",,"chr_golem","Arena6",,"Epic",8,,,,,"Golem",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,"true",,,,,,"TID_SPELL_GOLEM","TID_SPELL_INFO_GOLEM",,,,,,,,,,,,,
 "Skeletons",,"skeletons","Arena2",,"Common",1,,,,,"Skeleton",3,,,,700,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_SKELETONS","TID_SPELL_INFO_SKELETONS",,,,,,,,,,,,,
 "Valkyrie",,"valkyrie","Arena1",,"Rare",4,,,,,"Valkyrie",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_VALKYRIE","TID_SPELL_INFO_VALKYRIE",,,,,,,,,,,,,
