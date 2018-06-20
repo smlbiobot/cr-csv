@@ -24,7 +24,7 @@
 ,,,,,,,,,,,,800,800,50000,233,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,1600,1000,100000,256,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,0,10,0,281,,,,,,,,,,,,,,,,,,,,,,,,
-"Epic",8,5,5,5,10,80,500,10,1000,1,180,25,2,400,110,300,"TID_RARITY_EPIC","sc/ui.sc","spell_card_epic_big","spell_card_epic","spell_stack_epic","spell_card_epic_reward","SpellCasting","rarity_epic","epic_order",3,255,153,255,"openChest_get_epic","sound_buy_card_epic","openChest_loop_epic",2,"card_frame_glow_epic",,,"card_rotate_rare_short","sc/ui.sc","icon_btn_card_epic"
+"Epic",8,5,5,5,10,80,500,10,500,1,180,25,2,400,110,300,"TID_RARITY_EPIC","sc/ui.sc","spell_card_epic_big","spell_card_epic","spell_stack_epic","spell_card_epic_reward","SpellCasting","rarity_epic","epic_order",3,255,153,255,"openChest_get_epic","sound_buy_card_epic","openChest_loop_epic",2,"card_frame_glow_epic",,,"card_rotate_rare_short","sc/ui.sc","icon_btn_card_epic"
 ,,,,,,,,,,,,100,4,2000,121,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,200,10,4000,133,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,400,20,8000,146,,,,,,,,,,,,,,,,,,,,,,,,

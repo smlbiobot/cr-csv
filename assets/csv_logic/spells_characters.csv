@@ -59,7 +59,7 @@
 "SkeletonBalloon",,"skeleton_balloon","Arena6",,"Common",3,,,,,"SkeletonBalloon",1,,,,,,,,,,,3000,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_SKELETON_BALLOON","TID_SPELL_INFO_SKELETON_BALLOON",,,,,,,,,,,,,,
 "DartBarrell",,"flying_machine","Arena6",,"Rare",4,,,,,"DartBarrell",1,,,,,,,,,,,3000,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_DART_BARRELL","TID_SPELL_INFO_DART_BARRELL",,,,,,,,,,,,,,
 "NOTINUSESC11",,"bowler","Arena_T",,"Legendary",6,,"TRUE",,,"Bowler",1,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_KNIGHT","TID_SPELL_INFO_KNIGHT",,,,,,,,,,,,,,
-"RoyalHogs","sc/ui_spell_royal_hog.sc","royal_hog","Arena_L",,"Rare",5,,,,,"RoyalHog",4,,,,1,3500,100,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_ROYAL_HOGS","TID_SPELL_INFO_ROYAL_HOGS",,,,,"Soon",,,,,,,,2,
+"RoyalHogs","sc/ui_spell_royal_hog.sc","royal_hog","Arena_L",,"Rare",5,,,,,"RoyalHog",4,,,,500,3500,100,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_ROYAL_HOGS","TID_SPELL_INFO_ROYAL_HOGS",,,,,"Soon",,,,,,,,,
 "NOTINUSEGG",,"minion","Arena_T",,"Legendary",4,,"TRUE",,,"Minion",1,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_MEGAMINION","TID_SPELL_INFO_MEGAMINION",,,,,,,,,,,,,,
 "NOTINUSESC12",,"knight","TrainingCamp",,"Common",3,,"TRUE",,,"Knight",,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_KNIGHT","TID_SPELL_INFO_KNIGHT",,,,,,,,,,,,,,
 "EliteArcher","sc/ui_spell_magic_archer.sc","magic_archer","Arena_L",,"Legendary",4,,,,,"EliteArcher",1,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_ELITE_ARCHER","TID_SPELL_INFO_ELITE_ARCHER",,,,,,,,,,,,,,

@@ -46,9 +46,16 @@
 "Npc44","TrainingCamp","BasicDeck44",3800,28000,14000,14000,11,"true","TID_NPC_44",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc45","TrainingCamp","BasicDeck45",3900,28000,14000,14000,12,"true","TID_NPC_45",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc46","TrainingCamp","BasicDeck46",4000,28000,14000,14000,12,"true","TID_NPC_46",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
-"Npc47","TrainingCamp","BasicDeck47",6000,7000,7000,7000,13,"true","TID_NPC_47",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc47","TrainingCamp","BasicDeck47",4100,28000,14000,14000,12,"true","TID_NPC_47",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc48","TrainingCamp","BasicDeck48",4200,28000,14000,14000,12,"true","TID_NPC_48",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc49","TrainingCamp","BasicDeck49",4300,28000,14000,14000,12,"true","TID_NPC_49",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc50","TrainingCamp","BasicDeck50",4400,28000,14000,14000,12,"true","TID_NPC_50",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc51","TrainingCamp","BasicDeck51",4500,28000,14000,14000,12,"true","TID_NPC_51",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc52","TrainingCamp","BasicDeck52",6000,7000,7000,7000,13,"true","TID_NPC_52",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc53","TrainingCamp","BasicDeck53",6400,6000,6000,6000,13,"true","TID_NPC_53",0,,"true",,,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc1_2","FirstMatch","BasicDeck1",0,120000,120000,120000,1,"true","TID_NPC_1",0,2,"true",,1,40,,"NPC1_Tower","TRUE",
 "Npc2_2","FirstMatch","BasicDeck2",0,120000,120000,120000,1,"true","TID_NPC_2",0,3,"true",,1,60,"NPC2_Start","NPC2_Tower",,
 "Npc3_2","FirstMatch","BasicDeck3",0,100000,100000,100000,1,"true","TID_NPC_3",0,1,"true",,1,60,"NPC3_Start","NPC3_Tower",,
 "Npc4_2","TrainingCamp","BasicDeck5",0,60000,30000,30000,1,"true","TID_NPC_4",0,,"true",,3,80,"NPC4_Start","NPC4_Tower",,
 "Npc5_2","TrainingCamp","BasicDeck7",0,50000,25000,25000,1,"true","TID_NPC_5",0,,"true",,5,,"NPC4_Start","NPC4_Tower",,
+"NpcAITest","TrainingCamp","DeckAITest",2900,28000,14000,14000,9,"true","TID_NPC_35",0,,"true",,,,"NPC4_Start","NPC4_Tower",,
