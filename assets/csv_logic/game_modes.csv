@@ -98,7 +98,7 @@
 "Event_NewArena10","TID_CHALLENGE_NEWARENA10",,,"Friendly",,"EventDeck",180,,,,,,,,,,,,,"PvP","Event_NewUnlockA10",,,,,,,,,,,,,,,,"icon_mode_retro","Arena_L",,,,
 "Event_NewArena11","TID_CHALLENGE_NEWARENA11",,,"Friendly",,"EventDeck",180,,,,,,,,,,,,,"PvP","Event_NewUnlockA11",,,,,,,,,,,,,,,,"icon_mode_retro","Arena_Electric",,,,
 "Rage_Tournament","TID_GAMEMODE_RAGE","TID_REQUEST_RAGE_1V1","TID_RAGE_1V1_IN_PROGRESS","Tournament",,"Collection",180,,,,,,135,,,,,,,"PvP",,,,,,,,,,,,,,,,,"icon_mode_rage","Arena5",,,"RageModeRage","Rage_mode"
-"PopularDecks_Friendly","TID_POPULAR_DECK_CHALLENGE","TID_REQUEST_POPULAR_1V1","TID_POPULAR_1V1_IN_PROGRESS","Friendly",,"Predefined",180,"Blind_Popular1",,"TRUE",,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,"icon_mode_popdeck",,,6000,,
+"PopularDecks_Friendly","TID_POPULAR_DECK_BATTLE","TID_REQUEST_POPULAR_1V1","TID_POPULAR_1V1_IN_PROGRESS","Friendly",,"Predefined",180,"Blind_Popular1",,"TRUE",,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,"icon_mode_popdeck",,,6000,,
 ,,,,,,,,"Blind_Popular2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,"Blind_Popular3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,"Blind_Popular4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

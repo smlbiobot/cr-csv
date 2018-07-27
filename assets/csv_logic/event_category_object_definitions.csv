@@ -95,6 +95,7 @@
 ,"RareChance","NUMBER","FALSE",,,
 ,"EpicChance","NUMBER","FALSE",,,
 ,"LegendaryOneInX","NUMBER","FALSE",,,
+,"Amount","NUMBER","TRUE",,1,
 "OfferRewardType_Gold","Gold","NUMBER","FALSE",,,
 "OfferRewardType_Gems","Gems","NUMBER","FALSE",,,
 "OfferRewardType_Spell","Spell","ENUMERATION","FALSE","SpellsEnum",,
