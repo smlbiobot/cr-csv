@@ -4,7 +4,7 @@
 "GoblinHut",,"fire_furnace","Arena1",,"Rare",5,,,,,"GoblinHut",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_GOBLIN_HUT","TID_SPELL_INFO_GOBLIN_HUT",,,,,,,,,,,,,,
 "Mortar",,"building_mortar","Arena6",,"Common",4,,,,,"Mortar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_MORTAR","TID_SPELL_INFO_MORTAR",,,,,,,,,,,,,,
 "InfernoTower",,"building_inferno","Arena4",,"Rare",5,,,,,"InfernoTower",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_INFERNO","TID_SPELL_INFO_INFERNO",,,,,,,,,,,,,,
-"BombTower",,"bomb_tower","Arena_L",,"Rare",5,,,,,"BombTower",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_BOMB_TOWER","TID_SPELL_INFO_BOMB_TOWER",,,,,,,,,,,,,,
+"BombTower",,"bomb_tower","Arena_L",,"Rare",4,,,,,"BombTower",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_BOMB_TOWER","TID_SPELL_INFO_BOMB_TOWER",,,,,,,,,,,,,,
 "BarbarianHut",,"barbarian_hut","Arena3",,"Rare",7,,,,,"BarbarianHut",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_BARBARIAN_HUT","TID_SPELL_INFO_BARBARIAN_HUT",,,,,,,,,,,,,,
 "Tesla",,"building_tesla","Arena_Electric",,"Common",4,,,,,"Tesla",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_TESLA","TID_SPELL_INFO_TESLA",,,,,,,,,,,,,,
 "Elixir Collector",,"building_elixir_collector","Arena8",,"Rare",6,,,,,"ElixirCollector",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SpellCasting",,"TID_SPELL_ELIXIR_COLLECTOR","TID_SPELL_INFO_ELIXIR_COLLECTOR",,,,,,,,,,,,,,
