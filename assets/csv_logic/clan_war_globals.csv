@@ -1,11 +1,11 @@
 "Name","NumberValue","BooleanValue","TextValue","StringArray","NumberArray"
 "String","int","boolean","string","String","int"
 "CLAN_WARS_ENABLED",,"TRUE",,,
-"SUPPORTED_GAME_MODES",,,,"Rage_Ladder",
-,,,,"MirrorDeck_CW",
-,,,,"TeamVsTeamLadder",
-,,,,"DraftMode",
-,,,,"TeamVsTeamDraft",
+"SUPPORTED_GAME_MODES",,,,"TripleElixir_Ladder",
+,,,,"ClassicDecks_Friendly",
+,,,,"TeamVsTeam_Rage_Ladder",
+,,,,"DraftModeInsane",
+,,,,"TeamVsTeamDraftChallenge",
 "SHOULD_RANDOMISE_GAME_MODE",,"TRUE",,,
 "DECK_SPELL_SETS_NAME",,,,"Set_CW_damagespellsArena6",
 ,,,,"Set_CW_damagespellsArena6",
@@ -25,7 +25,7 @@
 "WAR_COLLECTION_NUM_RARE",11,,,,
 "WAR_COLLECTION_NUM_EPIC",11,,,,
 "WAR_COLLECTION_NUM_LEGENDARY",6,,,,
-"MIN_PARTICIPATION_COUNT",10,,,,
+"MIN_PARTICIPATION_COUNT",1,,,,
 "MIN_XP_LEVEL_TO_PARTICIPATE",8,,,,
 "NUM_CARDS_NEEDED_FOR_NEXT_LEVEL_COMMON",,,,,2
 ,,,,,4
