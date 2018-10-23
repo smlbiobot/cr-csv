@@ -870,7 +870,7 @@
 ,"Arrows",1,,,,
 ,"Lightning",1,,,,
 ,"Tombstone",1,,,,
-"Blind_Classic_5","Princess",1,,,"TID_CLASSIC5_SPELLBAIT",
+"Blind_Classic_5","Princess",1,,,"TID_CLASSIC5_SPELLBAIT","Blind_Classic_10"
 ,"GoblinGang",1,,,,
 ,"GoblinBarrel",1,,,,
 ,"Valkyrie",1,,,,
@@ -878,7 +878,7 @@
 ,"Log",1,,,,
 ,"InfernoTower",1,,,,
 ,"Rocket",1,,,,
-"Blind_Classic_6","HogRider",1,,,"TID_CLASSIC6_HOGRIDER",
+"Blind_Classic_6","HogRider",1,,,"TID_CLASSIC6_HOGRIDER","Blind_Classic_12"
 ,"Knight",1,,,,
 ,"IceSpirits",1,,,,
 ,"Skeletons",1,,,,
@@ -894,7 +894,7 @@
 ,"Miner",1,,,,
 ,"Snowball",1,,,,
 ,"Elixir Collector",1,,,,
-"Blind_Classic_8","Xbow",1,,,"TID_CLASSIC8_XBOW",
+"Blind_Classic_8","Xbow",1,,,"TID_CLASSIC8_XBOW","Blind_Classic_2"
 ,"Tesla",1,,,,
 ,"Log",1,,,,
 ,"Fireball",1,,,,
@@ -902,7 +902,7 @@
 ,"FireSpirits",1,,,,
 ,"Archer",1,,,,
 ,"Skeletons",1,,,,
-"Blind_Classic_9","Graveyard",1,,,"TID_CLASSIC9_GRAVEYARD",
+"Blind_Classic_9","Graveyard",1,,,"TID_CLASSIC9_GRAVEYARD","Blind_Classic_1"
 ,"MovingCannon",1,,,,
 ,"IceWizard",1,,,,
 ,"MegaMinion",1,,,,
@@ -926,7 +926,7 @@
 ,"MinionHorde",1,,,,
 ,"GoblinGang",1,,,,
 ,"SpearGoblins",1,,,,
-"Blind_Classic_12","MegaKnight",1,,,"TID_CLASSIC12_MEGAKNIGHT",
+"Blind_Classic_12","MegaKnight",1,,,"TID_CLASSIC12_MEGAKNIGHT","Blind_Classic_9"
 ,"InfernoDragon",1,,,,
 ,"MiniSparkys",1,,,,
 ,"SpearGoblins",1,,,,
