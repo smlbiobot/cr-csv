@@ -11,7 +11,7 @@
 "Tornado","Epic",2050,,,,5500,,,"Spell_tornado_deploy",,,,,,50,,,,,"Tornado",500,,,,,"TRUE",,"TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,"TRUE",,220
 "Clone","Epic",1000,,,,4000,,,"spell_clone_ground",,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,,"filter_hologram",,,,,,,,,"TRUE","TRUE",,,,,"TRUE",
 "Heal","Rare",2500,,,,4000,,,"Healing",,,,,,50,,,,,"Heal",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,
-"Shield","Common",1000,,,,4000,,,"Spell_shield_deploy",,,,,,,,,,,"Shield",100000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,
+"NOTINUSES","Legendary",10000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,8,2000,,,3000,,,"TRUE","TRUE",,,,,,
 "Graveyard2","Hero",10000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,,2000,,,3000,,,"TRUE","TRUE",,,,,,
 "NOTINUSEB","Legendary",10000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,8,2000,,,3000,,,"TRUE","TRUE",,,,,,
 "NOTINUSEF2","Epic",1000,,,,4000,,,"spell_clone_ground",,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,,"filter_hologram",,,,,,,,,"TRUE","TRUE",,,,,"TRUE",

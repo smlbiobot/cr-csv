@@ -9,4 +9,3 @@
 "Shield_small","sc/ui.sc","hp_shield_player_small","hp_shield_enemy_small","hp_shield_player_number","hp_shield_enemy_number",,,"true",,
 "MediumShield","sc/ui.sc","hp_shield_player_medium","hp_shield_enemy_medium","hp_shield_player_number","hp_shield_enemy_number",,,"true",,"TRUE"
 "Hero","sc/ui.sc","hp_player_hero","hp_enemy_hero","hp_player_hero_number","hp_enemy_hero_number",100,,"true",0,
-"Summoner3","sc/ui.sc","hp_player_high","hp_enemy_high","hp_player_number","hp_enemy_number",150,,"true",-20,

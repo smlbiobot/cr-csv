@@ -1,7 +1,3 @@
-"Name","Character","Skin","KingTowerSkin","PrincessTowerSkin","IsGameModeSkin"
-"String","String","String","String","String","Boolean"
-"Touchdown","AngryBarbarian","AngryBarbarianTouchdown",,,"TRUE"
-"Default",,,"KingDefault","PrincessDefault","FALSE"
-"GoldRush",,,"KingGold","PrincessGold","TRUE"
-"GemRush",,,"KingGem","PrincessGem","TRUE"
-"ElixerPump",,,"KingPump","PrincessPump","TRUE"
+Name,Character,Skin
+String,String,String
+Touchdown,AngryBarbarian,AngryBarbarianTouchdown

@@ -40,4 +40,3 @@
 "PvP_clan_t2",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t2.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
 "PvP_clan_t3",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t3.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
 "PvP_clan_t4",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t4.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
-"ThreeVsThree_royal",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/royal_arena_3v3.csv","tilemaps/tilemap_3v3.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
