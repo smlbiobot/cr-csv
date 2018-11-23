@@ -294,6 +294,7 @@
 ,,,,"inbox-staging.esports.clashroyale.com",
 ,,,,"clash-royale-esports-inbox-dev.fborn.net",
 ,,,,"inbox-production.esports.clashroyale.com",
+,,,,"myqcloud.com",
 "ROYAL_BOX_URL_PARAM_USER_AGENT",,,"supercell-in-game",,
 "ROYAL_BOX_PASS_ALL_EVENT_TIMES",,"TRUE",,,
 "LOAD_ONLY_LOWRES_TEX",,"FALSE",,,
