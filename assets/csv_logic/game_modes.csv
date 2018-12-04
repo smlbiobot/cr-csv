@@ -45,7 +45,7 @@
 "TeamVsTeam_Overtime_Tournament","TID_GAMEMODE_OVERTIME_2v2",,,"Tournament",,"Collection",180,,,,,,85,70,,,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_suddendeath",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_OVERTIME",,,
 "TeamVsTeam_RampUpElixir_Friendly","TID_GAMEMODE_RAMPUP_ELIXIR_2v2","TID_REQUEST_RAMPUP_2V2","TID_RAMPUP_2V2_IN_PROGRESS","Friendly",,"Collection",180,,,,,,85,85,,,,,,"TvT",,,,,,,,,,,,,,,,,,,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_RAMP_UP_ELIXIR",,,
 "TeamVsTeam_RampUpElixir_Tournament","TID_GAMEMODE_RAMPUP_ELIXIR_2v2",,,"Tournament",,"Collection",180,,,,,,85,85,,,,,,"TvT",,,,,,,,,,,,,,,,,,,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_RAMP_UP_ELIXIR",,,
-"TeamVsTeam_DraftModeInsane_Friendly","TID_GAMEMODE_DRAFT_INSANE_2v2","TID_REQUEST_DRAFTMODE_INSANE_2V2","TID_DRAFTMODE_INSANE_2V2_IN_PROGRESS","Friendly",,"Draft",180,,,,,,170,140,"true",0,,,,"TvT",,,,,,,,,,,,,,,,,,,,,,
+"TeamVsTeam_DraftModeInsane_Friendly","TID_GAMEMODE_DRAFT_INSANE_2v2","TID_REQUEST_DRAFTMODE_INSANE_2V2","TID_DRAFTMODE_INSANE_2V2_IN_PROGRESS","Friendly",,"Draft",180,,,,,,170,140,"true",0,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_2x_elixir_draft",,,,,
 "Invalid",,,,"Friendly",,"Collection",180,,,,,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,,,,,,
 "PickMode","TID_DRAFT_PICK_CHALLENGE",,,"Friendly",,"Pick",180,,,,,,,,,,,,,"PvP",,,,,,,,,,,,,,,,,,,,,,
 "TeamVsTeamLadder_GoldRush","TID_GOLDRUSH_CHALLENGE",,,"Ladder",,"Collection",60,,,,,,85,70,,,,,,"TvT",,,"PrincessGold","KingGold",,100,200,500,,,,"win_battle_confetti_gold","win_battle_confetti_gold_top",,,,,,,,,
@@ -106,3 +106,4 @@
 ,,,,,,,,"Blind_Classic_12",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "TeamVsTeam_Rage_Ladder","TID_GAMEMODE_RAGE","TID_REQUEST_RAGE_2V2","TID_RAGE_2V2_IN_PROGRESS","Ladder",,"Collection",180,,,,,,115,85,,,,,,"TvT",,,,,,,,,,,,,,,,,"icon_mode_rage","Arena5","TID_CLAN_WAR_GAME_MODE_INFO_1V1_RAGE",,"RageModeRage","Rage_mode"
 "Event_Shocktober","TID_CHALLENGE_ELECTRO_WIZ",,,"Friendly",,"EventDeck",180,,,,,,,,,,,,,"PvP","Event_Shocktober",,,,,,,,,,,,,,,,"icon_mode_1v1","Arena_Electric",,,,
+"TeamVsTeam_TripleElixir_Ladder","TID_TRIPLE_ELIXIR","TID_REQUEST_TRIPLE_ELIXIR_1V1","TID_TRIPLE_ELIXIR_1V1_IN_PROGRESS","Ladder",,"Collection",180,,,,,,255,150,"true",0,,,,"TvT",,,"PrincessPump","KingPump",,,,,,,,,,,,,"icon_mode_3x_elixir",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_TRIPLE_ELIXIR",,,
