@@ -91,7 +91,7 @@
 ,,,,,,,,,,,,61,1330,,,,,,,
 ,,,,,,,,,,,,78,1630,,,,,,,
 ,,,,,,,,,,,,100,2000,,,,,,,
-"HeroChallenge","sc/ui.sc","icon_tournament_blind_deck","HeroChallenge","tournament_open_wins_badge_blind","FALSE","TRUE",100,"Diamonds",,12,3,20,1400,,,,"tournament_item_open","popup_tournament_open_confirm",,
+"HeroChallenge","sc/ui.sc","icon_tournament_blind_deck","HeroChallenge_draft","tournament_open_wins_badge_blind","FALSE","TRUE",100,"Diamonds",,12,3,20,1400,,,,"tournament_item_open","popup_tournament_open_confirm",,
 ,,,,,,,,,,,,30,1900,,,,,,,
 ,,,,,,,,,,,,50,2500,,,,,,,
 ,,,,,,,,,,,,85,3200,,,,,,,

@@ -53,3 +53,7 @@ StarterPackArenaT,StarterPack,TID_SHOP_STARTER_PACK_ARENA_T,,,IAP,,,14,5,5,,TRUE
 StarterPackArena1,StarterPack,TID_SHOP_STARTER_PACK_ARENA_1,,TRUE,IAP,,,14,5,5,,TRUE,,,,,100,com.supercell.scroll.consumablestarterpack9,Shop_Small_1_Arena1,2000,4,,,,,,
 StarterPackArena2,StarterPack,TID_SHOP_STARTER_PACK_ARENA_2,,,IAP,,,14,5,5,,TRUE,,,,,400,com.supercell.scroll.consumablestarterpack10,Shop_Small_1_Arena2,2000,4,,,,,,
 StarterPackArenaE,StarterPack,TID_SHOP_STARTER_PACK_ARENA_E,,,IAP,,,14,5,5,,TRUE,,,,,3400,com.supercell.scroll.consumablestarterpack11,Shop_Large_Legendary_Arena_Electric,50000,4,,,,,,
+Emote,Emote,,Common,,Diamonds,250,1,,,,,,,,,,,,,,,,,,,,
+,,,Legendary,,Diamonds,500,1,,,,,,,,,,,,,,,,,,,,
+TowerSkin,Skin,,Common,,Diamonds,500,1,,,,,,,,,,,,,,,,,,,,
+,,,Legendary,,Diamonds,1000,1,,,,,,,,,,,,,,,,,,,,

@@ -4,7 +4,7 @@
 "_NA","TID_NORTH_AMERICA","North America","FALSE","TRUE"
 "_SA","TID_SOUTH_AMERICA","South America","FALSE","TRUE"
 "_AS","TID_ASIA","Asia","FALSE","TRUE"
-"_AU","TID_AUSTRALIA","Australia","FALSE","TRUE"
+"_AU","TID_OCEANIA","Oceania","FALSE","TRUE"
 "_AF","TID_AFRICA","Africa","FALSE","TRUE"
 "_INT","TID_INTERNATIONAL","International","FALSE","TRUE"
 "AF","TID_AFGHANISTAN","Afghanistan","TRUE","TRUE"
