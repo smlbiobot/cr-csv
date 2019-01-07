@@ -1,0 +1,17 @@
+"Name","TID","ExportName","GrayedOut","Disabled","Progress","ExportName2","Progress2","ExportName3","Progress3","ForceVisible"
+"String","String","string","boolean","boolean","int","string","int","string","int","boolean"
+"Classic12Wins","TID_PROFILE_BADGE_CLASSIC_CHALLENGE","achievement_classic_challenge","TRUE",,12,"achievement_classic_challenge_x10",10,"achievement_classic_challenge_x100",100,
+"Grand12Wins","TID_PROFILE_BADGE_GRAND_CHALLENGE","achievement_grand_challenge",,,12,"achievement_grand_challenge_x10",10,"achievement_grand_challenge_x100",100,
+"Crl20Wins","TID_PROFILE_BADGE_CRL_20_WINS","achievement_crl",,,17,,,,,
+"1000Wins","TID_PROFILE_REACHED_1000_WINS","achievement_1000wins","TRUE",,1000,,,,,
+"Played1Year","TID_PROFILE_PLAYED_1_YEAR","achievement_1year","TRUE",,365,,,,,
+"Played2Years","TID_PROFILE_PLAYED_2_YEAR","achievement_2year",,,730,,,,,
+"Played3Years","TID_PROFILE_PLAYED_3_YEAR","achievement_3year",,,1095,,,,,
+"LadderTournamentTop1000_1","TID_PROFILE_LADDER_TOURNAMENT_TOP","achievement_top10_tournament",,,,,,,,
+"LadderTournamentTop1000_2","TID_PROFILE_LADDER_TOURNAMENT_TOP","achievement_top10_tournament",,,,,,,,
+"LadderTournamentTop1000_3","TID_PROFILE_LADDER_TOURNAMENT_TOP","achievement_top10_tournament",,,,,,,,
+"LadderTop1000_1","TID_PROFILE_LADDER_TOP","achievement_ladder",,,,,,,,
+"LadderTop1000_2","TID_PROFILE_LADDER_TOP","achievement_ladder",,,,,,,,
+"LadderTop1000_3","TID_PROFILE_LADDER_TOP","achievement_ladder",,,,,,,,
+"TopLeague","TID_PROFILE_TOP_LEAGUE_BADGE","achievement_league","TRUE",,4000,,,,,
+"ClanWarWins","TID_PROFILE_CLAN_WAR_WINS","achievement_clanwar","TRUE",,1,"achievement_clanwar_x10",10,"achievement_clanwar_x100",100,
