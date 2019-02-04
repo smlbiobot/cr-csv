@@ -39,6 +39,8 @@
 ,,,,"ipod4",
 ,,,,"ipod5",
 ,,,,"ipad1",
+,,,,"ipad2",
+,,,,"ipad2,1",
 ,,,,"iphone2",
 ,,,,"iphone3",
 "MED_GFX_DEVICES",,,,,
@@ -192,6 +194,7 @@
 ,,,,"Arena_L",
 ,,,,"Arena_Electric",
 ,,,,"Arena_T",
+,,,,"Arena_L1",
 "TOURNAMENT_INGAME_NOTIFICATION_END_TIMES",,,,,5400
 ,,,,,3600
 ,,,,,1800
@@ -371,7 +374,7 @@
 "SHOW_NEW_SPELL_TEASER",,"TRUE",,,
 "CARD_CYCLE_CONDITION_CHINA",,,"每3个月都将刷新出所有已解锁的卡牌。商店每天24点刷新。",,
 "CHINA_GAME_CENTER",,,"Game Center 登录",,
-"CHINA_LOADING_WARNING",,,"本网络游戏适合年满13周岁以上的用户使用；为了您的健康，请合理控制游戏时间。\n抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。\n粤网文【2017】6138-1456号、新出网证（粤）字010号, 文网游进字【2016】0024号\n新广出审【2016】396号\n出版物号：ISBN 978-7-89988-603-8\n著作权人：SUPERCELL OY\n出版单位：北京昆仑乐享网络技术有限公司",,
+"CHINA_LOADING_WARNING",,,"本网络游戏适合年满13周岁以上的用户使用；为了您的健康，请合理控制游戏时间。\n抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。\n粤网文【2017】6138-1456号、（总）网出证（粤）字第057号, 文网游进字【2016】0024号\n新广出审【2016】396号\n出版物号：ISBN 978-7-89988-603-8\n著作权人：SUPERCELL OY\n出版单位：北京昆仑乐享网络技术有限公司",,
 "CHINESE_GIFT",,,"赠",,
 "CHINA_REGULATIONS_ENABLED",,"TRUE",,,
 "CHINA_SHOP_LABEL",,,"请适度娱乐理性消费",,
@@ -392,7 +395,7 @@
 ,,,,"0xEB8F23",
 ,,,,"0xFFDA65",
 "SHOW_PLAYER_ELIXIR_BAR_ON_SPECTATE",,"TRUE",,,
-"SHOW_OPPONENT_ELIXIR_BAR_ON_SPECTATE",,"FALSE",,,
+"SHOW_OPPONENT_ELIXIR_BAR_ON_SPECTATE",,TRUE,,,
 "SHOW_PLAYER_ELIXIR_BAR_ON_FRIENDLY_MATCH_SPECTATE",,"TRUE",,,
 "SHOW_OPPONENT_ELIXIR_BAR_ON_FRIENDLY_MATCH_SPECTATE",,"TRUE",,,
 "SHOW_PLAYER_ELIXIR_BAR_ON_TOURNAMENT_SPECTATE",,"TRUE",,,
