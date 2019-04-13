@@ -20,3 +20,7 @@
 "StarLevels_Intro_1","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_STAR_LEVELS_1",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,"TID_TUTORIAL_STAR_LEVELS_2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,"TID_TUTORIAL_STAR_LEVELS_3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"TrophyRoad_Intro_1","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_TROPHY_ROAD_1",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"TID_TUTORIAL_TROPHY_ROAD_2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"LeagueRoad_Intro_1","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_LEAGUE_ROAD_1",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"TID_TUTORIAL_LEAGUE_ROAD_2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

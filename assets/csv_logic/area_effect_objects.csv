@@ -9,12 +9,12 @@
 "Graveyard","Legendary",10000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,8,2000,,,3000,,,"TRUE","TRUE",,,,,,,,,
 "FreezeIceGolemite","Rare",1000,,,"TRUE",2000,,"IceGolem_slow_loop","IceGolem_slow_ground",,,,,,,,,,,"IceWizardSlowDown",1000,,,,1,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "Tornado","Epic",2050,,,,5500,,,"Spell_tornado_deploy",,,,,,50,,,,,"Tornado",500,,,,,"TRUE",,"TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,"TRUE",,220,,,
-"Clone","Epic",1000,,,,4000,,,"spell_clone_ground",,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,,"filter_hologram",,,,,,,,,"TRUE","TRUE",,,,,"TRUE",,,,
+"Clone","Epic",1000,,,,3000,,,"spell_clone_ground",,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,,"filter_hologram",,,,,,,,,"TRUE","TRUE",,,,,"TRUE",,,,
 "Heal","Rare",2000,,,,4000,,,"Healing",,,,,,50,,,,,"Heal",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "Shield","Common",1000,,,,4000,,,"Spell_shield_deploy",,,,,,,,,,,"Shield",100000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "Graveyard2","Hero",10000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,,2000,,,3000,,,"TRUE","TRUE",,,,,,,,,
 "EGLightning","Hero",1500,,,,3500,,,,,,,,,460,,,,"TRUE",,,,,,,"TRUE",,,,"LighningSpell",,,,,,,,,,,,,,"TRUE","TRUE",10,,,,,,,,
-"NOTINUSEF2","Epic",1000,,,,4000,,,"spell_clone_ground",,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,,"filter_hologram",,,,,,,,,"TRUE","TRUE",,,,,"TRUE",,,,
+"Earthquake","Rare",3000,,,,3500,"Spell_earthquake_loop","Spell_earthquake_effect",,,,,,,100,,,,,"Earthquake",1000,,,"TRUE",1,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","FALSE",,,,,,,,,
 "HolyHeal","Hero",500,,,,4000,,,"Healing_short",,,,,,50,,,,,"HolyHeal",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "HolyShield","Hero",5000,,,,4000,,,,,,,,,,,,,,"Shield",5000,,,,1,,"TRUE",,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "Portal","Hero",999999,,,,1000,"PortalObject",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
@@ -27,3 +27,5 @@
 "BoostRageBottle","Epic",10000,,,,1000,,,"boost_rage_continous",,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE",,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,"RageBarbarianBottle"
 "BoostCloneBottle","Epic",10000,,,,1000,,,"boost_clone_continuous",,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE",,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,"CloneBottle"
 "ElectroWizardZap","Common",1,,,,2500,,"Spell_zap_effect",,,,,,,,75,,-65,,"ZapFreeze",500,,,,,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
+"DarkElixir","Common",999999,,,,1000,"dark_elixir_continuous",,,,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,
+"ElixirDrop","Common",999999,,,,1000,"elixir_continuous",,,,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,

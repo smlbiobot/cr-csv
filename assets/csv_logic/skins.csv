@@ -12,5 +12,5 @@
 "KingXmas","sc/building_tower.sc","kingtower_xmas_01","kingtower_xmas_02",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim","King_player_die",,100
 "PrincessXmas","sc/building_tower.sc","princesstower_xmas_01","princesstower_xmas_02","princesstower_xmas_01_top","princesstower_xmas_02_top","TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim","TowerExplode",,100
 "ArcherRoyale","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
-"MagicArcherPromo","sc/chr_heist_skins_dl.sc","bo_archer","bo_archer_red",,,"TID_SKIN_DEFAULT","sc/ui_spell_magic_archer_promo.sc","magic_archer_promo",,,100
-"HunterPromo","sc/chr_heist_skins_dl.sc","shelly_hunter","shelly_hunter_red",,,"TID_SKIN_DEFAULT","sc/ui_spell_hunter_promo.sc","hunter_promo",,,80
+"MagicArcherPromo","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
+"HunterPromo","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
