@@ -29,7 +29,7 @@
 "SkeletonWarriors",,"skeleton_warriors","Arena7",,"Epic",,3,2,,,,,"SkeletonWarrior",3,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_SKELETON_WARRIORS","TID_SPELL_INFO_SKELETON_WARRIORS",,,,,,,,,,,,,,,,,,,,
 "Princess",,"princess","Arena7",,"Legendary",,3,1,,,,,"Princess",,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_PRINCESS","TID_SPELL_INFO_PRINCESS",,,,,,,,,,,,,,,,,,,,
 "DarkPrince",,"dark_prince","Arena7",,"Epic",,4,1,,,,,"DarkPrince",,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_DARK_PRINCE","TID_SPELL_INFO_DARK_PRINCE",,,,,,,,,,,,,,,,,,,,
-"ThreeMusketeers",,"three_musketeers","Arena7",,"Rare",,10,2,,,,,"Musketeer",3,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_THREE_MUSKETEERS","TID_SPELL_INFO_THREE_MUSKETEERS",,,,,,,,,,,,,,,,,,,,
+"ThreeMusketeers",,"three_musketeers","Arena7",,"Rare",,9,2,,,,,"ThreeMusketeer",3,,,,,,150,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_THREE_MUSKETEERS","TID_SPELL_INFO_THREE_MUSKETEERS",,,,,,,,,,,,,,,,,,,,
 "LavaHound",,"lava_hound","Arena4",,"Legendary",,7,2,,,,,"LavaHound",,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_LAVA_HOUND","TID_SPELL_INFO_LAVA_HOUND",,,,,,,,,,,,,,,,,,,,
 "IceSpirits",,"snow_spirits","Arena8",,"Common",,1,1,,,,,"IceSpirits",1,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_ICE_SPIRITS","TID_SPELL_INFO_ICE_SPIRITS",,,,,,,,,,,,,,,,,,,,
 "FireSpirits",,"fire_spirits","Arena5",,"Common",,2,1,,,,,"FireSpirits",3,,,,,,,,,,,,,,,,,,,,,"CharacterDeploy",,,,,,,,,,,,,,,"TID_SPELL_FIRE_SPIRITS","TID_SPELL_INFO_FIRE_SPIRITS",,,,,,,,,,,,,,,,,,,,
