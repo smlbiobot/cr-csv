@@ -14,3 +14,5 @@
 "ArcherRoyale","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
 "MagicArcherPromo","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
 "HunterPromo","sc/chr_princess.sc","princess_tower","princess_tower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim",,,100
+"KingFlood","sc/building_tower.sc","KingTower_blue","KingTower_red",,,"TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim","King_flood_die",,100
+"PrincessFlood","sc/building_tower.sc","StarTower_base_blue","StarTower_base_red","StarTower_top_blue","StarTower_top_red","TID_SKIN_DEFAULT","sc/ui.sc","tower_asset_anim","Princess_flood_die",,100
