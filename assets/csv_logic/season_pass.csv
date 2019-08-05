@@ -308,7 +308,7 @@
 ,80,,,,,,"Star_<current_arena>",,,,,,,,,0
 ,90,"TRUE",1,,,,,,,,"Epic",,,,6,0
 ,90,,,,,,"Star_<current_arena>",,,,,,,,,0
-,100,"TRUE",,,,,,34,0,,,,,,7,1
+,100,"TRUE",,,,,,37,0,,,,,,7,1
 ,100,,,,,,"Star_<current_arena>",,,,,,,,,1
 ,110,"TRUE",1,,,,,,,,,,,"TRUE",8,1
 ,110,,,,,,"Star_<current_arena>",,,,,,,,,1
@@ -348,7 +348,7 @@
 ,280,,,,,,"Star_<current_arena>",,,,,,,,,2
 ,290,"TRUE",,,,,"SeasonPass_Pro_T1",,,,,,,,22,2
 ,290,,,,,,"Star_<current_arena>",,,,,,,,,2
-,300,"TRUE",,,,,,,,,,,1,,23,3
+,300,"TRUE",,,,,,,,,,,2,,23,3
 ,300,,,,,,"Star_<current_arena>",,,,,,,,,3
 ,310,"TRUE",1,,,,,,,,"Common",,,,24,3
 ,310,,,,,,"Star_<current_arena>",,,,,,,,,3
@@ -380,7 +380,7 @@
 ,80,,,,,,"Star_<current_arena>",,,,,,,,,0
 ,90,"TRUE",,,,,"SeasonPass_Rookie_T1",,,,,,,,6,0
 ,90,,,,,,"Star_<current_arena>",,,,,,,,,0
-,100,"TRUE",,,,,,34,0,,,,,,7,1
+,100,"TRUE",,,,,,37,0,,,,,,7,1
 ,100,,,,,,"Star_<current_arena>",,,,,,,,,1
 ,110,"TRUE",1,,,,,,,,,,,"TRUE",8,1
 ,110,,,,,,"Star_<current_arena>",,,,,,,,,1
@@ -420,7 +420,7 @@
 ,280,,,,,,"Star_<current_arena>",,,,,,,,,2
 ,290,"TRUE",,,,,"SeasonPass_Rookie_T1",,,,,,,,22,2
 ,290,,,,,,"Star_<current_arena>",,,,,,,,,2
-,300,"TRUE",,,,,,,,,,,1,,23,3
+,300,"TRUE",,,,,,,,,,,2,,23,3
 ,300,,,,,,"Star_<current_arena>",,,,,,,,,3
 ,310,"TRUE",,,,,"SeasonPass_Rookie_T2",,,,,,,,24,3
 ,310,,,,,,"Star_<current_arena>",,,,,,,,,3

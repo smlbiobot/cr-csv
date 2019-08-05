@@ -4,7 +4,7 @@
 "Gold","TID_GOLD","sc/ui.sc","TRUE","Collect Gold","icon_gold",,"TID_GOLD_CAP_FULL",255,240,72,5000000,"gold","icon_gold"
 "ChestOrderIndex",,,"TRUE",,,,,,,,,,
 "ChestCount",,,"TRUE",,,,,,,,,,
-"StarCount",,,"TRUE",,,,,,,,,,
+"StarCount","TID_CROWNS","sc/ui.sc","TRUE",,"icon_crowns",,,,,,,"star_pile","icon_crowns"
 "FreeGold","TID_GOLD","sc/ui.sc","FALSE","Collect Gold","icon_gold",,,255,240,72,5000000,"gold","icon_gold"
 "MaxScore",,,"TRUE",,,,,,,,,,
 "ThreeCrownWins",,,"TRUE",,,,,,,,,,

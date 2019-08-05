@@ -1,6 +1,6 @@
 tr,LeagueRoadCount,Arena,TrophyRoadSWF,SeasonPassSWF,SeasonPassRookie,SeasonPassPro,DisplayName,SeasonNumber
 String,int,string,String,String,string,string,string,int
 SeasonDefault,27,Arena_Boat,sc/season_flood.sc,sc/season_flood.sc,Rookie_Basic,Pro_Basic,TID_SEASON_NAME_THE_FLOOD,1
-SeasonEpics,27,Arena_Boat,sc/season_flood.sc,sc/season_flood.sc,Rookie_Basic,Pro_Basic,TID_SEASON_NAME_DEFAULT,2
-SeasonRares,27,Arena_Boat,sc/season_default.sc,sc/season_default.sc,Rookie_Rares,Pro_Rares,TID_SEASON_NAME_DEFAULT,3
-SeasonGems,27,Arena_Boat,sc/season_default.sc,sc/season_default.sc,Rookie_EarlyStrikes,Pro_EarlyStrikes,TID_SEASON_NAME_DEFAULT,4
+SeasonEpics,27,Arena_Shipwreck,sc/season_shipwreck.sc,sc/season_shipwreck.sc,Rookie_EarlyStrikes,Pro_EarlyStrikes,TID_SEASON_2_NAME,2
+SeasonRares,27,Arena_L,sc/season_default.sc,sc/season_default.sc,Rookie_Rares,Pro_Rares,TID_SEASON_NAME_DEFAULT,4
+SeasonGems,27,Arena_Shipwreck,sc/season_shipwreck.sc,sc/season_shipwreck.sc,Rookie_EarlyStrikes,Pro_EarlyStrikes,TID_SEASON_2_NAME,2
