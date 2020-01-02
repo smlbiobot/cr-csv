@@ -65,4 +65,5 @@
 "Tutorial2","DestroyAllTowers",,"FirstMatch","Tutorial","Tutorial","Goblins",,3000,8,14,"true",38000
 ,,,,,,"Knight",,13000,12,16,"true",38000
 ,,,,,,"Archer",,13000,12,16,"true",38000
-,,,,,,"Goblins",,28000,8,14,TRUE,38000
+,,,,,,"Goblins",,28000,8,14,"TRUE",38000
+"CardInfoDemo","DestroyAllTowers",,"TrainingCamp","Tutorial","Tutorial",,,,,,,

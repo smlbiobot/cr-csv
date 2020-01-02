@@ -1,3 +1,4 @@
-Name,SC,ExportName,Id
-String,String,String,Int
-XMAS,towerskins_xmas2_01_dl.sc,xmas,
+"SC","Id"
+"String","Int"
+"towerskin_season_01_dl.sc",1
+"towerskin_season_02_dl.sc",2
