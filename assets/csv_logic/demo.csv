@@ -641,3 +641,10 @@
 ,,,,2000,"Spawn",1000,6000,"Graveyard"
 ,,,,6000,"CameraStop",,,
 ,,,,18000,"Reset",,,
+"RoyalDelivery","Fixed",4500,16000,500,"SpawnEnemy",3500,14000,"Princess"
+,,,,1000,"Spawn",3500,17000,"RoyalDelivery"
+,,,,7000,"Reset",,,
+,,,,7250,"Spawn",3500,19500,"Mortar"
+,,,,7500,"SpawnEnemy",3500,14000,"Minions"
+,,,,8000,"Spawn",3500,17000,"RoyalDelivery"
+,,,,14000,"Reset",,,

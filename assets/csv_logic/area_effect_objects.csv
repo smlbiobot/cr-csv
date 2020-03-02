@@ -32,3 +32,7 @@
 "GraveyardOrb","Legendary",180000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,,2000,,,3000,,,"TRUE","TRUE",,,,,,,,,
 "HealSpirit","Common",2000,,,,4000,,,"Healing",,,,,,50,,,,,"HealSpiritBuff",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "BattleHealerHeal","Rare",50,,,,4000,,,"Healing_Burst_blue",,,,,,0,,,,,"BattleHealerAll",1000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
+"NOTINUSE","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE2","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE3","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"RoyalDeliveryArea","Common",2000,,,,3000,,"Royale_Delivery_spawn",,,,,,,2000,,,,,,,,,,,"TRUE",,"TRUE",,"RoyalDeliveryProjectile",,,,"royale_delivery_broken",,250,,2050,,,,,,"TRUE","TRUE",,,,,,,,,

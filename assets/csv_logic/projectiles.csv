@@ -77,3 +77,8 @@
 "FireballSpell7","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "FireballSpell8","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "FireballSpell9","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE1","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE2","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE3","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTINUSE4","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"RoyalDeliveryProjectile","Common",5000,,,,,,,,,,,,,,,,,,"royale_delivery_broken",,,150,,1000,,3000,,"true","true","true",,,,,,250,,"DeliveryRecruit",,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

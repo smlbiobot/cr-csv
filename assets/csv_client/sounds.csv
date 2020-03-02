@@ -961,3 +961,7 @@
 "sound_firecracker_hit","sfx/firecracker_atk_hit_01_dl.ogg",40,50,96,104,2,3,,,,,,,,,,
 "sound_firecracker_hit2","sfx/firecracker_atk_hit_01_dl.ogg",40,50,96,104,2,3,,,,,,,,,,
 "sound_firecracker_die",,,,,,,,,,,,,,,,,
+"Cake_arena_start","sfx/royale_cake_jingle_01_dl.ogg",90,90,100,100,1,1,,,,,,,,,,
+"sound_royal_delivery_explosion","sfx/barrel_explosion_02.ogg",65,70,95,105,1,1,,,,,,,,,,
+"sound_royal_delivery_deploy","sfx/royal_recruit_whistle_01_dl.ogg",30,30,98,102,1,1,,,,,,,,,,
+"sound_royal_delivery_recruit","sfx/royal_recruit_deploy_01_dl.ogg",90,90,98,102,1,2,,,,,,,,,,
