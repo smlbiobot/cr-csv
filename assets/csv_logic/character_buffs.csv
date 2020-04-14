@@ -30,7 +30,7 @@
 "DummyCollisionBoostEpic","Epic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "FireballProjectile","Epic",,,,,,,,,,,-75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"FireballSpell",,
 "DropBomb","Common",,,,,,,,1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,50,,"CommonBomb",1,5,,,,,,,,,,
-"HealSpiritBuff","Common",,,,,,,,500,,50,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,
+"HealSpiritBuff","Rare",,,,,,,,250,,208,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,
 "Rage2","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rage3","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rage4","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,

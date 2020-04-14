@@ -6,7 +6,7 @@
 "TowerPrincessProjectile","Common",600,"sc/effects.sc","projectile_arrow_basic_enemy",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"ArrowHit",,,50,,,,,,,,"true",,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "ArrowsSpell","Common",1100,"sc/effects.sc","projectile_arrow_basic_enemy",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"ArrowHitGround",,,48,-65,,,4000,,"true","true","true",,,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE"
 "ArrowsSpellDeco","Common",1100,"sc/effects.sc","projectile_arrow_basic_enemy",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"ArrowHitGround",,,,,,,,,"true","true","true",,,50,,,,,,,,,,,"arrows_trail",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE"
-"TowerCannonball","Common",1000,"sc/effects.sc","projectile_cannonball_large",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"cannon_hit",,,79,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"TowerCannonball","Common",1000,"sc/effects.sc","projectile_cannonball_large",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"cannon_hit",,,83,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "MinionSpit","Common",1000,"sc/effects.sc","projectile_cannonball_small",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"ArrowHit",,,40,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "MortarProjectile","Common",300,"sc/effects.sc","catapult_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"mortar_hit",,,104,,,,2000,,,"true","true",,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "WitchProjectile","Epic",600,"sc/effects.sc","Tower_projectile1",,,,,,,,,,,,,"true",,,"witch_hit",,,84,,,,1000,,"true","true","true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38,7 +38,7 @@
 "AxeManProjectile","Epic",550,"sc/effects.sc","executioner_projectile",,"bowler_projectile_shadow",,,,,,,,,,,,,,"axe_man_projectile_hit",,,106,,,,1000,,"true","true","true",,,,,,,,,,,,,,"AxeProjectileEmitter",1000,,,6500,,,,,,,,,4500,,3000,,,,,,,,"axe_man_projectile_die","true",,1500,,,,,,,,,,,,,,,,,,,,,,
 "BatProjectile","Common",2000,"sc/effects.sc","projectile_cannonball_small",,,,,,,,,,,,,"true",,,"ArrowHit",,,32,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "GunnerProjectile","Legendary",1000,"sc/effects.sc","projectile_cannonball_small",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"cannon_hit",,,220,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"MovingCannonProjectile","Epic",1000,"sc/effects.sc","projectile_cannonball_large",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"cannon_hit",,,127,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"MovingCannonProjectile","Epic",1000,"sc/effects.sc","projectile_cannonball_large",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"cannon_hit",,,133,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "DartBarrellProjectile","Rare",800,"sc/effects.sc","projectile_cannonball_small",,"projectile_arrow_shadow",,,,,,,,,,,"true",,,"flying_machine_hit",,,81,,,,,,,,"true",,,120,,,,,,,,,,,"BlowdartProjectileEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "MegaKnightAppear","Legendary",1000,,,,,,,,,,,,,,,,,,"mega_knight_deploy_end",,,444,,1000,,2200,,,"TRUE","true",,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "BarbLogProjectile","Epic",360,"sc/chr_barbarian_barrel_dl.sc","barb_barrel_roll_projectile_blue",,"barb_barrel_projectile_shadow",,,"sc/chr_barbarian_barrel_dl.sc",,"barb_barrel_roll_projectile_blue_prestige",,,"barb_barrel_roll_projectile_red_prestige",,,,,,"barb_barrel_hit",,,,,,,1300,600,,"true","true",,,30,,,,,,,,,,,"barb_barrel_emitter",,,,,,,"BarbLogProjectileRolling",,,,,,3000,,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,
@@ -77,7 +77,7 @@
 "FireballSpell7","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "FireballSpell8","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "FireballSpell9","Rare",600,"sc/effects.sc","fireball_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"Fireball_explosion",,,325,-65,1800,,2500,,"true","true","true",,,50,,,,,,,,,,,"FireballEmitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"NOTINUSE1","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"HealSpiritProjectile","Rare",400,"sc/chr_heal_spirit_dl.sc","healspirit_proyectile1_1",,,,,,,,,,,,80,"true",,,,,,52,,,,1500,,"true","true","true",,,400,"HealSpirit",,,,,,,,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE2","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE3","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE4","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,9 +1,9 @@
 "Name","NumberValue","BooleanValue","TextValue","StringArray","NumberArray"
 "String","int","boolean","string","String","int"
 "CLAN_WARS_ENABLED",,"TRUE",,,
-"SUPPORTED_GAME_MODES",,,,"RampUpElixirSpawnWBsMode_Ladder",
+"SUPPORTED_GAME_MODES",,,,"RampUpElixirSpawnRascals_Ladder",
 ,,,,"ClassicDecks_Friendly",
-,,,,"Overtime_Ladder",
+,,,,"TripleElixir_Ladder",
 ,,,,"DraftModeInsane",
 ,,,,"Draft_Competitive",
 "SHOULD_RANDOMISE_GAME_MODE",,"TRUE",,,
