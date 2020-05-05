@@ -556,6 +556,8 @@
 ,,,,"sc/level_cake_arena_dl.sc",
 ,,,,"sc/building_towerskin_season_09_dl.sc",
 ,,,,"sc/building_towerskin_season_10_dl.sc",
+,,,,"sc/building_towerskin_season_11_dl.sc",
+,,,,"sc/level_dragon_arena_dl.sc",
 "USE_SELFHELP",,"TRUE",,,
 "LOADING_SCREEN_SEASON_SC",,"TRUE",,,
 "BATTLE_HUD_TRANSPERANCY_PERCENT",50,,,,

@@ -726,3 +726,7 @@
 "arrow_deco_02","sc/level_heist_arena_dl.sc","arrow_deco_02","Object","Ground",60,75,2,,52,,,,,,,,,,,,,"Always",,,
 "arrow_deco_03","sc/level_heist_arena_dl.sc","arrow_deco_03","Object","Ground",57,69,-1,-1,47,,,,,,,,,,,,,"Always",,,
 "arrow_deco_04","sc/level_heist_arena_dl.sc","arrow_deco_04","Object","Ground",57,69,-1,-3,13,,,,,,,,,,,,,"Always",,,
+"dragon_stallagmite_01","sc/level_dragon_arena_dl.sc","dragon_stallagmite_01","Above","Above",,,,,,,,,,,,,,,,"true",,"Always",,,
+"dragon_stallagmite_02","sc/level_dragon_arena_dl.sc","dragon_stallagmite_02","Above","Above",,,,,,,,,,,,,,,,"true",,"Always",,,
+"dragon_stallagmite_03","sc/level_dragon_arena_dl.sc","dragon_stallagmite_03","Above","Above",,,,,,,,,,,,,,,,"true",,"Always",,,
+"dragon_stallagmite_04","sc/level_dragon_arena_dl.sc","dragon_stallagmite_04","Above","Above",,,,,,,,,,,,,,,,"true",,"Always",,,
