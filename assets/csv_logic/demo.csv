@@ -55,7 +55,7 @@
 ,,,,8000,"SpawnEnemy",12000,10000,"SpearGoblins"
 ,,,,14500,"Reset",,,
 ,,,,14500,"KingLaughing",,,
-,,,,14750,"Spawn",14000,20000,"MiniPekka"
+,,,,14750,"Spawn",14000,21000,"MiniPekka"
 ,,,,14750,"SpawnEnemy",14000,14000,"HogRider"
 ,,,,27000,"Reset",,,
 "Fireball","Normal",,,500,"SpawnEnemy",10000,10000,"Archer"
@@ -124,7 +124,7 @@
 ,,,,20500,"CameraOffset",7500,16500,
 ,,,,21000,"KingCrying",,,
 ,,,,21000,"Spawn",7000,18000,"GoblinHut"
-,,,,21500,"SpawnEnemy",7500,14000,"Bomber"
+,,,,21500,"SpawnEnemy",7500,14000,"Wizard"
 ,,,,33000,"Reset",,,
 "GoblinBarrel","Fixed",5000,6500,500,"Spawn",3500,6500,"GoblinBarrel"
 ,,,,7500,"KingCrying",,,
@@ -300,7 +300,7 @@
 "Tornado","Normal",1500,2500,500,"SpawnEnemy",3500,14000,"HogRider"
 ,,,,6000,"Spawn",7000,27000,"Tornado"
 ,,,,10000,"CameraOffset",,-2000,
-,,,,10500,"Spawn",7000,22000,"Wizard"
+,,,,10500,"Spawn",7000,24000,"Wizard"
 ,,,,10750,"SpawnEnemy",3500,14000,"Giant"
 ,,,,12000,"SpawnEnemy",3500,12000,"Goblins"
 ,,,,13000,"SpawnEnemy",3500,12000,"Minions"
@@ -508,8 +508,8 @@
 ,,,,4500,"Spawn",9000,20000,"Goblins"
 ,,,,16000,"Reset",,,
 "Earthquake","Normal",1500,-2500,500,"Spawn",2000,17000,"HogRider"
-,,,,2500,"SpawnEnemy",6000,9000,"InfernoTower"
-,,,,5000,"Spawn",4500,7500,"Earthquake"
+,,,,2500,"SpawnEnemy",6000,9000,"Tombstone"
+,,,,5000,"Spawn",4500,8500,"Earthquake"
 ,,,,11000,"SpawnEnemy",7000,10000,"FirespiritHut"
 ,,,,14000,"Spawn",5500,8000,"Earthquake"
 ,,,,19000,"Reset",,,
@@ -664,7 +664,7 @@
 ,,,,2000,"Spawn",1000,6000,"Graveyard"
 ,,,,6000,"CameraStop",,,
 ,,,,18000,"Reset",,,
-"RoyalDelivery","Fixed",4500,16000,500,"SpawnEnemy",3500,14000,"Princess"
+"RoyalDelivery","Fixed",4500,16000,500,"SpawnEnemy",3500,14000,"Wizard"
 ,,,,1000,"Spawn",3500,17000,"RoyalDelivery"
 ,,,,7000,"Reset",,,
 ,,,,7250,"Spawn",3500,19500,"Mortar"
