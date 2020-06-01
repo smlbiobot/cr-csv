@@ -671,3 +671,9 @@
 ,,,,7500,"SpawnEnemy",3500,14000,"Minions"
 ,,,,8000,"Spawn",3500,17000,"RoyalDelivery"
 ,,,,14000,"Reset",,,
+"SkeletonDragons","Normal",,-2000,500,"Spawn",3500,23000,"SkeletonDragons"
+,,,,1000,"SpawnEnemy",3500,14000,"Barbarians"
+,,,,10000,"KingCrying",,,
+,,,,11000,"SpawnEnemy",7000,9000,"Musketeer"
+,,,,13500,"CameraStop",,,
+,,,,18000,"Reset",,,
