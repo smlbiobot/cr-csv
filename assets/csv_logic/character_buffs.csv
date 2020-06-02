@@ -13,7 +13,7 @@
 "RageModeRage","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage_mode",,,,"Healing",125,,,,,,"TRUE",,,"Spell_rage_mode_continuous",,,,,,,,,,,,,,,,,,
 "PoisonModePoison","Epic","TID_SPELL_POISON",,,"TRUE",,-65,50,2000,,,,,,,,,,,,"PoisonSteam","sc/effects.sc","filter_poison",,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,
 "Shield","Hero",,,,,,,,,,,,,,,,,,,,,"sc/effects.sc","filter_shield",,,,,,,,,,,,,,"shield",,,,,,,,,,,1,,,,,,,
-"Earthquake","Rare",,,,,300,,39,1000,,,-35,-35,-35,,,,,,,"PoisonSteam","sc/effects.sc","filter_earthquake",,,,,-33,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,"true",
+"Earthquake","Rare",,,,,300,,39,1000,,,,-50,,,,,,,,"PoisonSteam","sc/effects.sc","filter_earthquake",,,,,-33,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,"true",
 "NOTINUSEB","Legendary","TID_SPELL_ATTRIBUTE_SLOWDOWN",,,,,,,,,,-35,-35,-35,,,,,,,,"sc/effects.sc","filter_cold",,,,"Healing",75,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "BolaSnare","Legendary","TID_SPELL_ATTRIBUTE_SNARE",,,,,,,,,,,-85,-85,,,,,,,,"sc/effects.sc","filter_trap_hit",,,,"Healing",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "PowerCharge","Hero",,,,,,,,,,,-100,-100,-100,,,,,,,,"sc/effects.sc","filter_mega_knight_jump",,,,,,,,,,,,"PowerChargeEnd",1000,,,,,,,,,,,,,,"MightyMuskieSpecialProjectile","mighty_muskie_special_attack",,,,

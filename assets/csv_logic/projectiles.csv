@@ -81,5 +81,5 @@
 "NOTINUSE2","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE3","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE4","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"RoyalDeliveryProjectile","Common",5000,,,,,,,,,,,,,,,,,,"royale_delivery_broken",,,190,,1000,,3000,,"true","true","true",,,,,,250,,"DeliveryRecruit",,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"SkeletonDragonProjectile","Common",500,"sc/chr_skeleton_dragon_dl.sc","skeletondragon_projectile",,,,,,,,,,,,,"true",,,"dragon_hit",,,67,,,,600,,"true","true","true",,,250,,,,,,,,,,,"Dragon_Emitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"RoyalDeliveryProjectile","Common",5000,,,,,,,,,,,,,,,,,,"royale_delivery_broken",,,171,,1000,,3000,,"true","true","true",,,,,,250,,"DeliveryRecruit",,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SkeletonDragonProjectile","Common",500,"sc/chr_skeleton_dragon_dl.sc","skeletondragon_projectile",,,,,,,,,,,,,"true",,,"dragon_hit",,,67,,,,800,,"true","true","true",,,250,,,,,,,,,,,"Dragon_Emitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
