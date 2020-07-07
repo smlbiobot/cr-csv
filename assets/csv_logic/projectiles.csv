@@ -82,4 +82,5 @@
 "NOTINUSE3","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE4","Common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "RoyalDeliveryProjectile","Common",5000,,,,,,,,,,,,,,,,,,"royale_delivery_broken",,,171,,1000,,3000,,"true","true","true",,,,,,250,,"DeliveryRecruit",,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"SkeletonDragonProjectile","Common",500,"sc/chr_skeleton_dragon_dl.sc","skeletondragon_projectile",,,,,,,,,,,,,"true",,,"dragon_hit",,,67,,,,800,,"true","true","true",,,250,,,,,,,,,,,"Dragon_Emitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SkeletonDragonProjectile","Common",500,"sc/chr_skeleton_dragon_dl.sc","skeletondragon_projectile",,,,,,,,,,,,,"true",,,"skeletondragon_hit",,,63,,,,800,,"true","true","true",,,250,,,,,,,,,,,"Skeletondragon_emitter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"MegaMortarProjectile","Common",300,"sc/effects.sc","catapult_projectile1",,"projectile_arrow_shadow",,,,,,,,,,,,,,"mortar_hit",,,208,,,,2000,,,"true","true",,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

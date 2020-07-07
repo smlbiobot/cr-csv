@@ -39,3 +39,5 @@
 "BattleHealerSelf","Rare",,,,,,,,500,,16,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,,,,"healer_heal_effect",,,,,,,,,,,,,,,,,,
 "Rage7","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "BattleHealerAll","Rare",,,,,,,,250,,48,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,
+"SuperRage","Epic","TID_SPELL_RAGE",,,,,,,,,,170,170,170,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",170,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"HealModeHeal","Rare",,,,,,,,1000,,20,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
