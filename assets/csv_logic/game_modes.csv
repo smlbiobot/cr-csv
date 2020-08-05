@@ -93,8 +93,8 @@
 "Event_NewArena11","TID_CHALLENGE_NEWARENA11","Friendly",,"EventDeck","Default",,,,,,,,"PvP","Event_NewUnlockA11",,,,,,,,,,,,,"icon_mode_retro","Arena_Electric",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true"
 "Rage_Tournament","TID_GAMEMODE_RAGE","Tournament",,"Collection","RageMode",,,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_rage","Arena5",,,,"RageModeRage","Rage_mode",,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true"
 "ClassicDecks_Friendly","TID_POPULAR_DECK_BATTLE","Friendly",,"Predefined","Default","Blind_Classic_Golem",,"TRUE",,,,,"PvP",,,,,,,,,,,,,,"icon_mode_popdeck",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_CLASSIC_DECKS","TID_CLAN_WAR_GAME_MODE_INFO_1V1_CLASSIC_DECKS",6000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true","true",,,"true"
-,,,,,,"Blind_Classic_GiantPrince",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"Blind_Classic_LogBait",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"Blind_Classic_GoblinGiant",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"Blind_Classic_RoyalHogs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Blind_Classic_LavaLoon",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Blind_Classic_Pekka",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Blind_Classic_MegaKnight",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -105,7 +105,7 @@
 "Heist_Draft","TID_GAMEMODE_HEIST_DRAFT","Friendly",,"Draft","Default",,,,,,,,"PvP",,,,,,,,,,,,,,"icon_tournament_heist",,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,"true","true",,"true","true"
 "Event_Shocktober","TID_CHALLENGE_SHOCKTOBER","Friendly",,"EventDeck","Default",,,,,,,,"PvP","Event_Shocktober",,,,,,,,,,,,,"icon_mode_1v1","Arena_Electric",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true"
 "HeroChallenge1v1","TID_HERO_CHALLENGE","Tournament",,"Collection","Default",,,,,,"true",,"PvP",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21000,"TRUE",,,,,,,,,,"true"
-"TeamVsTeam_TripleElixir_Ladder","TID_TRIPLE_ELIXIR","Ladder",,"Collection","TeamVsTeam_TripleElixir",,,,,,,,"TvT",,,,,,,,,,,,,,"icon_mode_3x_elixir",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_TRIPLE_ELIXIR","TID_CLAN_WAR_GAME_MODE_INFO_1V1_TRIPLE_ELIXIR",,,,,"ElixerPump",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true","true"
+"TeamVsTeam_TripleElixir_Ladder","TID_GAMEMODE_TRIPLE_ELIXIR_2v2","Ladder",,"Collection","TeamVsTeam_TripleElixir",,,,,,,,"TvT",,,,,,,,,,,,,,"icon_mode_3x_elixir",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_TRIPLE_ELIXIR","TID_CLAN_WAR_GAME_MODE_INFO_1V1_TRIPLE_ELIXIR",,,,,"ElixerPump",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true","true"
 "Heist_Tournament","TID_GAMEMODE_HEIST","Tournament",,"Collection","Default",,,,,,,,"PvP",,,,,,,,,,,,,,"icon_tournament_heist",,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true"
 "SpawnPigsMode_Friendly","TID_GAMEMODE_SPAWN_PIGS_EVENT","Friendly",,"Collection","Default",,,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_1v1",,,"TID_PARTY_MODE_SPAWNPIGS_INFO",,,,,,,,"RoyalHog",12000,2,10000,,,,,,,,,,,,,,,,,,,,,"true",,,"true"
 "ClanWarMiniCollection_Friendly","TID_CLAN_WAR_COLLECTION_MODE","Friendly",,"EventDeck","Default",,,,,,,,"PvP",,"TRUE",,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,"MiniCollect_WinCon","MiniCollect_AntiSet_Expensive",,,,,,,,,,,,"true",,,,"true"
@@ -316,3 +316,8 @@
 "GIANT_Rage_Buff_Tournament","TID_GAMEMODE_GIANT_RAGE_BUFF","Tournament",,"EventDeck","Default",,,,,,,"Giant","PvP","Event_GIANTBuff",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,"Giant","SuperRage",,,,,,,,,"TRUE",,,,"true"
 "MirrorDeck_Friendly","TID_MIRROR_DECK_CHALLENGE","Friendly",,"Predefined","Default","MirrorDeck","TRUE",,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_mirror",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_MIRROR","TID_CLAN_WAR_GAME_MODE_INFO_1V1_MIRROR",6000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,"true"
 "GlobalHeal_NoBuildings_Tournament","TID_GAMEMODE_HEAL","Tournament",,"EventDeck","TripleElixir",,,,,,,,"PvP","All_but_buildings",,,,,,,,,,,,,"icon_mode_rage",,"TID_CLAN_WAR_GAME_MODE_INFO_1V1_HEAL","TID_CLAN_WAR_GAME_MODE_INFO_1V1_HEAL",,"HealModeHeal","Rage_mode",,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true"
+"Archetype_Beatdown_Tournament","TID_GAMEMODE_BEATDOWN_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,,,"PvP","Archetype_beatdown_wincond",,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true"
+"Archetype_Bridgespam_Tournament","TID_GAMEMODE_BRIDGESPAM_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,,,"PvP","Archetype_bridgespam_wincond",,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true"
+"Archetype_Siege_and_Air_Tournament","TID_GAMEMODE_SIEGEANDAIR_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,,,"PvP","Archetype_siegeandair_wincond",,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true"
+"Archetype_Tower_Damage_Tournament","TID_GAMEMODE_TOWERDAMAGE_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,,,"PvP","Archetype_towerdamage_wincond",,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true"
+"Archetype_High_Damage_Tournament","TID_GAMEMODE_HIGHDAMAGE_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,,,"PvP","Archetype_highdmg_wincond",,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true"

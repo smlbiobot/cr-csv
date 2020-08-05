@@ -1,10 +1,10 @@
 "Name","NumberValue","BooleanValue","TextValue","StringArray","NumberArray"
 "String","int","boolean","string","String","int"
 "CLAN_WARS_ENABLED",,"TRUE",,,
-"SUPPORTED_GAME_MODES",,,,"RampUpElixirSpawnHealSpirits_Ladder",
+"SUPPORTED_GAME_MODES",,,,"RampUpElixirSpawnGhostMode_Ladder",
 ,,,,"ClassicDecks_Friendly",
 ,,,,"Overtime_Ladder",
-,,,,"DraftModeInsane",
+,,,,"DraftMode",
 ,,,,"Draft_Competitive",
 "SHOULD_RANDOMISE_GAME_MODE",,"TRUE",,,
 "DECK_SPELL_SETS_NAME",,,,"Set_CW_damagespellsArena6",
