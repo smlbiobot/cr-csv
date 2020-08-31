@@ -1,0 +1,17 @@
+"Name","3DAssetPath","AssetMode","AnimationPrefix","ChestOpeningContainerName","PopupContainerName","WarLeagueContainerName","WarLeagueInfoContainerName"
+"string","string","string","string","string","string","string","string"
+"Default",,,,,,,
+"Lightning","sc3d/lightning_chest.scw",,"Lightning","lightning_open_container","lightning_popup_container",,
+"FortuneLock","sc3d/fortune_chest.scw",,"Fortune","fortune_open_container","fortune_popup_container",,
+"Fortune","sc3d/fortune_chest.scw",,"Fortune","fortune_open_container","fortune_popup_container",,
+"Kings","sc3d/kings_chest.scw",,"Kings","kings_open_container","kings_popup_container",,
+"LegendaryKings","sc3d/legendkings_chest.scw",,"KingsL","legendkings_open_container","legendkings_popup_container",,
+"Chronos_Boost","sc3d/fortune_chest.scw#2",,"Fortune","fortune_open_container_b","fortune_popup_container_b",,
+"WarSeason1st","sc3d/clan_wars_main.scw","WarRank","WarMain","war_gold_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSeason2nd","sc3d/clan_wars_main.scw","WarRank","WarMain","war_silver_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSeason3rd","sc3d/clan_wars_main.scw","WarRank","WarMain","war_bronze_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSeason","sc3d/clan_wars_rest.scw","WarRank","WarRest","war_rest_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSectionEnd1st","sc3d/clan_wars2_main.scw","WarRank","WarMain","war_gold_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSectionEnd2nd","sc3d/clan_wars2_main.scw","WarRank","WarMain","war_silver_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSectionEnd3rd","sc3d/clan_wars2_main.scw","WarRank","WarMain","war_bronze_open_container",,"war_league_chest_container","war_league_chest_container_info"
+"WarSectionEnd","sc3d/clan_wars2_main.scw","WarRank","WarMain","war_bronze_open_container",,"war_league_chest_container","war_league_chest_container_info"

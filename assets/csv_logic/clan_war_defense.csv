@@ -1,0 +1,3 @@
+"Name","PveWaveData","DefenseTowerCharacter","SupportSlots","BannedSpellsSet","UiSwf","UiRedExportName","UiBlueExportName","DestroyedUiSwf","DestroyedUiRedExportName","DestroyedUiBlueExportName"
+"String","String","String","int","string","string","string","string","string","string","string"
+"Default","Tutorial1","ClanWarsTowerXbow",4,"BannedDefenses","sc/building_clanwars_towers.sc","cw_tower_xbow_red_UI","cw_tower_xbow_blue_UI","sc/building_clanwars_towers.sc","cw_tower_xbow_destroyed_ui","cw_tower_xbow_destroyed_ui"

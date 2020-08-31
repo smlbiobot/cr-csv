@@ -52,3 +52,5 @@
 "StarPoints",,,"FALSE",,"icon_prestige",,,255,240,72,5000000,"star_pile","icon_prestige"
 "SeasonPass",,,"TRUE",,,,,,,,,,
 "BattleRewardBonusCrowns",,,"TRUE",,,,,,,,,,
+"ClanCoins","TID_CLAN_COINS","sc/ui.sc","TRUE",,"icon_quest_point",,,,,,,"star_pile","icon_quest_point"
+"NOTINUSE1",,,FALSE,,,,,,,,,,

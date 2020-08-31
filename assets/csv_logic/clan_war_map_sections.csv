@@ -1,0 +1,5 @@
+"Name","TID","ScFile","ScName","WaterScFile","WaterScName","UpcomingUIScFile","UpcomingUIScName","LimitScoreToSectionLength","UseRiverRaceTrophyChange"
+"string","string","string","string","string","string","string","string","boolean","boolean"
+"RiverRace_1","TID_RIVER_RACE","sc/ui_clan_wars_map_01.sc","clan_war_royale_zone_01","sc/ui_clan_wars_map_water.sc","clan_war_water","sc/ui_clan_wars.sc","overlay_river_locked","TRUE","TRUE"
+"RiverRace_2","TID_RIVER_RACE","sc/ui_clan_wars_map_01.sc","clan_war_royale_zone_02","sc/ui_clan_wars_map_water.sc","clan_war_water","sc/ui_clan_wars.sc","overlay_river_locked","TRUE","TRUE"
+"RiversEnd","TID_RIVERS_END","sc/ui_clan_wars_map_01.sc","clan_war_royale_zone_arena","sc/ui_clan_wars_map_water.sc","clan_war_water","sc/ui_clan_wars.sc","overlay_river_leagues_locked",,

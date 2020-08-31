@@ -64,7 +64,7 @@
 ,"heist_vfx_lightray_01",,
 ,,"x","y"
 ,,"int","int"
-,,17500,-6000
+,,17000,-6000
 ,"heist_clothing_02",,
 ,,"x","y"
 ,,"int","int"
@@ -88,7 +88,7 @@
 ,"electric_vignette_01",,
 ,,"x","y"
 ,,"int","int"
-,,8778,-916
+,,8278,3583
 ,"arrow_deco_01",,
 ,,"x","y"
 ,,"int","int"

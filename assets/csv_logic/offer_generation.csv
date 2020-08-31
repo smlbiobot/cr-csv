@@ -1,0 +1,6 @@
+"Name","IsEnabled","ChooseWeight","OfferType","Amount","CardRarity","NameTID"
+"String","StringArray","StringArray","StringArray","StringArray","StringArray","StringArray"
+"NpcTrade","is_epic_sunday && (owned_epics > 0)","always","Card",10,"Epic","TID_EPIC_SUNDAY_TITLE"
+,"true",13,"Card",250,"Common",
+,"(owned_rares > 0)",13,"Card",50,"Rare",
+,"(trophies >= 2000) && (owned_legendaries > 0)",4,"Card",1,"Legendary",

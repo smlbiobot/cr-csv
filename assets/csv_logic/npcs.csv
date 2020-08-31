@@ -59,3 +59,4 @@
 "Npc4_2","TrainingCamp","BasicDeck5",0,60000,30000,30000,1,"true","TID_NPC_4",,"true",,3,80,"NPC4_Start","NPC4_Tower",,
 "Npc5_2","TrainingCamp","BasicDeck7",0,50000,25000,25000,1,"true","TID_NPC_5",,"true",,5,,"NPC4_Start","NPC4_Tower",,
 "NpcAITest","TrainingCamp","DeckAITest",2900,28000,14000,14000,9,"true","TID_NPC_35",,"true",,,,"NPC4_Start","NPC4_Tower",,
+"BoatAttackNPC","PvP_clanboat_arena",,,,,,1,"true",,,,,,,"NPC4_Start","NPC4_Tower",,
