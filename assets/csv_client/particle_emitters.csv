@@ -1951,3 +1951,8 @@
 "river_firework_lines",2,450,450,1,1,550,600,,,,"true",,,,,,,17,600,600,-1500,,,"sc/effects.sc","sky_ray_loop_001","true",,10,10,,500,250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "river_fireworks_flash",1,,200,,5,200,200,,360,"true",,,,,,,,90,,,,,,"sc/effects.sc","Deco_small_glow",,,200,200,,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "river_fireworks_smoke",3,1,1,,,1000,2000,,,"true",,,,,,66,,97,25,50,,,,"sc/effects.sc","Smoke_puff_03",,"true",150,80,,8000,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"heal_spirit_border_burst",70,300,300,,5,1000,1000,,360,,"true",13,14,,,,,,,,,,,"sc/effects.sc","heal_effect_glow_border",,,90,40,1200,800,,,,,10,,,,,,,,,,,,500,200,469,"sc/effects.sc","reflection_blob",,,,,,,,,,,
+"heal_spirit_border_smoke",70,300,300,,,1000,1000,,360,,"true",13,13,,,,,,,,25,,,"sc/effects.sc","heal_effect_ground",,,15,20,800,800,,,,,11,,,,,,,,,,,,340,66,1159,"sc/effects.sc","reflection_blob",,,,,,,,,,,
+"heal_spirit_burst_cross",8,500,500,1,3,700,800,,360,"true",,1,1,120,150,79,,,,,,,,"sc/effects.sc","heal_effect_cross1",,"true",70,90,,800,180,,,,,,,,,,,,,,,,74,42,1145,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,"sc/effects.sc","heal_effect_cross2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,"sc/effects.sc","heal_effect_cross3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

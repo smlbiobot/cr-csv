@@ -30,7 +30,7 @@
 "DarkElixir","Common",999999,,,,1000,"dark_elixir_continuous",,,,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,
 "ElixirDrop","Common",999999,,,,1000,"elixir_continuous",,,,,,,,300,,,,,"DummyCollisionBoostEpic",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,"TRUE",,
 "GraveyardOrb","Legendary",180000,,,,4000,,,"Spell_graveyard_ground",,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,"Skeleton",500,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,,2000,,,3000,,,"TRUE","TRUE",,,,,,,,,
-"HealSpirit","Rare",1000,,,,4000,,,"Healing_Burst_blue",,,,,,0,,,,,"HealSpiritBuff",1000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
+"HealSpirit","Rare",1000,,,,3500,,,"HealSpirit_burst_blue",,,,,,0,,,,,"HealSpiritBuff",1000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "BattleHealerHeal","Rare",50,,,,4000,,,"Healing_Burst_blue",,,,,,0,,,,,"BattleHealerAll",1000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,
 "NOTINUSE1","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE2","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
