@@ -176,3 +176,7 @@
 "Emote177",97,0,"True","False","sfx/emotes/emotes_cw_golem_boat_dl.ogg","sc/emotes_cw_golem_boat_dl.sc","False","False"
 "Emote178",98,0,"True","False","sfx/emotes/emotes_cw_goblinDance_dl.ogg","sc/emotes_cw_goblinDance_dl.sc","False","False"
 "Emote179",99,0,"True","False","sfx/emotes/emotes_cw_goblinThumb_dl.ogg","sc/emotes_cw_goblinThumb_dl.sc","False","True"
+"Emote180",100,0,"True","False","sfx/emotes/emotes_electroGiant_01_01_dl.ogg","sc/emotes_electroGiant_01_dl.sc","False","True"
+"Emote181",100,1,"True","False","sfx/emotes/emotes_electroGiant_01_02_dl.ogg","sc/emotes_electroGiant_01_dl.sc","False","False"
+"Emote182",100,2,"True","False","sfx/emotes/emotes_electroGiant_01_03_dl.ogg","sc/emotes_electroGiant_01_dl.sc","False","False"
+"Emote183",100,3,"True","False","sfx/emotes/emotes_electroGiant_01_04_dl.ogg","sc/emotes_electroGiant_01_dl.sc","False","False"

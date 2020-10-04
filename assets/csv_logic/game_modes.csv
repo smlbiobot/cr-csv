@@ -339,3 +339,4 @@
 "MortarCapture_Friendly","TID_GAMEMODE_CAPTURE_MORTAR","Friendly",,"Collection","Default",,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,"Mortar_Unowned",22000,,,,,"TRUE",,,"true",,,
 "MortarCapture_Tournament","TID_GAMEMODE_CAPTURE_MORTAR","Tournament",,"Collection","Default",,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_1v1",,,,,,,,,,,,,,,,,,,,,,,,,,,"Mortar_Unowned",22000,,,,"TRUE",,,,"true",,,
 "RampUpElixirFireSpiritsParty_Ladder","TID_GAMEMODE_DELIVERYDROP","Ladder",,"Collection","Spawning",,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_1v1",,"TID_PARTY_MODE_DELIVERYDROP","TID_PARTY_MODE_DELIVERYDROP",,,,,,,,"FireSpirits",5000,2,12000,1000,"true",,,,,,,,,,,,,,,,,,"true",,"true",,,
+"Electro_Spirit_Tournament","TID_ESPIRIT_BUILDADECK","Tournament",,"EventDeck","Default",,,,,,"ElectroSpirit","PvP","Event_ElectroSpiritTease",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,"true",,,
