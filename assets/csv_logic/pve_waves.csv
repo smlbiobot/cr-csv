@@ -69,25 +69,25 @@
 ,,,,"SetWaveVar2",,"true","true","wave_var2 - var3 * defense_card_cost1",,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 1!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true","0",,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$1","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"None",,"true","tower_hp(wave_var3-1) < (wave_var2 - var3 * defense_card_cost2)",,,,,
 ,,,,"SetWaveVar2",,"true","true","wave_var2 - var3 * defense_card_cost2",,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 2!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true","1",,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$2","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"None",,"true","tower_hp(wave_var3-1) < (wave_var2 - var3 * defense_card_cost3)",,,,,
 ,,,,"SetWaveVar2",,"true","true","wave_var2 - var3 * defense_card_cost3",,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 3!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true","2",,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$3","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"None",,"true","tower_hp(wave_var3-1) < (wave_var2 - var3 * defense_card_cost4)",,,,,
 ,,,,"SetWaveVar2",,"true","true","wave_var2 - var3 * defense_card_cost4",,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 4!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true","3",,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$4","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"RestartWave",,"true","true",,,,,
 ,,,,,,,,,,,,
@@ -101,7 +101,7 @@
 ,,,,"None",,"true","tower_hp(wave_var3-1) != wave_var1",,,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 1!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",0,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$1","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"SetDefenseChargeTime",,"true","true","wave_var3-1","var1*defense_card_cost2",,,
 ,,,,"None",,"true","time_in_line >= (var1 * defense_card_cost2)",,,,,
@@ -109,7 +109,7 @@
 ,,,,"None",,"true","tower_hp(wave_var3-1) != wave_var1",,,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 2!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",1,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$2","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"SetDefenseChargeTime",,"true","true","wave_var3-1","var1*defense_card_cost3",,,
 ,,,,"None",,"true","time_in_line >= (var1 * defense_card_cost3)",,,,,
@@ -117,7 +117,7 @@
 ,,,,"None",,"true","tower_hp(wave_var3-1) != wave_var1",,,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 3!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",2,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$3","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"SetDefenseChargeTime",,"true","true","wave_var3-1","var1*defense_card_cost4",,,
 ,,,,"None",,"true","time_in_line >= (var1 * defense_card_cost4)",,,,,
@@ -125,7 +125,7 @@
 ,,,,"None",,"true","tower_hp(wave_var3-1) != wave_var1",,,,,
 ,,,,"Log","TOWER $WAVE_VAR3$ TRIGGERED, UNIT SLOT 4!","true","true",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",3,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$4","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"TriggerDefenseDeploy",,"true","true","wave_var3-1",,,,
 ,,,,"SetDefenseChargeTime",,"true","true","wave_var3-1","var1*defense_card_cost1",,,
 ,,,,"None",,"true","time_in_line >= (var1 * defense_card_cost1)",,,,,
@@ -135,16 +135,16 @@
 ,,,,,,,,,,,,
 "MainClanBoatAttackBrokenTower","false","false","Sequential","None",,"true","time_in_line >= (var2 * defense_card_cost1)",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",0,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$1","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"None",,"true","time_in_line >= (var2 * defense_card_cost2)",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",1,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$2","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"None",,"true","time_in_line >= (var2 * defense_card_cost3)",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",2,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$3","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"None",,"true","time_in_line >= (var2 * defense_card_cost4)",,,,,
 ,,,,"SetDefenseCardIndex",,"true","true",3,,,,
-,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$4","true","true",,,,,
+,,,,"SpawnWaveChild","Tower$WAVE_VAR3$Spawn$CURRENT_CARD_PVE_TYPE$","true","true",,,,,
 ,,,,"RestartWave",,"true","true",,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
@@ -166,76 +166,6 @@
 "Tower3SpawnAttacker","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,1500,3500,0,"current_card_level"
 "Tower3SpawnSpell","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,9000,0,"current_card_level"
 "Tower3SpawnRange","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,2500,0,"current_card_level"
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-"Tower1SpawnUnknown1","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level1"
-"Tower1SpawnDefender1","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level1"
-"Tower1SpawnAttacker1","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,18000,3500,0,"defense_card_level1"
-"Tower1SpawnSpell1","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,9000,0,"defense_card_level1"
-"Tower1SpawnRange1","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,2500,0,"defense_card_level1"
-"Tower2SpawnUnknown1","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level1"
-"Tower2SpawnDefender1","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level1"
-"Tower2SpawnAttacker1","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level1"
-"Tower2SpawnSpell1","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,9000,0,"defense_card_level1"
-"Tower2SpawnRange1","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,4500,0,"defense_card_level1"
-"Tower3SpawnUnknown1","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level1"
-"Tower3SpawnDefender1","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level1"
-"Tower3SpawnAttacker1","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,1500,3500,0,"defense_card_level1"
-"Tower3SpawnSpell1","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,9000,0,"defense_card_level1"
-"Tower3SpawnRange1","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,2500,0,"defense_card_level1"
-,,,,,,,,,,,,
-"Tower1SpawnUnknown2","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level2"
-"Tower1SpawnDefender2","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level2"
-"Tower1SpawnAttacker2","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,18000,3500,0,"defense_card_level2"
-"Tower1SpawnSpell2","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,9000,0,"defense_card_level2"
-"Tower1SpawnRange2","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,2500,0,"defense_card_level2"
-"Tower2SpawnUnknown2","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level2"
-"Tower2SpawnDefender2","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level2"
-"Tower2SpawnAttacker2","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level2"
-"Tower2SpawnSpell2","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,9000,0,"defense_card_level2"
-"Tower2SpawnRange2","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,4500,0,"defense_card_level2"
-"Tower3SpawnUnknown2","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level2"
-"Tower3SpawnDefender2","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level2"
-"Tower3SpawnAttacker2","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,1500,3500,0,"defense_card_level2"
-"Tower3SpawnSpell2","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,9000,0,"defense_card_level2"
-"Tower3SpawnRange2","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,2500,0,"defense_card_level2"
-,,,,,,,,,,,,
-"Tower1SpawnUnknown3","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level3"
-"Tower1SpawnDefender3","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level3"
-"Tower1SpawnAttacker3","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,18000,3500,0,"defense_card_level3"
-"Tower1SpawnSpell3","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,9000,0,"defense_card_level3"
-"Tower1SpawnRange3","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,2500,0,"defense_card_level3"
-"Tower2SpawnUnknown3","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level3"
-"Tower2SpawnDefender3","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level3"
-"Tower2SpawnAttacker3","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level3"
-"Tower2SpawnSpell3","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,9000,0,"defense_card_level3"
-"Tower2SpawnRange3","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,4500,0,"defense_card_level3"
-"Tower3SpawnUnknown3","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level3"
-"Tower3SpawnDefender3","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level3"
-"Tower3SpawnAttacker3","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,1500,3500,0,"defense_card_level3"
-"Tower3SpawnSpell3","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,9000,0,"defense_card_level3"
-"Tower3SpawnRange3","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,2500,0,"defense_card_level3"
-,,,,,,,,,,,,
-"Tower1SpawnUnknown4","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level4"
-"Tower1SpawnDefender4","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,12000,0,"defense_card_level4"
-"Tower1SpawnAttacker4","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,18000,3500,0,"defense_card_level4"
-"Tower1SpawnSpell4","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,9000,0,"defense_card_level4"
-"Tower1SpawnRange4","false","false","Sequential","SpawnFromTower1","$CURRENT_CARD$","true","true",1,3500,2500,0,"defense_card_level4"
-"Tower2SpawnUnknown4","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level4"
-"Tower2SpawnDefender4","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level4"
-"Tower2SpawnAttacker4","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,12000,0,"defense_card_level4"
-"Tower2SpawnSpell4","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,9000,0,"defense_card_level4"
-"Tower2SpawnRange4","false","false","Sequential","SpawnFromTower2","$CURRENT_CARD$","true","true",1,9000,4500,0,"defense_card_level4"
-"Tower3SpawnUnknown4","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level4"
-"Tower3SpawnDefender4","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,12000,0,"defense_card_level4"
-"Tower3SpawnAttacker4","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,1500,3500,0,"defense_card_level4"
-"Tower3SpawnSpell4","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,9000,0,"defense_card_level4"
-"Tower3SpawnRange4","false","false","Sequential","SpawnFromTower3","$CURRENT_CARD$","true","true",1,15000,2500,0,"defense_card_level4"
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,

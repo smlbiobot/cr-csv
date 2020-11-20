@@ -3154,3 +3154,8 @@
 ,,,,,,,,"ParticleEmitter",,,"ghost_tower_princess_destr_ground",,"Base",,,,,,,,,,,,,
 ,,,,,,,,"ParticleEmitter",,,"ghost_king_tower_die_splash",,"Object",,,,,,,,,,,,,
 ,,,,,,,,"ParticleEmitter",,,"ghost_tomb_tower_coins_particle",,"Object",,,,,,,,,,,,,
+"electro_giant_beam",,"true",,,,,"sound_electro_wizard_beam","SWF","sc/effects.sc","electro_wiz_beam",,,"Above",,,,,80,,,,,,,,
+"electro_giant_beam_hit",,,,,,,"sound_electro_wizard_hit","ParticleEmitter",,,,,"Ground",100,,,,,,,,,,,,
+,,,,,-100,,,"ParticleEmitter",,,"electro_wizard_hit_burst",,"Object",,,,,,,,,,,,,
+,,,,,,,,"ParticleEmitter",,,"electro_wizard_hit_puff",,"Above",,,,,,,,,,,,,
+,,,,,100,,,"ParticleEmitter",,,"electro_wizard_electric_hit",,"Above",,,,,,,,,,,,,
