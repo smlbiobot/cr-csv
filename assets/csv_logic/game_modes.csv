@@ -98,6 +98,8 @@
 ,,,,,,"Blind_Classic_LavaLoon",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Blind_Classic_Pekka",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Blind_Classic_MegaKnight",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"Blind_Classic_RGFishHunter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"Blind_Classic_LogBait",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "TeamVsTeam_Rage_Ladder","TID_GAMEMODE_RAGE_2v2","Ladder",,"Collection","RageMode",,,,,,,"TvT",,,,,,,,,,,,,,"icon_mode_rage","Arena5","TID_CLAN_WAR_GAME_MODE_INFO_1V1_RAGE","TID_CLAN_WAR_GAME_MODE_INFO_1V1_RAGE",,"RageModeRage","Rage_mode",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true","true",,,
 "ThreeVsThree","TID_GAMEMODE_3V3","Friendly",,"Collection","Default",,,,,,,"3v3",,,,,,,,,,,,,,"icon_mode_2v2",,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,
 "ThreeVsThreeHeist","TID_GAMEMODE_3V3_HEIST","Friendly",,"Collection","Default",,,,,,,"3v3",,,,,,,,,,,,,,"icon_mode_2v2",,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,
@@ -349,3 +351,4 @@
 ,,,,,,"Fantasy_2020_Queso",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Fantasy_2020_Pain",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Fantasy_2020_Tribe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"RampUpElixirSpawnPigsMode_WithMotherWitch_Tournament","TID_GAMEMODE_SPAWN_PIGS_EVENT","Tournament",,"EventDeck","Spawning",,,,,,"WitchMother","PvP","Event_ElectroSpiritTease",,,,,,,,,,,,,"icon_mode_1v1",,,"TID_PARTY_MODE_SPAWNPIGS_INFO",,,,,,,,"RoyalHog",12000,1,13500,,,,,,,,,,,,,,,,,,"true",,,,"true",,,

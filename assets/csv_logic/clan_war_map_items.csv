@@ -23,3 +23,16 @@
 "BattleRage","TID_GAMEMODE_RAGE","Rage_Ladder","PvP_spell",,,"PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
 "BattleHeist","TID_GAMEMODE_HEIST","Heist_Ladder","PvP_heist_arena",,,"PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
 "Battle7xElixir","TID_CHALLENGE_LEGENDARAY","7xElixir_Ladder","PvP_builder",,,"PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
+"Trader_Winter",,,,,,,"Trader","sc/ui_clan_wars_map_02_dl.sc","cw_node_trader","sc/ui.sc","icon_mode_cw_trader",
+"RepairTask_Winter","TID_WAR_MAP_ITEM_REPAIR_TASK",,,,,"Task","RepairTask","sc/ui_clan_wars_map_02_dl.sc","cw_node_builder","sc/ui.sc","icon_mode_cw_repair","TID_CW_TASK_DESCRIPTION"
+"Battle_Winter","TID_WAR_MAP_ITEM_BATTLE","CW_Battle_1v1","PvP_ice",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_pve",,,
+"Duel_Winter","TID_WAR_MAP_ITEM_DUEL","CW_Duel_1v1","PvP_holiday_arena_2",,,"BO3",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_pvp",,,
+"LeagueBattle_Winter","TID_WAR_MAP_ITEM_DUEL_COLOSSEUM","CW_Duel_1v1","PvP_giant_arena",,,"LeagueBattle","LeagueBattle","sc/ui_clan_wars_map_02_dl.sc","cw_node_arena","sc/ui.sc","icon_mode_cw_colosseum_duel","TID_COLOSSEUM_DUEL_POPUP_INFO"
+"LeagueRules_Winter",,,,,,,"LeagueInfo","sc/ui_clan_wars_map_02_dl.sc","cw_node_league_hut","sc/ui.sc","icon_mode_cw_repair",
+"BattleSuddenDeath_Winter","TID_GAMEMODE_OVERTIME","Overtime_Ladder","PvP_dark",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleTripleElixir_Winter","TID_TRIPLE_ELIXIR","TripleElixir_Ladder","PvP_spell",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleDoubleElixir_Winter","TID_DOUBLE_ELIXIR_CHALLENGE","DoubleElixir_Ladder","PvP_jungle",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleRampUp_Winter","TID_RAMP_UP_ELIXIR","RampUpElixir_Ladder","PvP_ice",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleRage_Winter","TID_GAMEMODE_RAGE","Rage_Ladder","PvP_spell",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleHeist_Winter","TID_GAMEMODE_HEIST","Heist_Ladder","PvP_heist_arena",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"Battle7xElixir_Winter","TID_CHALLENGE_LEGENDARAY","7xElixir_Ladder","PvP_builder",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,

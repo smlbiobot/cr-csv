@@ -184,3 +184,8 @@
 "Emote185",102,0,"True","False","sfx/emotes/emotes_megaKnight_01_01_dl.ogg","sc/emotes_megaKnight_01_dl.sc","False","False"
 "Emote186",102,1,"True","False","sfx/emotes/emotes_megaKnight_01_02_dl.ogg","sc/emotes_megaKnight_01_dl.sc","False","False"
 "Emote187",102,2,"True","False","sfx/emotes/emotes_megaKnight_01_03_dl.ogg","sc/emotes_megaKnight_01_dl.sc","False","True"
+"Emote188",103,0,"True","False","sfx/emotes/emotes_logmas2020_01_dl.ogg","sc/emotes_logmas2020_01_dl.sc","False","True"
+"Emote189",104,0,"True","False","sfx/emotes/emotes_logmas2020_02_01_dl.ogg","sc/emotes_logmas2020_02_dl.sc","False","False"
+"Emote190",104,1,"True","False","sfx/emotes/emotes_logmas2020_02_02_dl.ogg","sc/emotes_logmas2020_02_dl.sc","False","True"
+"Emote191",105,0,"True","False","sfx/emotes/emotes_logmas2020_03_dl.ogg","sc/emotes_logmas2020_03_dl.sc","False","False"
+"Emote192",106,0,"True","False","sfx/emotes/emotes_logmas2020_04_dl.ogg","sc/emotes_logmas2020_04_dl.sc","False","False"
