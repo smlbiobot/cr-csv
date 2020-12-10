@@ -352,3 +352,4 @@
 ,,,,,,"Fantasy_2020_Pain",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,"Fantasy_2020_Tribe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "RampUpElixirSpawnPigsMode_WithMotherWitch_Tournament","TID_GAMEMODE_SPAWN_PIGS_EVENT","Tournament",,"EventDeck","Spawning",,,,,,"WitchMother","PvP","Event_ElectroSpiritTease",,,,,,,,,,,,,"icon_mode_1v1",,,"TID_PARTY_MODE_SPAWNPIGS_INFO",,,,,,,,"RoyalHog",12000,1,13500,,,,,,,,,,,,,,,,,,"true",,,,"true",,,
+"PEKKA_Invis_Buff_Tournament","TID_GAMEMODE_PEKKA_INVIS_BUFF","Tournament",,"EventDeck","Default",,,,,,"Pekka","PvP","Event_ElectroSpiritTease",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,,"Pekka","Invisibility",,,,,,"TRUE",,,,"true",,,
