@@ -36,3 +36,5 @@
 "BattleRage_Winter","TID_GAMEMODE_RAGE","Rage_Ladder","PvP_spell",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
 "BattleHeist_Winter","TID_GAMEMODE_HEIST","Heist_Ladder","PvP_heist_arena",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
 "Battle7xElixir_Winter","TID_CHALLENGE_LEGENDARAY","7xElixir_Ladder","PvP_builder",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
+"BattleElixirCapture","TID_CAPTURE_THE_ELIXIR_STORAGE_MODE","ElixirCollectorCapture_Ladder","PvP_goblin",,,"PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
+"BattleElixirCapture_Winter","TID_CAPTURE_THE_ELIXIR_STORAGE_MODE","ElixirCollectorCapture_Ladder","PvP_goblin",,,"PVP",,"sc/ui_clan_wars_map_02_dl.sc","cw_node_game_modes",,,
