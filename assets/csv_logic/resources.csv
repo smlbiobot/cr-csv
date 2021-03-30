@@ -31,7 +31,7 @@
 "ClanStarCount",,,"TRUE",,,,,,,,,,
 "LastBattleGameMode",,,"TRUE",,,,,,,,,,
 "CurrentKingSkin",,,"TRUE",,,,,,,,,,
-"QuestPoints","TID_QUEST_POINTS","sc/ui.sc","FALSE",,"icon_quest_point",,,255,255,255,,,
+"QuestPoints",,,"FALSE",,,,,,,,,,
 "CurrentPrincessSkin",,,"TRUE",,,,,,,,,,
 "BattleRewardBonusGold",,,"TRUE",,,,,,,,,,
 "BattleRewardBonusGems",,,"TRUE",,,,,,,,,,
@@ -43,7 +43,7 @@
 "ClanWarWarBattlesWon",,,"FALSE",,,,,,,,,,
 "LastBattleGameType",,,"TRUE",,,,,,,,,,
 "KingPrestigeLevel",,,"TRUE",,,,,,,,,,
-"CurrentTowerSkinSet",,,"TRUE",,,,,,,,,,
+"NOTINUSE2",,,"TRUE",,,,,,,,,,
 "LadderTournamentBestRank",,,"FALSE",,,,,,,,,,
 "LadderTournamentBestWins",,,"FALSE",,,,,,,,,,
 "LastBattleSurvivalTag",,,"TRUE",,,,,,,,,,
@@ -52,5 +52,5 @@
 "StarPoints",,,"FALSE",,"icon_prestige",,,255,240,72,5000000,"star_pile","icon_prestige"
 "SeasonPass",,,"TRUE",,,,,,,,,,
 "BattleRewardBonusCrowns",,,"TRUE",,,,,,,,,,
-"ClanCoins","TID_CLAN_COINS","sc/ui.sc","TRUE",,"icon_quest_point",,,,,,,"star_pile","icon_quest_point"
-"NOTINUSE1",,,FALSE,,,,,,,,,,
+"ClanCoins","TID_CLAN_COINS",,"TRUE",,,,,,,,,,
+"NOTINUSE1",,,"FALSE",,,,,,,,,,

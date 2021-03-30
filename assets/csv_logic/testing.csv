@@ -1,3 +1,5 @@
-"Name","IsEnabled","TestType"
-"String","Boolean","String"
-"BoatBattles","true","PveBoatDefense"
+"Name","IsEnabled","TestType","Flags","AlwaysSpells"
+"String","Boolean","String","String","StringArray"
+"Normal","true","NormalBattle",,
+"BoatBattles","false","PveBoatDefense",,
+"NewCard","false","NormalBattle",,"ElectroGiant"
