@@ -202,3 +202,5 @@
 "Emote203",114,0,"True","False","sfx/emotes/emotes_sparky_surprise_dl.ogg","sc/emotes_sparky_surprise_dl.sc","False","True"
 "Emote204",115,0,"True","False","sfx/emotes/emotes_king_book_dl.ogg","sc/emotes_king_book_dl.sc","False","False"
 "Emote205",116,0,"True","False","sfx/emotes/emotes_pekka_blossom_dl.ogg","sc/emotes_pekka_blossom_dl.sc","False","True"
+"Emote206",117,0,"True","False","sfx/emotes/emotes_mortar_01_01_dl.ogg","sc/emotes_mortar_01_dl.sc","False","False"
+"Emote207",117,1,"True","False","sfx/emotes/emotes_mortar_01_02_dl.ogg","sc/emotes_mortar_01_dl.sc","False","True"
