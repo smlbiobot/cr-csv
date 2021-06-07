@@ -1,4 +1,5 @@
-"SC","Id"
-"String","Int"
-"towerskin_season_01_dl.sc",1
-"towerskin_season_02_dl.sc",2
+"SC","Id","KingDeathEffect","PrincessDeathFx"
+"String","Int","String","String"
+"towerskin_season_01_dl.sc",1,"",""
+"towerskin_season_02_dl.sc",2,"",""
+"towerskin_season_101_dl.sc",1000,"Default_King_Tower_Die","Default_Princess_Tower_Die"

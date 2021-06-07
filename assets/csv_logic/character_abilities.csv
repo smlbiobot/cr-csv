@@ -1,0 +1,4 @@
+"Name","TID","IconFileName","IconExportName","ManaCost","Cooldown","Buff","BuffTime","AreaEffectObject"
+"String","String","String","String","int","int","String","int","String"
+"NOTINUSE1",,,,,,,,
+"NOTINUSE2",,,,,,,,
