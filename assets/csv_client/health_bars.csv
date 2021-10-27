@@ -11,3 +11,4 @@
 "Hero","sc/ui.sc","hp_player_hero","hp_enemy_hero","hp_player_hero_number","hp_enemy_hero_number",100,,"true",0,0,,,
 "Summoner3","sc/ui.sc","hp_player_high","hp_enemy_high","hp_player_number","hp_enemy_number",150,,"true",-20,-20,-20,-20,
 "ClanBoatDefense","sc/ui.sc","hp_boat_safe_player","hp_boat_safe","hp_boat_safe","hp_boat_safe",,,"true",,,,,
+"Resurrection","sc/ui.sc","bar_skeleton_king_souls","bar_skeleton_king_souls","hp_shield_player_number","hp_shield_enemy_number",,,,,,,,

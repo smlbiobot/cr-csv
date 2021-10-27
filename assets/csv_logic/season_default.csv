@@ -1,4 +1,4 @@
-"tr","Arena","TrophyRoadSWF","SeasonPassSWF","SeasonPassPro","DisplayName","SeasonNumber","GoldBankCapacity","TrophyRoad","LockForLowLevels"
-"String","string","String","String","string","string","int","int","string","boolean"
-"SeasonDefault","Arena_Legendary","sc/season_0_default.sc","sc/season_0_default.sc","Pro_EarlyStrikes","TID_SEASON_NAME_DEFAULT",1,0,"SeasonDefault","TRUE"
-"SeasonOffline","Arena_Legendary","sc/season_0_default.sc","sc/season_0_default.sc","Pro_Offline","TID_SEASON_NAME_DEFAULT",1,20000,"SeasonDefault","TRUE"
+"tr","Arena","TrophyRoadSWF","SeasonPassSWF","SeasonPassPro","DisplayName","SeasonNumber","GoldBankCapacity","TrophyRoad","LockForLowLevels","SubTitle"
+"String","string","String","String","string","string","int","int","string","boolean","String"
+"SeasonDefault","Arena_Legendary","sc/season_0_default.sc","sc/season_0_default.sc","Pro_EarlyStrikes","TID_SEASON_NAME_DEFAULT",1,0,"SeasonDefault","TRUE",
+"SeasonOffline","Arena_Legendary","sc/season_0_default.sc","sc/season_0_default.sc","Pro_Offline","TID_SEASON_NAME_DEFAULT",1,20000,"SeasonDefault","TRUE",

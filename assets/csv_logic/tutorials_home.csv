@@ -59,3 +59,8 @@
 ,,,,"TID_TUTORIAL_CW2_OLD_PLAYERS_BOAT_BATTLES_2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "CW2OldPlr_FinalSegmentIntro","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_CW2_OLD_PLAYERS_COLOSSEUM_1",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,"TID_TUTORIAL_CW2_OLD_PLAYERS_COLOSSEUM_2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"StarLevels_CardPopupIntro","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_PRESTIGE_CARD_POPUP",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champions_CardPageIntro","TrainingCamp","Npc5_2","TRUE","TID_TUTORIAL_CHAMPIONS_INTRO1",,,,,"sc/tutorial.sc",4,"tutorial_character1_left","bubble_tutorial_anim","sound_tutorial_first_vo",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"TID_TUTORIAL_CHAMPIONS_INTRO2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"TID_TUTORIAL_CHAMPIONS_INTRO3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"TID_TUTORIAL_CHAMPIONS_INTRO4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
