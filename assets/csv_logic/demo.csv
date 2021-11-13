@@ -722,6 +722,9 @@
 "ArcherQueen","Normal",,1000,500,"SpawnEnemy",2000,15000,"Pekka"
 ,,,,4500,"Spawn",8000,19000,"ArcherQueen"
 ,,,,7500,"UseAbility",,,
+,,,,10900,"CameraMode",,,"Fixed"
+,,,,10900,"CameraOffset",6000,20000,
+,,,,11000,"Spawn",6000,20000,"Log"
 ,,,,15000,"Reset",,,
 ,,,,16000,"KingCrying",,,
 ,,,,16000,"Spawn",1000,23000,"ArcherQueen"
