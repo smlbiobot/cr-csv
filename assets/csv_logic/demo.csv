@@ -156,6 +156,7 @@
 ,,,,14000,"Reset",,,
 "Tombstone","Normal",,2500,500,"SpawnEnemy",3500,14000,"Wallbreakers"
 ,,,,500,"Spawn",6000,22000,"Tombstone"
+,,,,9500,"Reset",,,
 ,,,,10000,"SpawnEnemy",3500,14000,"Prince"
 ,,,,12000,"Spawn",7000,22000,"Tombstone"
 ,,,,26500,"Reset",,,
@@ -263,8 +264,8 @@
 ,,,,6000,"SpawnEnemy",3500,8000,"SkeletonArmy"
 ,,,,7000,"Spawn",3500,8000,"Lightning"
 ,,,,10000,"Reset",,,
-"Miner","Normal",3500,1000,500,"SpawnEnemy",1000,1000,"FirespiritHut"
-,,,,2000,"Spawn",2000,1000,"Miner"
+"Miner","Normal",3500,1000,500,"SpawnEnemy",1000,1000,"Elixir Collector"
+,,,,1000,"Spawn",2000,1000,"Miner"
 ,,,,12500,"SpawnEnemy",1000,4000,"Bomber"
 ,,,,12700,"Spawn",1000,7500,"Miner"
 ,,,,20000,"Reset",,,
@@ -299,12 +300,12 @@
 ,,,,17000,"KingCrying",,,
 ,,,,18000,"SpawnEnemy",2000,14000,"RageBarbarian"
 ,,,,21500,"Reset",,,
-"FirespiritHut","Normal",2000,-3000,500,"Spawn",3500,17000,"Minions"
+"FirespiritHut","Fixed",5000,10000,500,"Spawn",3500,17000,"Minions"
 ,,,,2500,"SpawnEnemy",7000,10000,"FirespiritHut"
-,,,,7000,"CameraOffset",-2000,2000,
 ,,,,7500,"Spawn",3500,17000,"Goblins"
-,,,,11000,"CameraOffset",,-4000,
-,,,,11500,"KingCrying",,,
+,,,,11500,"Reset",,,
+,,,,11600,"SpawnEnemy",7000,10000,"FirespiritHut"
+,,,,12000,"KingCrying",,,
 ,,,,12000,"Spawn",6000,8000,"Earthquake"
 ,,,,16000,"Reset",,,
 "Tornado","Normal",1500,2500,500,"SpawnEnemy",3500,14000,"HogRider"
@@ -498,13 +499,16 @@
 ,,,,4500,"SpawnEnemy",3500,14000,"MinionHorde"
 ,,,,8000,"Spawn",6000,20000,"IceGolemite"
 ,,,,14000,"Reset",,,
-,,,,14000,"KingCrying",,,
-,,,,14250,"Spawn",3500,17000,"IceWizard"
-,,,,18000,"SpawnEnemy",1500,11000,"MiniPekka"
+,,,,14000,"SpawnEnemy",3500,14000,"Bats"
+,,,,16500,"Spawn",3500,17000,"IceWizard"
 ,,,,22000,"Reset",,,
+,,,,22200,"KingCrying",,,
+,,,,22450,"Spawn",3500,17000,"IceWizard"
+,,,,25500,"SpawnEnemy",1500,11000,"MiniPekka"
+,,,,31000,"Reset",,,
 "RageBarbarian","Normal",2000,-2000,500,"Spawn",3500,19000,"RageBarbarian"
 ,,,,500,"SpawnEnemy",3500,14000,"Giant"
-,,,,12000,"SpawnEnemy",6000,9000,"GoblinGang"
+,,,,12200,"SpawnEnemy",6000,9000,"GoblinGang"
 ,,,,14000,"Spawn",3500,17000,"Balloon"
 ,,,,14000,"CameraOffset",1500,-3000,
 ,,,,32000,"Reset",,,
@@ -746,6 +750,6 @@
 ,,,,8500,"Spawn",3000,27000,"GoldenKnight"
 ,,,,10000,"UseAbility",,,
 ,,,,12000,"KingCrying",,,
-,,,,14000,"SpawnEnemy",6000,13500,"Knight"
-,,,,15000,"SpawnEnemy",6000,11000,"Archer"
+,,,,14500,"SpawnEnemy",6000,13500,"Knight"
+,,,,15500,"SpawnEnemy",6000,11000,"Archer"
 ,,,,21000,"Reset",,,

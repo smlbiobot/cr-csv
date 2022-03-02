@@ -12,10 +12,10 @@
 "Invisibility","Legendary",,,,,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,"ghost_aura",,,,,,,,,,,,,,,,,,,,,,,,,,
 "RageModeRage","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage_mode",,,,"Healing",125,,,,,,,,,"TRUE",,,"Spell_rage_mode_continuous",,,,,,,,,,,,,,,,,,,,,,,,,,
 "PoisonModePoison","Epic","TID_SPELL_POISON",,,"TRUE",,-70,50,2000,,,,,,,,,,,,"PoisonSteam","sc/effects.sc","filter_poison",,,,,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"NOTINUSE19","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"IceWizardCold","Common","TID_SPELL_ICEWIZARD_SLOW",,,,,,,,,,-35,-35,-35,,,,,,,,"sc/effects.sc","filter_cold",,,,"Healing",75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Earthquake","Rare",,,,,350,-15,39,1000,,,,-50,,,,,,,,"PoisonSteam","sc/effects.sc","filter_earthquake",,,,,-33,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,"true",,,,,,,,,,
 "NOTINUSE20","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"BolaSnare","Legendary","TID_SPELL_ATTRIBUTE_SNARE",,,,,,,,,,,-85,-85,,,,,,,,"sc/effects.sc","filter_trap_hit",,,,"Healing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BolaSnare","Legendary","TID_SPELL_ATTRIBUTE_SNARE",,,,,,,,,,,-85,,,,,,,,,"sc/effects.sc","filter_trap_hit",,,,"Healing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE18","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "GoldenKnightCharge","Champion",,,,,,,,,,,,200,,,,,,,,,,,,,,,,,,,,,,,,,,,"golden_knight_run",,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE"
 "NOTINUSE4","Experimental",,,,,,,,500,,50,,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34,7 +34,7 @@
 "NOTINUSE14","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE15","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE16","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"ArcherQueenRapid","Champion",,,,,,,,,,,300,,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,"archer_queen_ghost_aura",,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE"
+"ArcherQueenRapid","Champion",,,,,,,,,,,300,-25,,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,"archer_queen_ghost_aura",,,,,,,,,,,,,,,,,,,,,,,,,,"TRUE"
 "NOTINUSE17","Epic","TID_SPELL_RAGE",,,,,,,,,,135,135,135,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,"Healing",125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "BattleHealerSelf","Rare",,,,,,,,500,,16,,,,,,,,,,,"sc/effects.sc","filter_heal",,,,,,,,,,,,,,,,,"healer_heal_effect",,,,,,,,,,,,,,,,,,,,,,,,,,
 "VoodooCurse","Legendary",,,,,,,,,,,,,,,,,,,,,"sc/effects.sc","filter_mw_curse",,,,,,,,,,,,,,"TRUE",,,"motherwitch_curse_cont_effect",,,,,,,,,,,,,,,,,,"VoodooHog","true",1,"true","true",,,,

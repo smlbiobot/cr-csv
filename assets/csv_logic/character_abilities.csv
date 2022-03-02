@@ -8,6 +8,6 @@
 "NOTINUSE5",,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE6",,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NOTINUSE7",,,,,,,,,,,,,,,,,,,,,,,,,,,
-"GoldenKnightChain","TID_ABILITY_NAME_GOLDEN_KNIGHT_CHAIN_ATTACK","TID_ABILITY_DESCRIPTION_GOLDEN_KNIGHT","sc/ui_spells.sc","icon_ability_golden_knight",766,200,1,8000,"GoldenKnightCharge",,,,,,,,,,,,,,6000,,,"ability_charging_golden_knight","champion_select_ring_rampup_golden_knight"
+"GoldenKnightChain","TID_ABILITY_NAME_GOLDEN_KNIGHT_CHAIN_ATTACK","TID_ABILITY_DESCRIPTION_GOLDEN_KNIGHT","sc/ui_spells.sc","icon_ability_golden_knight",766,200,1,11000,"GoldenKnightCharge",,,,,,,,,,,,,,5000,,,"ability_charging_golden_knight","champion_select_ring_rampup_golden_knight"
 "ArcherQueenRapid","TID_ABILITY_NAME_ARCHER_QUEEN_INVISIBILITY_RUSH","TID_ABILITY_DESCRIPTION_ARCHER_QUEEN","sc/ui_spells.sc","icon_ability_archer_queen",933,200,1,15000,,"ArcherQueenRapid",3000,,,,,,,,,,,,,,,"ability_charging_archer_queen","champion_select_ring_rampup_archer_queen"
 "NOTINUSE8",,,,,,,,,,,,,,,,,,,,,,,,,,,
