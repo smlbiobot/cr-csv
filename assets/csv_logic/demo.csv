@@ -753,3 +753,12 @@
 ,,,,14500,"SpawnEnemy",6000,13500,"Knight"
 ,,,,15500,"SpawnEnemy",6000,11000,"Archer"
 ,,,,21000,"Reset",,,
+"MightyMiner","Normal",,-1500,500,"SpawnEnemy",3500,15000,"Giant"
+,,,,2500,"Spawn",3500,20000,"MightyMiner"
+,,,,14000,"SpawnEnemy",3500,8000,"Minions"
+,,,,14000,"SpawnEnemy",3500,8000,"SkeletonArmy"
+,,,,15000,"CameraMode",,,"Fixed"
+,,,,15000,"CameraOffset",3500,12000,
+,,,,15000,"UseAbility",,,
+,,,,18500,"CameraOffset",15500,9000,
+,,,,24000,"Reset",,,

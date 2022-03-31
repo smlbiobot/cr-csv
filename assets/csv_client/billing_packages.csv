@@ -46,7 +46,7 @@
 "com.supercell.scroll.consumablestarterpack9","TID_STARTER_PACK_9",,"TRUE","TRUE","TRUE","TRUE",,99,600,,"shop_gems01",143982,39,"GD2017052309500305038302",2101039,21011039,"StarterPackArena1",,,,,,
 "com.supercell.scroll.consumablestarterpack10","TID_STARTER_PACK_10",,"TRUE","TRUE","TRUE","TRUE",,99,600,,"shop_gems01",143983,40,"GD2017052309510405041568",2101040,21011040,"StarterPackArena2",,,,,,
 "com.supercell.scroll.consumablestarterpack11","TID_STARTER_PACK_11",,"TRUE","TRUE","TRUE","TRUE",,999,6800,,"shop_gems01",184929,41,"GD2017120609573312338058",2101041,21011041,"StarterPackArenaE",,,,,,
-"com.supercell.scroll.seasonpass499","TID_SEASON_PASS",,"TRUE","TRUE","TRUE","TRUE",,499,3000,,"shop_gems01",190627,44,"GD2019062515614458591036",2101043,21011043,,,,,,,"SeasonPass"
+"com.supercell.scroll.seasonpass499","TID_SEASON_PASS",,"TRUE","TRUE","TRUE","TRUE",,499,3000,,"shop_gems01",190627,43,"GD2019062515614458591036",2101043,21011043,,,,,,,"SeasonPass"
 "com.supercell.scroll.specialoffertier25","TID_SPECIAL_OFFER_25",,"TRUE","TRUE","TRUE","TRUE",,2499,16300,,"shop_gems01",200000,44,"GD2021110316359226581026",2101044,21011044,,,,"ChronosOffer_25",,,
 "com.supercell.scroll.specialoffertier11","TID_SPECIAL_OFFER_25",,"TRUE","TRUE","TRUE","TRUE",,1099,7300,,"shop_gems01",200001,45,"GD2021110316359224175463",2101045,21011045,,,,"ChronosOffer_11",,,
 "com.supercell.scroll.specialoffertier12","TID_SPECIAL_OFFER_25",,"TRUE","TRUE","TRUE","TRUE",,1199,7800,,"shop_gems01",200002,46,"GD2021110316359225821863",2101046,21011046,,,,"ChronosOffer_12",,,

@@ -1,5 +1,10 @@
-"Name","IsEnabled","TestType","Flags","AlwaysSpells"
-"String","Boolean","String","String","StringArray"
-"Normal","true","NormalBattle",,
-"BoatBattles","false","PveBoatDefense",,
-"NewCard","false","NormalBattle",,"ElectroGiant"
+"Name","IsEnabled","TestType","Flags","AlwaysSpells","GameMode"
+"String","Boolean","String","String","StringArray","String"
+"Normal","true","NormalBattle",,,
+"BoatBattles","false","PveBoatDefense",,,
+"NewCard","false","NormalBattle",,"ElectroGiant",
+"ChampionSK","false","NormalBattle",,"SkeletonKing",
+"ChampionAQ","false","NormalBattle",,"ArcherQueen",
+"ChampionGK","false","NormalBattle",,"GoldenKnight",
+"ChampionMM","false","NormalBattle",,"MightyMiner",
+"GameModeRampUp","true","NormalBattle",,,"RampUpElixirSpawnYetAnotherSkeletons_Tournament"
