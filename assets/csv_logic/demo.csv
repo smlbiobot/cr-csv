@@ -156,10 +156,10 @@
 ,,,,14000,"Reset",,,
 "Tombstone","Normal",,2500,500,"SpawnEnemy",3500,14000,"Wallbreakers"
 ,,,,500,"Spawn",6000,22000,"Tombstone"
-,,,,9500,"Reset",,,
-,,,,10000,"SpawnEnemy",3500,14000,"Prince"
-,,,,12000,"Spawn",7000,22000,"Tombstone"
-,,,,26500,"Reset",,,
+,,,,8500,"Reset",,,
+,,,,9000,"SpawnEnemy",3500,14000,"Prince"
+,,,,11000,"Spawn",7000,22000,"Tombstone"
+,,,,25500,"Reset",,,
 "Witch","Normal",,-3000,500,"Spawn",7000,23000,"Witch"
 ,,,,500,"SpawnEnemy",3500,14000,"Prince"
 ,,,,15000,"CameraMode",,,"Fixed"
@@ -759,6 +759,6 @@
 ,,,,14000,"SpawnEnemy",3500,8000,"SkeletonArmy"
 ,,,,15000,"CameraMode",,,"Fixed"
 ,,,,15000,"CameraOffset",3500,12000,
-,,,,15000,"UseAbility",,,
+,,,,16500,"UseAbility",,,
 ,,,,18500,"CameraOffset",15500,9000,
 ,,,,24000,"Reset",,,
