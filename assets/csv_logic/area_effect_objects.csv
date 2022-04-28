@@ -12,7 +12,7 @@
 "Clone","Epic",1000,,,,3000,,,,,"spell_clone_ground",,,,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,"filter_hologram",,,,,,,,,,"TRUE","TRUE",,,,,"TRUE",,,,,
 "Heal","Rare",2000,,,,4000,,,,,"Healing",,,,,,50,,,,,,,"Heal",500,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,,
 "IceWizardCold","Common",1,,,,2500,,,,"spell_ice_effect",,,,,,,,,,33,,-100,,"IceWizardCold",1000,,,,,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,,
-"NOTINUSE12","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SuperWitchCurse","Legendary",1000,,,,2500,,,,,"HealSpirit_burst_blue",,,,,,0,,,50,,,,"VoodooCurse",5000,,,,1,"TRUE",,"TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,,
 "GoldenKnightShield","Champion",1,,,,4000,,,,,,,,,,,,,,,,,,"ShieldBoost",45000,,,,1,,"TRUE","TRUE",,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,,,,,
 "Earthquake","Rare",3000,,,"TRUE",3500,,,"Spell_earthquake_loop","Spell_earthquake_effect",,,,,,,100,,,,,,,"Earthquake",1000,,,"TRUE",1,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","FALSE",,,,,,,,,,
 "SkeletonKingGraveyard","Champion",10000,,,,4000,,,,,"Spell_skeleton_king_graveyard",,,,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,"SkeletonKingSkeleton",250,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,10,250,,,3000,,,"TRUE","TRUE","TRUE",,,,,,,,,,"TRUE"
