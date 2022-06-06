@@ -396,3 +396,5 @@
 ,,,,,,,,,,,"Miner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "SpawnPoison_Friendly","TID_GAMEMODE_SPAWN_PIGS_EVENT","Friendly",,"Collection","Default",,,,,,,,"PvP",,,,,,,,,,,,,,"icon_mode_1v1",,,"TID_PARTY_MODE_SPAWNPIGS_INFO",,,,,,,,,"Poison","BRIDGES","TRUE",5000,1,10000,,,"TRUE",,,,,,,,,,,,,,,,,,"true",,,,,,,,,,,,,,,,,,,,
 "Event_SuperWitch","TID_EVENTDECK_SUPERWITCH","Friendly",,"EventDeck","Default",,,,,,"SuperWitch","SuperWitch","PvP","Event_AllCards_but_Witch",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true",,,,,,,,,,,,,,,,,,,
+"GIANTSKELE_Rage_Buff_Tournament","TID_GAMEMODE_GIANTSKELE_RAGE_BUFF","Friendly",,"EventDeck","Default",,,,,,"GiantSkeleton","GiantSkeleton","PvP","Event_AllCards",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,,,,,"GiantSkeleton","SuperRage",,,,,,"TRUE",,,,"true",,,,,,,,,,,,,,,,,,,
+"Event_GoblinsVsSkeletons","TID_CHALLENGE_GOBARIAN_REVENGE","Friendly",,"EventDeck","Default",,,,,,,,"PvP","Event_Goblins_Vs_Skeletons",,,,,,,,,,,,,"icon_mode_retro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"true",,,,"true",,,,,,,,,,,,,,,,,,,
