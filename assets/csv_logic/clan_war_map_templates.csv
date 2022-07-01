@@ -368,7 +368,7 @@
 ,,,,"Item",,"RewardEnd","node_reward"
 ,,,,"Item",,"LeagueBattle","node_arena"
 ,,,,"Item",,"LeagueRules","node_04"
-,,,,"Item",,"BattleElixirCapture_Winter","node_06"
+,,,,"Item",,"BattleSuddenDeath","node_06"
 "V2_5Week",10000,604800,0,"Section","V2_RiverRace_1",,
 ,,,,"Item",,"Duel","node_01"
 ,,,,"Item",,"Battle","node_02"
@@ -403,7 +403,7 @@
 ,,,,"Item",,"RewardEnd","node_reward"
 ,,,,"Item",,"LeagueBattle","node_arena"
 ,,,,"Item",,"LeagueRules","node_04"
-,,,,"Item",,"BattleElixirCapture","node_06"
+,,,,"Item",,"Battle7xElixir","node_06"
 "V2_5Week_2",10000,604800,0,"Section","V2_RiverRace_1",,
 ,,,,"Item",,"Duel","node_01"
 ,,,,"Item",,"Battle","node_02"
