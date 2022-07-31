@@ -39,4 +39,4 @@
 "BattleElixirCapture","TID_CAPTURE_THE_ELIXIR_STORAGE_MODE","ElixirCollectorCapture_Ladder","PvP_goblin","PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
 "BattleElixirCapture_Winter","TID_CAPTURE_THE_ELIXIR_STORAGE_MODE","ElixirCollectorCapture_Ladder","PvP_goblin","PVP",,"sc/ui_clan_wars_map_02.sc","cw_node_game_modes",,,
 "Trader_Boat",,,,,"Trader","sc/ui_clan_wars_map_01.sc","cw_node_trader_boat","sc/ui.sc","icon_mode_cw_trader",
-"BattleTouchdown","TID_GAMEMODE_TOUCHDOWN","Touchdown","PvP_touchdown","PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
+"BattleTouchdown","TID_GAMEMODE_TOUCHDOWN","Touchdown_ClanWar","PvP_touchdown","PVP",,"sc/ui_clan_wars_map_01.sc","cw_node_game_modes",,,
