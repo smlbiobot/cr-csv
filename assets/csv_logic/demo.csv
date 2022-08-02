@@ -81,7 +81,7 @@
 ,,,,13500,"Reset",,,
 ,,,,13500,"KingCrying",,,
 ,,,,13750,"Spawn",4000,14000,"Prince"
-,,,,15000,"SpawnEnemy",7000,9000,"Tombstone"
+,,,,15000,"SpawnEnemy",6500,9500,"Tombstone"
 ,,,,29000,"Reset",,,
 "BabyDragon","Normal",,-3000,500,"Spawn",4000,21000,"BabyDragon"
 ,,,,1000,"SpawnEnemy",3500,14000,"Wallbreakers"
@@ -615,7 +615,7 @@
 ,,,,20500,"Reset",,,
 "MiniSparkys","Normal",1000,-2000,500,"Spawn",5000,22000,"MiniSparkys"
 ,,,,500,"SpawnEnemy",3500,14000,"RoyalGiant"
-,,,,15000,"SpawnEnemy",6000,8000,"AxeMan"
+,,,,15000,"SpawnEnemy",6000,7000,"AxeMan"
 ,,,,17000,"KingCrying",,,
 ,,,,19500,"CameraStop",,,
 ,,,,24000,"Reset",,,

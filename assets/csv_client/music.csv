@@ -4,7 +4,7 @@
 ,"music/2min_loop_battle_02.ogg",50,"true",,,
 ,"music/2min_loop_battle_03.ogg",50,"true",,,
 "Lunar_Arena_Battle","music/lunar_arena_2min_01.ogg",50,"true",,,
-"MenuMusic","music/menu_03.ogg",70,,2,30,96
+"MenuMusic_Old","music/menu_03.ogg",70,,2,30,96
 ,"music/wizmen04.ogg",70,,2,30,96
 ,"music/new_menu_01.ogg",70,,2,30,96
 "TrainingArena","music/tutorial_2m_arena_forest_amb_01.ogg",50,"true",,,
@@ -22,7 +22,7 @@
 "Boat_Bonustime_60","music/boat_bonus_60sec_01.ogg",70,,,,
 "Boat_Bonustime_30","music/boat_bonus_30sec_01.ogg",80,,,,
 "Retro_Battle_Music","music/royale_8bit_2min_battle_01.ogg",50,"true",,,
-"MenuMusic_New","music/royale_8bit_menu_01.ogg",65,"true",2,30,96
+"MenuMusic","music/royale_8bit_menu_01.ogg",65,"true",2,30,96
 "Retro_60sec_loop","music/royale_8bit_60sec_music_01.ogg",55,,,,
 "Retro_30sec_loop","music/royale_8bit_30sec_music_01.ogg",60,,,,
 "Retro_Sudden_Death","music/royale_8bit_overtime_01.ogg",65,"true",,,
