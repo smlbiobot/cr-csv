@@ -512,7 +512,7 @@
 ,,,,12200,"SpawnEnemy",6000,9000,"GoblinGang"
 ,,,,14000,"Spawn",3500,17000,"Balloon"
 ,,,,14000,"CameraOffset",1500,-3000,
-,,,,32000,"Reset",,,
+,,,,28000,"Reset",,,
 "GoblinGang","Normal",2000,2000,500,"SpawnEnemy",3500,14000,"Prince"
 ,,,,4500,"Spawn",7500,22000,"GoblinGang"
 ,,,,13500,"Reset",,,
@@ -629,8 +629,9 @@
 ,,,,15000,"Reset",,,
 "ElectroDragon","Normal",,-4000,500,"Spawn",5000,20000,"ElectroDragon"
 ,,,,750,"SpawnEnemy",3500,14000,"GoblinGang"
-,,,,7000,"SpawnEnemy",6000,12000,"InfernoDragon"
+,,,,7000,"SpawnEnemy",6000,13000,"InfernoDragon"
 ,,,,8500,"SpawnEnemy",7000,11000,"Goblins"
+,,,,8500,"Spawn",3500,20000,"Giant"
 ,,,,22000,"Reset",,,
 ,,,,22250,"Spawn",3500,17000,"ElectroDragon"
 ,,,,22250,"KingCrying",,,
