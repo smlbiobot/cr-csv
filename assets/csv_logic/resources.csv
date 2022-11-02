@@ -57,3 +57,7 @@
 "BattleRewardBadgeGlobalId",,,"TRUE",,,,,,,,,,
 "BattleRewardBadge2GlobalId",,,"TRUE",,,,,,,,,,
 "ClanWar2BattlesWon",,,"FALSE",,,,,,,,,,
+"PiggyBankPendingGold",,,"TRUE",,,,,,,,,,
+"PiggyBankPendingGems",,,"TRUE",,,,,,,,,,
+"BestRankedWinCount",,,TRUE,,,,,,,,,,
+"BestRankedScore",,,TRUE,,,,,,,,,,

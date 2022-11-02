@@ -1,6 +1,6 @@
 "Name","NumberValue","BooleanValue","TextValue","StringArray","NumberArray"
 "String","int","boolean","string","String","int"
-"UNLOCK_EXP_LEVEL",6,,,,
+"UNLOCK_EXP_LEVEL",10,,,,
 "WAR_CHEST_RANK_SUFFIXES",,,,"1st",
 ,,,,"2nd",
 ,,,,"3rd",

@@ -22,44 +22,44 @@
 "GoldeKnightFG","TID_BANNER_NAME_FG_BB00068","TID_BANNER_DESC_FG_BB00068","Foreground","TRUE",,"sc/BB00068_full_golden_knight_dl.sc","banner_fg","Season 37_Box1"
 "DefaultWitchBG","TID_BANNER_NAME_BG_BB00088","TID_BANNER_DESC_BG_BB00088","Background","TRUE",,"sc/BB00088_full_default_witch_dl.sc","banner_bg","Season 37_Box1"
 "DefaultWitchFG","TID_BANNER_NAME_FG_BB00088","TID_BANNER_DESC_FG_BB00088","Foreground","TRUE",,"sc/BB00088_full_default_witch_dl.sc","banner_fg","Season 37_Box1"
-"Chronos001",,,"Background",,,,,
-"Chronos002",,,"Foreground",,,,,
-"Chronos003",,,"Background",,,,,
-"Chronos004",,,"Foreground",,,,,
-"Chronos005",,,"Background",,,,,
-"Chronos006",,,"Foreground",,,,,
-"Chronos007",,,"Background",,,,,
-"Chronos008",,,"Foreground",,,,,
-"Chronos009",,,"Background",,,,,
-"Chronos010",,,"Foreground",,,,,
-"Chronos011",,,"Background",,,,,
-"Chronos012",,,"Foreground",,,,,
-"Chronos013",,,"Background",,,,,
-"Chronos014",,,"Foreground",,,,,
-"Chronos015",,,"Background",,,,,
-"Chronos016",,,"Foreground",,,,,
-"Chronos017",,,"Foreground",,,,,
-"Chronos018",,,"Foreground",,,,,
-"Chronos019",,,"Foreground",,,,,
-"Chronos020",,,"Foreground",,,,,
-"Chronos021",,,"Foreground",,,,,
-"Chronos022",,,"Foreground",,,,,
-"Chronos023",,,"Foreground",,,,,
-"Chronos024",,,"Foreground",,,,,
-"Chronos025",,,"Foreground",,,,,
-"Chronos026",,,"Foreground",,,,,
-"Chronos027",,,"Foreground",,,,,
-"Chronos028",,,"Foreground",,,,,
-"Chronos029",,,"Foreground",,,,,
-"Chronos030",,,"Foreground",,,,,
-"Chronos031",,,"Foreground",,,,,
-"Chronos032",,,"Foreground",,,,,
-"Chronos033",,,"Foreground",,,,,
-"Chronos034",,,"Foreground",,,,,
-"Chronos035",,,"Foreground",,,,,
-"Chronos036",,,"Foreground",,,,,
-"Chronos037",,,"Foreground",,,,,
-"Chronos038",,,"Foreground",,,,,
+"Chronos001","TID_BANNER_NAME_BG_BB00101","TID_BANNER_DESC_BG_BB00101","Background","TRUE",,"sc/BB00101_bg_clash_past_barb_dl.sc","banner_bg","Season 38_Box2"
+"Chronos002","TID_BANNER_NAME_FG_BB00101","TID_BANNER_DESC_FG_BB00101","Foreground","TRUE",,"sc/BB00101_fg_clash_past_barb_dl.sc","banner_fg","Season 38_Box2"
+"Chronos003","TID_BANNER_NAME_BG_BB00103","TID_BANNER_DESC_BG_BB00103","Background","TRUE",,"sc/BB00103_bg_default_archer_dl.sc","banner_bg","Season 38_Box2"
+"Chronos004","TID_BANNER_NAME_FG_BB00103","TID_BANNER_DESC_FG_BB00103","Foreground","TRUE",,"sc/BB00103_fg_default_archer_dl.sc","banner_fg","Season 38_Box2"
+"Chronos005","TID_BANNER_NAME_BG_BB00106","TID_BANNER_DESC_BG_BB00106","Background","TRUE",,"sc/BB00105_bg_clash_past_goblin_dl.sc","banner_bg","Season 38_Box2"
+"Chronos006","TID_BANNER_NAME_FG_BB00106","TID_BANNER_DESC_FG_BB00106","Foreground","TRUE",,"sc/BB00105_fg_clash_past_goblin_dl.sc","banner_fg","Season 38_Box2"
+"Chronos007","TID_BANNER_NAME_BG_BB00105","TID_BANNER_DESC_BG_BB00105","Background","TRUE",,"sc/BB00066_bg_king_crown_dl.sc","banner_bg","Season 38_Box2"
+"Chronos008","TID_BANNER_NAME_FG_BB00105","TID_BANNER_DESC_FG_BB00105","Foreground","TRUE",,"sc/BB00066_fg_king_crown_dl.sc","banner_fg","Season 38_Box2"
+"Chronos009","TID_BANNER_NAME_BG_BB00066","TID_BANNER_DESC_BG_BB00066","Background","TRUE",,"sc/BB00062_bg_ice_wizard_skating_dl.sc","banner_bg","Season 38_Box2"
+"Chronos010","TID_BANNER_NAME_FG_BB00066","TID_BANNER_DESC_FG_BB00066","Foreground","TRUE",,"sc/BB00062_fg_ice_wizard_skating_dl.sc","banner_fg","Season 38_Box2"
+"Chronos011","TID_BANNER_NAME_BG_BB00015","TID_BANNER_DESC_BG_BB00015","Background","TRUE",,"sc/BB00017_bg_fisherman_dl.sc","banner_bg","Season 38_Box2"
+"Chronos012","TID_BANNER_NAME_FG_BB00015","TID_BANNER_DESC_FG_BB00015","Foreground","TRUE",,"sc/BB00017_fg_fisherman_dl.sc","banner_fg","Season 38_Box2"
+"Chronos013","TID_BANNER_NAME_BG_BB00017","TID_BANNER_DESC_BG_BB00017","Background","TRUE",,"sc/BB00007_bg_MightyMinerRoyalArena_dl.sc","banner_bg","Season 38_Box2"
+"Chronos014","TID_BANNER_NAME_FG_BB00017","TID_BANNER_DESC_FG_BB00017","Foreground","TRUE",,"sc/BB00007_fg_MightyMinerRoyalArena_dl.sc","banner_fg","Season 38_Box2"
+"Chronos015","TID_BANNER_NAME_BG_BB00007","TID_BANNER_DESC_BG_BB00007","Background","TRUE",,"sc/BB00106_bg_barbarian_pixel3D_dl.sc","banner_bg","Season 38_Box2"
+"Chronos016","TID_BANNER_NAME_FG_BB00007","TID_BANNER_DESC_FG_BB00007","Foreground","TRUE",,"sc/BB00106_fg_barbarian_pixel3D_dl.sc","banner_fg","Season 38_Box2"
+"Chronos017",,,"Background","TRUE",,"sc/EliteBarbarianBeachSoccerBG_dl.sc","banner_bg",
+"Chronos018",,,"Foreground","TRUE",,"sc/EliteBarbarianBeachSoccerFG_dl.sc","banner_fg",
+"Chronos019",,,"Background","TRUE",,"sc/ArcherKitsuneMaskBG_dl.sc","banner_bg",
+"Chronos020",,,"Foreground","TRUE",,"sc/ArcherKitsuneMaskFG_dl.sc","banner_fg",
+"Chronos021",,,"Background","TRUE",,"sc/HogRiderThaiBoxingBG_dl.sc","banner_bg",
+"Chronos022",,,"Foreground","TRUE",,"sc/HogRiderThaiBoxingFG_dl.sc","banner_fg",
+"Chronos023",,,"Background","TRUE",,"sc/BarbarianBarrelBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos024",,,"Foreground","TRUE",,"sc/BarbarianBarrelFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos025",,,"Background","TRUE",,"sc/MightyMinerPartyBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos026",,,"Foreground","TRUE",,"sc/MightyMinerPartyFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos027",,,"Background","TRUE",,"sc/RoyalGiantBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos028",,,"Foreground","TRUE",,"sc/RoyalGiantFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos029",,,"Background","TRUE",,"sc/ClashFastHogRiderBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos030",,,"Foreground","TRUE",,"sc/ClashFastHogRiderFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos031",,,"Background","TRUE",,"sc/RamRiderPartyBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos032",,,"Foreground","TRUE",,"sc/RamRiderPartyFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos033",,,"Background","TRUE",,"sc/LogGrassBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos034",,,"Foreground","TRUE",,"sc/LogGrassFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos035",,,"Background","TRUE",,"sc/ExecutionerCookerBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos036",,,"Foreground","TRUE",,"sc/ExecutionerCookerFG_dl.sc","banner_fg","Season 39_Box3"
+"Chronos037",,,"Background","TRUE",,"sc/ValkiryeFightBG_dl.sc","banner_bg","Season 39_Box3"
+"Chronos038",,,"Foreground","TRUE",,"sc/ValkiryeFightFG_dl.sc","banner_fg","Season 39_Box3"
 "Chronos039",,,"Foreground",,,,,
 "Chronos040",,,"Foreground",,,,,
 "Chronos041",,,"Foreground",,,,,

@@ -3,8 +3,8 @@
 "Npc1","FirstMatch","BasicDeck1",0,120000,120000,120000,1,"true","TID_NPC_1",2,"true",,1,40,,"NPC1_Tower","TRUE",
 "Npc2","FirstMatch","BasicDeck2",0,120000,120000,120000,1,"true","TID_NPC_2",,"true",,1,60,"NPC2_Start","NPC2_Tower",,
 "Npc3","TrainingCamp","BasicDeck3",0,100000,100000,100000,1,"true","TID_NPC_3",,"true",,1,60,"NPC3_Start","NPC3_Tower",,
-"Npc4","TrainingCamp","BasicDeck4",0,80000,40000,40000,1,"true","TID_NPC_4",,"true",,2,80,"NPC4_Start","NPC4_Tower",,
-"Npc5","TrainingCamp","BasicDeck5",0,60000,30000,30000,1,"true","TID_NPC_5",,"true",,3,80,"NPC4_Start","NPC4_Tower",,
+"Npc4","TrainingCamp","BasicDeck4",0,100000,100000,100000,1,"true","TID_NPC_4",,"true",,2,80,"NPC4_Start","NPC4_Tower",,
+"Npc5","TrainingCamp","BasicDeck5",0,100000,100000,100000,1,"true","TID_NPC_5",,"true",,3,80,"NPC4_Start","NPC4_Tower",,
 "Npc6","TrainingCamp","BasicDeck6",0,60000,30000,30000,1,"true","TID_NPC_6",,"true",,4,,"NPC4_Start","NPC4_Tower",,
 "Npc7","TrainingCamp","BasicDeck7",0,50000,25000,25000,1,"true","TID_NPC_7",,"true",,5,,"NPC4_Start","NPC4_Tower",,
 "Npc8","TrainingCamp","BasicDeck8",50,50000,25000,25000,2,"true","TID_NPC_8",,"true",,5,,"NPC4_Start","NPC4_Tower",,"TRUE"
@@ -60,3 +60,6 @@
 "Npc5_2","TrainingCamp","BasicDeck7",0,50000,25000,25000,1,"true","TID_NPC_5",,"true",,5,,"NPC4_Start","NPC4_Tower",,
 "NpcAITest","TrainingCamp","DeckAITest",2900,28000,14000,14000,9,"true","TID_NPC_35",,"true",,,,"NPC4_Start","NPC4_Tower",,
 "BoatAttackNPC","PvP_clanboat_arena",,,,,,1,"true",,,,,,,"NPC4_Start","NPC4_Tower",,
+"TutorialNPC_1_1","FirstMatch","BasicDeck2",0,120000,120000,120000,1,"true","TID_NPC_1",2,"true",,1,20,"NPC2_Start","NPC1_Tower","TRUE",
+"TutorialNPC_1_2","FirstMatch","BasicDeck3",0,100000,100000,100000,1,"true","TID_NPC_2",1,"true",,1,30,"NPC3_Start","NPC2_Tower",,
+"TutorialNPC_1_3","FirstMatch","TutorialDeck7",0,100000,100000,100000,1,"true","TID_NPC_3",4,"true",,1,40,"NPC4_Start","NPC3_Tower",,

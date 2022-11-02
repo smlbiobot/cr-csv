@@ -1,13 +1,13 @@
 "Name","Type","MinArena","MaxArena","IconSWF","IconExportName","ShopBundleSWF","ShopBundleExportName","Price","DailyCardRotation","DailyCardRotationChances","GuarenteedLegendary","HighlightWhenUnlocked","ShopPopupName","ChinaShopPopupName"
 "String","String","String","String","string","string","string","string","int","boolean","int","boolean","boolean","string","string"
 "Shop_Small_1","Lightning","Arena1",,,,,,250,,,,,"popup_shop_chest_confirm_reshuffle","popup_shop_chest_confirm_china_reshuffle"
-"Shop_Medium_0","Fortune",,"Arena4",,,,,750,,,,,"popup_shop_chest_confirm_fortune_lock","popup_shop_chest_confirm_china_fortune_lock"
-"Shop_Medium_1","Fortune","Arena5",,,,,,750,"TRUE",0,,"TRUE","popup_shop_chest_confirm_fortune","popup_shop_chest_confirm_china_fortune"
+"Shop_Medium_0","Fortune",,"Arena5",,,,,750,,,,,"popup_shop_chest_confirm_fortune_lock","popup_shop_chest_confirm_china_fortune_lock"
+"Shop_Medium_1","Fortune","Arena6",,,,,,750,"TRUE",0,,"TRUE","popup_shop_chest_confirm_fortune","popup_shop_chest_confirm_china_fortune"
 ,,,,,,,,,,40,,,,
 ,,,,,,,,,,35,,,,
 ,,,,,,,,,,25,,,,
-"Shop_Large","Kings",,"Arena6",,,,,2000,,,,,"popup_shop_chest_confirm_king_draft_lock","popup_shop_chest_confirm_china_king_draft_lock"
-"Shop_Large_Legendary","Kings","Arena7",,,,,,2500,,,"TRUE","TRUE","popup_shop_chest_confirm_king_draft_legend","popup_shop_chest_confirm_china_king_draft_legend"
+"Shop_Large","Kings",,"Arena_L",,,,,2000,,,,,"popup_shop_chest_confirm_king_draft_lock","popup_shop_chest_confirm_china_king_draft_lock"
+"Shop_Large_Legendary","Kings","Arena_Electric",,,,,,2500,,,"TRUE","TRUE","popup_shop_chest_confirm_king_draft_legend","popup_shop_chest_confirm_china_king_draft_legend"
 "Chronos_Boost","Boost","Arena1",,"sc/ui.sc","icon_chests_fortune_bonus_small","sc/ui_chest.sc","chest_item_fortune_bonus",750,,,,,"popup_shop_chest_confirm_fortune","popup_shop_chest_confirm_china_fortune"
 "REMOVED_WarSeason1st",,,,,,,,,,,,,,
 "REMOVED_WarSeason2nd",,,,,,,,,,,,,,

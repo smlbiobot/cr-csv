@@ -169,6 +169,39 @@
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
+"TutorialTest_1_2","false","false","Sequential","Spawn","Goblins","true","time_in_line >= 3000",1,4000,7000,0,1
+,,,,"Spawn","Knight","true","time_in_line >= 8000",1,6000,8000,0,1
+,,,,"Spawn","Archer","true","true",1,6000,8000,0,1
+,,,,"Spawn","Goblins","true","time_in_line >= 15000",1,4000,7000,0,1
+,,,,"RestartWave",,"true","time_in_line >= 30000",,,,,
+,,,,,,,,,,,,
+"TutorialTest_1_3","false","false","Sequential","Spawn","Giant","true","time_in_line >= 3000",1,15000,12000,0,1
+,,,,"Spawn","Knight","true","time_in_line >= 15000",1,15000,8000,0,1
+,,,,"Spawn","Goblins","true","time_in_line >= 20000",1,15000,7000,0,1
+,,,,"RestartWave",,"true","time_in_line >= 45000",,,,,
+,,,,,,,,,,,,
+"TutorialTest_1_1","false","false","Sequential","Spawn","Skeletons","true","time_in_line >= 2500",1,3500,7500,0,1
+,,,,"Spawn","Goblins","true","time_in_line >= 50",1,6000,6000,0,1
+,,,,"RestartWave",,"true","time_in_line >= 45000",,,,,
+,,,,,,,,,,,,
+Tutorial_NPC_4_2,false,false,Sequential,Spawn,Knight,true,time_in_line >= 3000,1,3500,7500,0,1
+,,,,Spawn,Archer,true,time_in_line >= 5000,1,3500,7500,0,1
+,,,,Spawn,Goblins,true,time_in_line >= 13000,1,15000,7500,0,1
+,,,,Spawn,Skeletons,true,time_in_line >= 18000,1,15000,7500,0,1
+,,,,Spawn,Knight,true,time_in_line >= 24000,1,5000,4500,0,1
+,,,,RestartWave,,true,time_in_line >= 35000,,,,,
+,,,,,,,,,,,,
+Tutorial_NPC_5_2,false,false,Sequential,Spawn,Knight,true,time_in_line >= 3000,1,15000,7500,0,1
+,,,,Spawn,Bomber,true,time_in_line >= 5000,1,15000,7500,0,1
+,,,,Spawn,Skeletons,true,time_in_line >= 13000,1,3500,7500,0,1
+,,,,Spawn,Archer,true,time_in_line >= 18000,1,15000,7500,0,1
+,,,,Spawn,Knight,true,time_in_line >= 24000,1,5000,4500,0,1
+,,,,RestartWave,,true,time_in_line >= 35000,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
@@ -176,7 +209,6 @@
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 "###",,,,,,,,,,,,
-,,,,,,,,,,,,
 "Generic info:","The mode starts with one wave. That wave executes actions. These actions may then, among other things, spawn new waves.",,,,,,,,,,,
 ,"Multiple waves can be alive simultaneously. The ”child wave” concept means that the spawned wave is attached to the wave that spawned it.",,,,,,,,,,,
 ,"Waves can kill child waves either automatically when the wave ends or via an action.",,,,,,,,,,,

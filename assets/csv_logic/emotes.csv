@@ -244,32 +244,32 @@
 "EmoteChronos36",155,0,"True","False","sfx/emotes/emotes_skeleton_dancing_dl.ogg","sc/emotes_skeleton_dancing_dl.sc","False","False","2022-06-06","Skeleton Dance","Skeleton"
 "EmoteChronos37",156,0,"True","False","sfx/emotes/emotes_skeletongiant_clueless_dl.ogg","sc/emotes_skeletongiant_clueless_dl.sc","False","True","2022-06-06","Skeleton Giant Clueless","SkeletonGiant"
 "EmoteChronos38",157,0,"True","False","sfx/emotes/emotes_skeletongiant_loosejaw_dl.ogg","sc/emotes_skeletongiant_loosejaw_dl.sc","False","False","2022-06-06","Skeleton Giant Loosejaw","SkeletonGiant"
-"EmoteChronos39",158,0,,,,,,,,,
-"EmoteChronos40",159,0,,,,,,,,,
-"EmoteChronos41",160,0,,,,,,,,,
-"EmoteChronos42",161,0,,,,,,,,,
-"EmoteChronos43",162,0,,,,,,,,,
-"EmoteChronos44",163,0,,,,,,,,,
-"EmoteChronos45",164,0,,,,,,,,,
-"EmoteChronos46",165,0,,,,,,,,,
-"EmoteChronos47",166,0,,,,,,,,,
-"EmoteChronos48",167,0,,,,,,,,,
-"EmoteChronos49",168,0,,,,,,,,,
-"EmoteChronos50",169,0,,,,,,,,,
-"EmoteChronos51",170,0,,,,,,,,,
-"EmoteChronos52",171,0,,,,,,,,,
-"EmoteChronos53",172,0,,,,,,,,,
-"EmoteChronos54",173,0,,,,,,,,,
-"EmoteChronos55",174,0,,,,,,,,,
-"EmoteChronos56",175,0,,,,,,,,,
-"EmoteChronos57",176,0,,,,,,,,,
-"EmoteChronos58",177,0,,,,,,,,,
-"EmoteChronos59",178,0,,,,,,,,,
-"EmoteChronos60",179,0,,,,,,,,,
-"EmoteChronos61",180,0,,,,,,,,,
-"EmoteChronos62",181,0,,,,,,,,,
-"EmoteChronos63",182,0,,,,,,,,,
-"EmoteChronos64",183,0,,,,,,,,,
+"EmoteChronos39",158,0,"True","False","sfx/emotes/emotes_minipekka_pancakerage_dl.ogg","sc/emotes_minipekka_pancakerage_dl.sc","False","False","2022-07-01","Mini PEKKA Pancake Rage","MiniPekka"
+"EmoteChronos40",159,0,"True","False","sfx/emotes/emotes_minipekka_pancakesuit_dl.ogg","sc/emotes_minipekka_pancakesuit_dl.sc","False","True","2022-07-01","Mini PEKKA Pancake Suit","MiniPekka"
+"EmoteChronos41",160,0,"True","False","sfx/emotes/emotes_pekka_battlefly_dl.ogg","sc/emotes_pekka_battlefly_dl.sc","False","False","2022-07-01","PEKKA Battlefly","PEKKA"
+"EmoteChronos42",161,0,"True","False","sfx/emotes/emotes_pekka_robodance_dl.ogg","sc/emotes_pekka_robodance_dl.sc","False","False","2022-07-01","PEKKA Robodance","PEKKA"
+"EmoteChronos43",162,0,"True","False","sfx/emotes/emotes_pekka_activate_dl.ogg","sc/emotes_pekka_activate_dl.sc","False","False","2022-07-01","PEKKA Activate","PEKKA"
+"EmoteChronos44",163,0,"True","False","sfx/emotes/emotes_barbarian_backintime_dl.ogg","sc/emotes_barbarian_backintime_dl.sc","False","False","2022-08-01","Barbarian 8bit BackInTime","Barbarian8bit"
+"EmoteChronos45",164,0,"True","False","sfx/emotes/emotes_barbarian_pixelfrenzy_dl.ogg","sc/emotes_barbarian_pixelfrenzy_dl.sc","False","False","2022-08-01","Barbarian 8bit PixelFrenzy","Barbarian8bit"
+"EmoteChronos46",165,0,"True","False","sfx/emotes/emotes_barbarian_pixelup_dl.ogg","sc/emotes_barbarian_pixelup_dl.sc","False","True","2022-08-01","Barbarian 8bit PixelUp","Barbarian8bit"
+"EmoteChronos47",166,0,"True","False","sfx/emotes/emotes_king_pixelcrown_dl.ogg","sc/emotes_king_pixelcrown_dl.sc","False","False","2022-08-01","King 8bit Crown","King8bit"
+"EmoteChronos48",167,0,"False","False","sfx/emotes/emotes_king_pixelized_dl.ogg","sc/emotes_king_pixelized_dl.sc","False","False","2022-08-01","King 8bit Pixelized","King8bit"
+"EmoteChronos49",168,0,"True","False","sfx/emotes/emotes_king_pixeltower_dl.ogg","sc/emotes_king_pixeltower_dl.sc","False","False","2022-08-01","King 8bit PixelTower","King8bit"
+"EmoteChronos50",169,0,"True","False","sfx/emotes/emotes_barbarian_watchingyou_dl.ogg","sc/emotes_barbarian_watchingyou_dl.sc","False","False","2022-09-05","Barbarian WatchingYou","Barbarian"
+"EmoteChronos51",170,0,"True","False","sfx/emotes/emotes_battlehealer_selfheal_dl.ogg","sc/emotes_battlehealer_selfheal_dl.sc","False","False","2022-09-05","Battle Healer Self Heal","BattleHealer"
+"EmoteChronos52",171,0,"True","False","sfx/emotes/emotes_electrowizardgiant_epichighfive_dl.ogg","sc/emotes_electrowizardgiant_epichighfive_dl.sc","False","False","2022-09-05","Electro Epic High Five","eGiant"
+"EmoteChronos53",172,0,"True","False","sfx/emotes/emotes_elitebarbarian_gorilla_dl.ogg","sc/emotes_elitebarbarian_gorilla_dl.sc","False","False","2022-09-05","Elite Barbarian Gorilla","Barbarian"
+"EmoteChronos54",173,0,"True","False","sfx/emotes/emotes_elixirgolem_win_dl.ogg","sc/emotes_elixirgolem_win_dl.sc","False","False","2022-09-05","Elixir Golem Win","eGolem"
+"EmoteChronos55",174,0,"True","False","sfx/emotes/emotes_goblin_carnival_dl.ogg","sc/emotes_goblin_carnival_dl.sc","False","False","2022-09-05","Goblin Carnival","Goblin"
+"EmoteChronos56",175,0,"True","False","sfx/emotes/emotes_hogrider_cheerleader_dl.ogg","sc/emotes_hogrider_cheerleader_dl.sc","False","False","2022-09-05","HogRider Cheerleader","HogRider"
+"EmoteChronos57",176,0,"True","False","sfx/emotes/emotes_king_tvroyale_dl.ogg","sc/emotes_king_tvroyale_dl.sc","False","True","2022-09-05","King TV Royale","King"
+"EmoteChronos58",177,0,"True","False","sfx/emotes/emotes_lumberjack_thirdeye_dl.ogg","sc/emotes_lumberjack_thirdeye_dl.sc","False","False","2022-09-05","Lumberjack Third Eye","Lumberjack"
+"EmoteChronos59",178,0,"True","False","sfx/emotes/emotes_teslatower_electrocuter_dl.ogg","sc/emotes_teslatower_electrocuter_dl.sc","False","False","2022-09-05","Tesla Electrocuter","Tesla"
+"EmoteChronos60",179,0,"True","False","sfx/emotes/emotes_motherwitch_hogcharge_dl.ogg","sc/emotes_motherwitch_hogcharge_dl.sc","False","False","2022-10-03","Mother Witch Hog Charge","MotherWitch"
+"EmoteChronos61",180,0,"True","False","sfx/emotes/emotes_motherwitch_knitting_dl.ogg","sc/emotes_motherwitch_knitting_dl.sc","False","False","2022-10-03","Mother Witch Knitting","MotherWitch"
+"EmoteChronos62",181,0,"True","False","sfx/emotes/emotes_nightwitch_guitar_dl.ogg","sc/emotes_nightwitch_guitar_dl.sc","False","False","2022-10-03","Night Witch Guitar","NightWitch"
+"EmoteChronos63",182,0,"True","False","sfx/emotes/emotes_nightwitch_moon_dl.ogg","sc/emotes_nightwitch_moon_dl.sc","False","True","2022-10-03","Night Witch Moon","NightWitch"
+"EmoteChronos64",183,0,"True","False","sfx/emotes/emotes_bat_crazydance_dl.ogg","sc/emotes_bat_crazydance_dl.sc","False","False","2022-10-03","Bat Crazy Dance","Bat"
 "EmoteChronos65",184,0,,,,,,,,,
 "EmoteChronos66",185,0,,,,,,,,,
 "EmoteChronos67",186,0,,,,,,,,,

@@ -2,11 +2,13 @@
 "String","Boolean","String","String","StringArray","StringArray","String"
 "Normal","true","NormalBattle",,,,
 "BoatBattles","false","PveBoatDefense",,,,
-"NewCard","false","NormalBattle",,"ElectroGiant",,
+"NewCard","true","NormalBattle",,"Phoenix",,
 "ChampionSK","false","NormalBattle",,"SkeletonKing",,
 "ChampionAQ","false","NormalBattle",,"ArcherQueen",,
 "ChampionGK","false","NormalBattle",,"GoldenKnight",,
 "ChampionMM","false","NormalBattle",,"MightyMiner",,
 "GameModeRampUp","false","NormalBattle",,,,"RampUpElixirSpawnYetAnotherSkeletons_Tournament"
 "GameModeRandomElixir","false","NormalBattle",,,,"Event_RandomElixir_Ladder"
-"ElixirCollector","true","NormalBattle",,,,"ElixirCollectorCapture_Ladder"
+"ElixirCollector","false","NormalBattle",,,,"ElixirCollectorCapture_Ladder"
+"ChampionMonk","true","NormalBattle",,"Monk",,
+"Nightmare_Bats","false","NormalBattle",,,,"YetAnotherBat_Tournament"

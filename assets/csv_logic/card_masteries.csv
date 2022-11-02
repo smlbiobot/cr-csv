@@ -3,7 +3,7 @@
 "MegaKnight",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,10,270000,"Cards",2,810000,"Gold",8000,1360000,"Gems",150,
 ,,2,"TRUE","HitUnitsWithSpawn",,12,280,"Gold",12000,800,"WildcardLegendary",2,1400,"Gems",300,
-,,3,"TRUE","KnockbackUnitsSingleDeploy",,14,50,"CosmeticsToken",100,150,"CosmeticsToken",125,300,"CosmeticsToken",150,6
+,,3,"TRUE","KnockbackUnitsSingleDeploy","TID_MASTERY_TASK_KNOCKBACKUNITSSINGLEDEPLOY_MEGAKNIGHT",14,50,"CosmeticsToken",100,150,"CosmeticsToken",125,300,"CosmeticsToken",150,6
 "ElectroWizard",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,10,160000,"Cards",2,480000,"Gold",8000,800000,"Gems",150,
 ,,2,"TRUE","HitUnitsWithSpawn",,12,280,"Gold",12000,800,"WildcardLegendary",2,1400,"Gems",300,
@@ -23,7 +23,7 @@
 "DartBarrell",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,185000,"Cards",100,560000,"Gold",4000,930000,"Gems",150,
 ,,2,"TRUE","HitTowers",,11,420,"Gold",6000,1200,"WildcardRare",100,2100,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","AttackSingleDeploy",,14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,8
 "Zap",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,28000,"Cards",200,85000,"Gold",2000,140000,"Gems",150,
 ,,2,"TRUE","HitUnits",,10,700,"Gold",3000,2000,"WildcardCommon",200,3500,"Gems",300,
@@ -59,7 +59,7 @@
 "HogRider",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,85000,"Cards",100,250000,"Gold",4000,420000,"Gems",150,
 ,,2,"TRUE","HitTowers",,11,560,"Gold",6000,1600,"WildcardRare",100,2800,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","DealTowerHitsSingleBattle",,14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,10
 "ThreeMusketeers",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,300000,"Cards",100,890000,"Gold",4000,1500000,"Gems",150,
 ,,2,"TRUE","HitTowers",,11,700,"Gold",6000,2000,"WildcardRare",100,3500,"Gems",300,
@@ -87,7 +87,7 @@
 "Valkyrie",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,145000,"Cards",100,440000,"Gold",4000,740000,"Gems",150,
 ,,2,"TRUE","KillUnits",,11,350,"Gold",6000,1000,"WildcardRare",100,1750,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","HitUnitsSingleDeploy",,14,50,"CosmeticsToken",100,150,"CosmeticsToken",125,300,"CosmeticsToken",150,15
 "Bats",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,97500,"Cards",200,290000,"Gold",2000,485000,"Gems",150,
 ,,2,"TRUE","HitGroundUnits",,10,1400,"Gold",3000,4000,"WildcardCommon",200,7000,"Gems",300,
@@ -103,11 +103,11 @@
 "MiniPekka",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,150000,"Cards",100,455000,"Gold",4000,760000,"Gems",150,
 ,,2,"TRUE","KillUnits",,11,350,"Gold",6000,1000,"WildcardRare",100,1750,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","HitsFullDamage",,14,800,"CosmeticsToken",100,2400,"CosmeticsToken",125,4800,"CosmeticsToken",150,
 "BabyDragon",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,9,160000,"Cards",20,480000,"Gold",6000,800000,"Gems",150,
 ,,2,"TRUE","KillUnits",,11,420,"Gold",9000,1200,"WildcardEpic",20,2100,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","HitUnitsSingleDeploy",,14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,12
 "RoyalGiant",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,110000,"Cards",200,335000,"Gold",2000,560000,"Gems",150,
 ,,2,"TRUE","HitTowers",,10,780,"Gold",3000,2200,"WildcardCommon",200,3850,"Gems",300,
@@ -159,7 +159,7 @@
 "FireSpirits",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,35000,"Cards",200,105000,"Gold",2000,175000,"Gems",150,
 ,,2,"TRUE","HitUnits",,10,780,"Gold",3000,2200,"WildcardCommon",200,3850,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","HitUnitsSingleDeploy",,14,150,"CosmeticsToken",100,450,"CosmeticsToken",125,900,"CosmeticsToken",150,5
 "Heal",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,10000,"Cards",100,30000,"Gold",4000,50000,"Gems",150,
 ,,2,"TRUE","HealUnits",,11,640,"Gold",6000,1800,"WildcardRare",100,3150,"Gems",300,
@@ -215,7 +215,7 @@
 "BlowdartGoblin",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,145000,"Cards",100,435000,"Gold",4000,730000,"Gems",150,
 ,,2,"TRUE","HitUnits",,11,1400,"Gold",6000,4000,"WildcardRare",100,7000,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","AttackSingleDeploy",,14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,10
 "ElixirGolem",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,8,110000,"Cards",100,325000,"Gold",4000,540000,"Gems",150,
 ,,2,"TRUE","HitTowers",,11,2100,"Gold",6000,6000,"WildcardRare",100,11000,"Gems",300,
@@ -223,7 +223,7 @@
 "Firecracker",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,185000,"Cards",200,550000,"Gold",2000,920000,"Gems",150,
 ,,2,"TRUE","HitUnitsAndBuildings",,10,5600,"Gold",3000,16000,"WildcardCommon",200,28000,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","AttackSingleDeploy",,14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,8
 "GoblinGang",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,85000,"Cards",200,255000,"Gold",2000,425000,"Gems",150,
 ,,2,"TRUE","HitUnits",,10,1750,"Gold",3000,5000,"WildcardCommon",200,8750,"Gems",300,
@@ -347,7 +347,7 @@
 "Bowler",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,9,185000,"Cards",20,560000,"Gold",6000,930000,"Gems",150,
 ,,2,"TRUE","KnockbackUnits",,11,560,"Gold",9000,1600,"WildcardEpic",20,2800,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","KnockbackUnitsSingleDeploy","TID_MASTERY_TASK_KNOCKBACKUNITSSINGLEDEPLOY_BOWLER",14,80,"CosmeticsToken",100,240,"CosmeticsToken",125,480,"CosmeticsToken",150,10
 "AxeMan",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,9,220000,"Cards",20,660000,"Gold",6000,1100000,"Gems",150,
 ,,2,"TRUE","KillUnits",,11,700,"Gold",9000,2000,"WildcardEpic",20,3500,"Gems",300,
@@ -359,7 +359,7 @@
 "Graveyard",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,10,140000,"Cards",2,420000,"Gold",8000,700000,"Gems",150,
 ,,2,"TRUE","HitTowers",,12,1750,"Gold",12000,5000,"WildcardLegendary",2,8750,"Gems",300,
-,,3,"FALSE",,,14,,,,,,,,,,
+,,3,"TRUE","DealTowerHitsSingleBattle",,14,50,"CosmeticsToken",100,150,"CosmeticsToken",125,300,"CosmeticsToken",150,30
 "MinionHorde",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,7,140000,"Cards",200,420000,"Gold",2000,700000,"Gems",150,
 ,,2,"TRUE","KillUnits",,10,420,"Gold",3000,1200,"WildcardCommon",200,2100,"Gems",300,
@@ -427,4 +427,12 @@
 "MightyMiner",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
 ,,1,"TRUE","DealDamage",,12,275000,"Cards",1,830000,"Gold",10000,1380000,"Gems",150,
 ,,2,"TRUE","HitUnitsWithMaxStrength","TID_MASTERY_TASK_DRILLMAXSTRENGTH",13,350,"Gold",15000,1000,"Gems",300,1750,"Gems",450,
+,,3,"FALSE",,,14,,,,,,,,,,
+"Monk",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
+,,1,"TRUE","DealDamage",,12,215000,"Cards",1,650000,"Gold",10000,1080000,"Gems",150,
+,,2,"TRUE","KnockbackUnits",,13,250,"Gold",15000,760,"Gems",300,1250,"Gems",450,
+,,3,"FALSE",,,14,,,,,,,,,,
+"Phoenix",,0,"TRUE","WinMatches",,1,5,"Gold",1000,,,,,,,
+,,1,"TRUE","DealDamage",,10,125000,"Cards",2,380000,"Gold",8000,640000,"Gems",150,
+,,2,"TRUE","HitUnits",,12,840,"Gold",12000,2400,"WildcardLegendary",2,4200,"Gems",300,
 ,,3,"FALSE",,,14,,,,,,,,,,
