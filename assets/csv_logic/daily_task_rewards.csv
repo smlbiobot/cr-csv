@@ -1,0 +1,11 @@
+"Name","Type","RewardTypes","RewardAmounts","RewardChest"
+"String","String","StringArray","IntArray","StringArray"
+"TaskSlot1","Slot1","Crowns",3,
+"TaskSlot2","Slot2","BannerTokens",20,
+"TaskSlot3","Slot3","XP",10,
+"DailyCompletion","Daily","XP",20,
+,,"Chest",1,"Silver_<current_arena>"
+"WeeklyCompletion","Weekly","XP",50,
+,,"BannerTokens",30,
+,,"Crowns",5,
+,,"Chest",1,"Gold_<current_arena>"
