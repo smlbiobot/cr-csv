@@ -124,7 +124,7 @@
 ,,,,20500,"CameraOffset",7500,16500,
 ,,,,21000,"KingCrying",,,
 ,,,,21000,"Spawn",7000,18000,"GoblinHut"
-,,,,21500,"SpawnEnemy",7500,14000,"Wizard"
+,,,,22000,"SpawnEnemy",7500,14000,"Wizard"
 ,,,,33000,"Reset",,,
 "GoblinBarrel","Fixed",5000,6500,500,"Spawn",3500,6500,"GoblinBarrel"
 ,,,,7500,"KingCrying",,,

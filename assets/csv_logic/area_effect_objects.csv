@@ -17,7 +17,7 @@
 "Earthquake","Rare",3000,,,"TRUE",3500,,,"Spell_earthquake_loop","Spell_earthquake_effect",,,,,,,100,,,,,,,"Earthquake",1000,,,"TRUE",1,"TRUE",,,,,,,,,,,,,,,,,,"TRUE","FALSE",,,,,,,,,,,,,,,,
 "SkeletonKingGraveyard","Champion",10000,,,,4000,,,,,"Spell_skeleton_king_graveyard",,,,,,,,,,,,,,,,,"TRUE",1,,"TRUE",,,"SkeletonKingSkeleton",250,"TRUE","Graveyard_appear","filter_deploy_unit_skeleton",400,10,250,,,3000,,,"TRUE","TRUE","TRUE",,,,,,,,,,"TRUE",,,,,"TRUE",
 "Deflect","Champion",4000,,,,1500,,,,,,,,,,,,,,,,,,,,,,,,"TRUE",,"TRUE",,,,,,"filter_hologram",,,,,,,,,,"TRUE","TRUE",,,,,,,,,,,"TRUE","monk_deflect","Monk_ability_reflection_",,"TRUE",
-"NOTINUSE12","Common",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GlobalClone","Epic",1000,,,,30000,,,,,,,,,,,,,,,,,,"Clone",500,,,,,,"TRUE","TRUE",,,,,,"filter_hologram",,,,,,,,,,"TRUE","TRUE",,,,,"TRUE",,,,,,,,,,,
 "BoostRage","Epic",10000,,,,1000,,,,,"boost_rage_continous",,,,,,300,,,,,,,"Rage",45000,,,,1,,"TRUE",,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,"TRUE",,,,,,,,,,
 "BoostClone","Epic",10000,,,,1000,,,,,"boost_clone_continuous",,,,,,300,,,,,,,"Clone",500,,,,1,,"TRUE","TRUE",,,,,,"filter_hologram",,,,,,,,,,"TRUE","TRUE",,,,,,"TRUE",,,,,,,,,,
 "BoostHeal","Epic",10000,,,,1000,,,,,"boost_heal_continuous",,,,,,300,,,,,,,"Heal",45000,,,,1,,"TRUE",,,,,,,,,,,,,,,,,"TRUE","TRUE",,,,,,"TRUE",,,,,,,,,,

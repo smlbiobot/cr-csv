@@ -1107,3 +1107,5 @@
 "monk_crystal_big_small","sc/level_monk_arena_dl.sc","monk_crystal_big_small","Object","Ground",92,-95,-2,12,10,,,,,,,,,,,,,"Always",,,,,
 "monk_bamboo_top_solo_big_medium","sc/level_monk_arena_dl.sc","monk_bamboo_top_solo_big_medium","Object","Ground",,,,,,,,,,,,,,,,,,"Always",,,,,
 "monk_bamboo_group_dark_small","sc/level_monk_arena_dl.sc","monk_bamboo_group_dark_small","Object","Ground",,1,,,,,,,,,,,,,,,,"Always",,,,,
+"Xmas2022_ncracker2","sc/level_holiday_market_arena_dl.sc","Xmas2022_ncracker2","Object","Ground",88,36,-13,64,8,,,,,,,,,,,,,"Always",,,,,
+"Xmas2022_ncracker","sc/level_holiday_market_arena_dl.sc","Xmas2022_ncracker","Object","Ground",95,36,-13,64,8,,,,,,,,,,,,,"Always",,,,,
