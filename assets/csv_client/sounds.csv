@@ -1155,3 +1155,5 @@
 "Open_Piggy_Bank","sfx/piggy_bank_open_01.ogg",80,80,100,100,1,1,,,,,,,,,,
 "Open_Piggy_Bank_Uncut_Gamz","sfx/piggy_bank_open_gems_01.ogg",80,80,100,100,1,1,,,,,,,,,,
 "League_road_door_open","sfx/league_road_open_door_01.ogg",80,80,100,100,1,1,,,,,,,,,,
+"Boost_potion_used","sfx/boost_bottle_use_01.ogg",80,80,100,100,1,1,,,,,,,,,,
+"sound_superhog_rider_deploy_end","sfx/hogrider_deploy_end_01.ogg",80,80,100,100,1,1,9000,,,,1000,1000,,,,

@@ -26,3 +26,5 @@
 "Retro_60sec_loop","music/royale_8bit_60sec_music_01.ogg",55,,,,
 "Retro_30sec_loop","music/royale_8bit_30sec_music_01.ogg",60,,,,
 "Retro_Sudden_Death","music/royale_8bit_overtime_01.ogg",65,"true",,,
+"Draft_Music","music/draft_music_30secs_01.ogg",70,,,,
+"Mega_Draft_Music_Loop","music/megadraft_music_60secs_loop_01.ogg",70,"true",,,

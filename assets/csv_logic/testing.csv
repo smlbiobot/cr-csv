@@ -2,7 +2,8 @@
 "String","Boolean","String","String","StringArray","StringArray","String"
 "Normal","true","NormalBattle",,,,
 "BoatBattles","false","PveBoatDefense",,,,
-"NewCard","true","NormalBattle",,"Phoenix",,
+"SuperCard1","false","NormalBattle",,,,
+"SuperCard2","false","NormalBattle",,,,
 "ChampionSK","false","NormalBattle",,"SkeletonKing",,
 "ChampionAQ","false","NormalBattle",,"ArcherQueen",,
 "ChampionGK","false","NormalBattle",,"GoldenKnight",,
