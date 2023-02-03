@@ -4071,3 +4071,4 @@
 "superhog_rider_deploy",,,,,,,"sound_hog_rider_deploy","SWF",,,,,"Object",100,,,,,,,,,,,,,,,
 ,,,,,,,"sound_superhog_rider_deploy_end","SWF",,,,,"Object",100,,,,,,,,,,,,,,,
 ,,,,,,,,"Effect",,,,"Deploy_ground_fX_mediumSize","Base",,,,,,,,,,,,,,,,
+"SMArcher_Charming_Loop","true",,,,,,,"ParticleEmitter",,,"heart_vfx",,"Object",,,,,,,,,,,,,,,,
