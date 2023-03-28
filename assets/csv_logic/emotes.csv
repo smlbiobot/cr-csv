@@ -285,31 +285,31 @@
 "EmoteChronos77",196,0,"True","False","sfx/emotes/emotes_valkyrie_treecut_dl.ogg","sc/emotes_valkyrie_treecut_dl.sc","False","False","2022-12-05","Valkyrie Treecut","Valkyrie"
 "EmoteChronos78",197,0,"True","False","sfx/emotes/emotes_firespirit_coalnaughty_dl.ogg","sc/emotes_firespirit_coalnaughty_dl.sc","False","False","2022-12-05","FireSpirit Naughty","Spirit"
 "EmoteChronos79",198,0,"True","False","sfx/emotes/emotes_firespirit_coalnice_dl.ogg","sc/emotes_firespirit_coalnice_dl.sc","False","False","2022-12-05","FireSpirit Nice","Spirit"
-"EmoteChronos80",199,0,,,,,,,,,
-"EmoteChronos81",200,0,,,,,,,,,
-"EmoteChronos82",201,0,,,,,,,,,
-"EmoteChronos83",202,0,,,,,,,,,
-"EmoteChronos84",203,0,,,,,,,,,
-"EmoteChronos85",204,0,,,,,,,,,
-"EmoteChronos86",205,0,,,,,,,,,
-"EmoteChronos87",206,0,,,,,,,,,
-"EmoteChronos88",207,0,,,,,,,,,
-"EmoteChronos89",208,0,,,,,,,,,
-"EmoteChronos90",209,0,,,,,,,,,
-"EmoteChronos91",210,0,,,,,,,,,
-"EmoteChronos92",211,0,,,,,,,,,
-"EmoteChronos93",212,0,,,,,,,,,
-"EmoteChronos94",213,0,,,,,,,,,
-"EmoteChronos95",214,0,,,,,,,,,
-"EmoteChronos96",215,0,,,,,,,,,
-"EmoteChronos97",216,0,,,,,,,,,
-"EmoteChronos98",217,0,,,,,,,,,
-"EmoteChronos99",218,0,,,,,,,,,
-"EmoteChronos100",219,0,,,,,,,,,
-"EmoteChronos101",220,0,,,,,,,,,
-"EmoteChronos102",221,0,,,,,,,,,
-"EmoteChronos103",222,0,,,,,,,,,
-"EmoteChronos104",223,0,,,,,,,,,
+"EmoteChronos80",199,0,"True","False","sfx/emotes/emotes_icegolem_attention_dl.ogg","sc/emotes_icegolem_attention_dl.sc","False","False","2023-01-02","Ice Golem Hi","IceGolem"
+"EmoteChronos81",200,0,"True","False","sfx/emotes/emotes_icegolem_breakarm_dl.ogg","sc/emotes_icegolem_breakarm_dl.sc","False","False","2023-01-02","Ice Golem Smash","IceGolem"
+"EmoteChronos82",201,0,"True","False","sfx/emotes/emotes_icegolem_snowpile_dl.ogg","sc/emotes_icegolem_snowpile_dl.sc","False","True","2023-01-02","Ice Golem Snow","IceGolem"
+"EmoteChronos83",202,0,"True","False","sfx/emotes/emotes_rabbit_dab_dl.ogg","sc/emotes_rabbit_dab_dl.sc","False","False","2023-01-02","Rabbit Dab","Wizard"
+"EmoteChronos84",203,0,"True","False","sfx/emotes/emotes_rabbit_thumbsup_dl.ogg","sc/emotes_rabbit_thumbsup_dl.sc","False","True","2023-01-02","Rabbit Thumbs Up","Generic"
+"EmoteChronos85",204,0,"True","False","sfx/emotes/emotes_golem_hearttatoo_dl.ogg","sc/emotes_golem_hearttatoo_dl.sc","False","False","2023-02-06","Golem Heart","Golem"
+"EmoteChronos86",205,0,"True","False","sfx/emotes/emotes_golem_rocker_dl.ogg","sc/emotes_golem_rocker_dl.sc","False","False","2023-02-06","Golem Rocker","Golem"
+"EmoteChronos87",206,0,"True","False","sfx/emotes/emotes_golem_supervillain_dl.ogg","sc/emotes_golem_supervillain_dl.sc","False","True","2023-02-06","Golem Supervillan","Golem"
+"EmoteChronos88",207,0,"True","False","sfx/emotes/emotes_magicarcher_magicbow_dl.ogg","sc/emotes_magicarcher_magicbow_dl.sc","False","False","2023-02-06","MagicArcher Bow","MagicArcher"
+"EmoteChronos89",208,0,"True","False","sfx/emotes/emotes_magicarcher_magicheart_dl.ogg","sc/emotes_magicarcher_magicheart_dl.sc","False","False","2023-02-06","MagicArcher Heart","MagicArcher"
+"EmoteChronos90",209,0,"True","False","sfx/emotes/emotes_sparky_electroheart_dl.ogg","sc/emotes_sparky_electroheart_dl.sc","False","False","2023-02-06","Sparky Heart","Sparky"
+"EmoteChronos91",210,0,"True","False","sfx/emotes/emotes_sparky_lovebox_dl.ogg","sc/emotes_sparky_lovebox_dl.sc","False","True","2023-02-06","Sparky LoveBox","Sparky"
+"EmoteChronos92",211,0,"True","False","sfx/emotes/emotes_executioner_carrots_dl.ogg","sc/emotes_executioner_carrots_dl.sc","False","False","2023-02-06","Executioner Carrots","Executioner"
+"EmoteChronos93",212,0,"True","False","sfx/emotes/emotes_goblingiant_afraid_dl.ogg","sc/emotes_goblingiant_afraid_dl.sc","False","True","2023-03-06","Goblin Giant Afraid","GiantGoblin"
+"EmoteChronos94",213,0,"True","False","sfx/emotes/emotes_goblin_guitarfire_dl.ogg","sc/emotes_goblin_guitarfire_dl.sc","False","False","2023-03-06","Goblin Guitar Fire","Goblin"
+"EmoteChronos95",214,0,"True","False","sfx/emotes/emotes_goblin_micdrop_dl.ogg","sc/emotes_goblin_micdrop_dl.sc","False","False","2023-03-06","Goblin Micdrop","Goblin"
+"EmoteChronos96",215,0,"True","False","sfx/emotes/emotes_goblin_robotdance_dl.ogg","sc/emotes_goblin_robotdance_dl.sc","False","False","2023-03-06","Goblin Robot Dance","Goblin"
+"EmoteChronos97",216,0,"True","False","sfx/emotes/emotes_wizard_discoballs_dl.ogg","sc/emotes_wizard_discoballs_dl.sc","False","False","2023-03-06","Wizard Disco Balls","Wizard"
+"EmoteChronos98",217,0,"True","False","sfx/emotes/emotes_wizard_discodance_dl.ogg","sc/emotes_wizard_discodance_dl.sc","False","False","2023-03-06","Wizard Disco Dance","Wizard"
+"EmoteChronos99",218,0,"True","False","sfx/emotes/emotes_archer_arrowfail_dl.ogg","sc/emotes_archer_arrowfail_dl.sc","False","True","2023-04-03","Archer Arrow Fail","Archer"
+"EmoteChronos100",219,0,"True","False","sfx/emotes/emotes_archer_supersight_dl.ogg","sc/emotes_archer_supersight_dl.sc","False","False","2023-04-03","Archer Supersight","Archer"
+"EmoteChronos101",220,0,"True","False","sfx/emotes/emotes_darkprince_mace_dl.ogg","sc/emotes_darkprince_mace_dl.sc","False","True","2023-04-03","DarkPrince Mace","Dark Prince"
+"EmoteChronos102",221,0,"True","False","sfx/emotes/emotes_darkprince_sleepy_dl.ogg","sc/emotes_darkprince_sleepy_dl.sc","False","False","2023-04-03","DarkPrince Sleepy","Dark Prince"
+"EmoteChronos103",222,0,"True","False","sfx/emotes/emotes_prince_epicsilly_dl.ogg","sc/emotes_prince_epicsilly_dl.sc","False","False","2023-04-03","Prince Epic Silly","Prince"
+"EmoteChronos104",223,0,"True","False","sfx/emotes/emotes_prince_lanceclean_dl.ogg","sc/emotes_prince_lanceclean_dl.sc","False","False","2023-04-03","Prince Lance Clean","Prince"
 "EmoteChronos105",224,0,,,,,,,,,
 "EmoteChronos106",225,0,,,,,,,,,
 "EmoteChronos107",226,0,,,,,,,,,

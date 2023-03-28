@@ -1,0 +1,4 @@
+Name,ShaderType,ColorRed,ColorGreen,ColorBlue,ColorAlpha,Scale,GradScale,GradSpeed,GradDepth,GradBlend
+string,string,int,int,int,int,int,int,int,int,int
+Outline_Blue,outline,77,179,255,127,50,2000,10000,500,0
+Bloom_Yellow,bloom,255,255,0,255,15,3000,7000,250,500

@@ -59,5 +59,6 @@
 "ClanWar2BattlesWon",,,"FALSE",,,,,,,,,,
 "PiggyBankPendingGold",,,"TRUE",,,,,,,,,,
 "PiggyBankPendingGems",,,"TRUE",,,,,,,,,,
-"BestRankedWinCount",,,TRUE,,,,,,,,,,
-"BestRankedScore",,,TRUE,,,,,,,,,,
+"BestRankedWinCount",,,"TRUE",,,,,,,,,,
+"BestRankedScore",,,"TRUE",,,,,,,,,,
+"BattleRewardBonusCrownsTowerStanding",,,TRUE,,,,,,,,,,

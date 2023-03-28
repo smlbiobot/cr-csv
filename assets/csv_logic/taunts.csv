@@ -21,3 +21,5 @@
 "TauntGfx2",,"TRUE","sc/ui.sc","sticker_angry_anim","sticker_angry_icon","emoji_btn_02","sound_king_mad","TRUE",
 "TauntGfx3",,"TRUE","sc/ui.sc","sticker_cry_anim","sticker_cry_icon","emoji_btn_03","sound_king_crying","TRUE",
 "TauntGfx4",,"TRUE","sc/ui.sc","sticker_lol_anim","sticker_lol_icon","emoji_btn_04","sound_king_happy","TRUE",
+"NPC_Cheddar_Start","TID_NPC_CHEDDAR_TAUNT_START","TRUE","sc/ui.sc","sticker_lol_anim","sticker_lol_icon","emoji_btn_04","sound_king_happy","TRUE",
+"NPC_Cheddar_Tower","TID_NPC_CHEDDAR_TAUNT_TOWER","TRUE","sc/ui.sc","sticker_angry_anim","sticker_angry_icon","emoji_btn_02","sound_king_mad","TRUE",
