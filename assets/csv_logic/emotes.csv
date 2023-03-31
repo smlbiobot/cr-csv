@@ -303,7 +303,7 @@
 "EmoteChronos95",214,0,"True","False","sfx/emotes/emotes_goblin_micdrop_dl.ogg","sc/emotes_goblin_micdrop_dl.sc","False","False","2023-03-06","Goblin Micdrop","Goblin"
 "EmoteChronos96",215,0,"True","False","sfx/emotes/emotes_goblin_robotdance_dl.ogg","sc/emotes_goblin_robotdance_dl.sc","False","False","2023-03-06","Goblin Robot Dance","Goblin"
 "EmoteChronos97",216,0,"True","False","sfx/emotes/emotes_wizard_discoballs_dl.ogg","sc/emotes_wizard_discoballs_dl.sc","False","False","2023-03-06","Wizard Disco Balls","Wizard"
-"EmoteChronos98",217,0,"True","False","sfx/emotes/emotes_wizard_discodance_dl.ogg","sc/emotes_wizard_discodance_dl.sc","False","False","2023-03-06","Wizard Disco Dance","Wizard"
+"EmoteChronos98",217,0,"True","False","sfx/emotes/emotes_wizard_discodance_dl.ogg","sc/emotes_wizard_discodance_dl.sc","False","True","2023-03-06","Wizard Disco Dance","Wizard"
 "EmoteChronos99",218,0,"True","False","sfx/emotes/emotes_archer_arrowfail_dl.ogg","sc/emotes_archer_arrowfail_dl.sc","False","True","2023-04-03","Archer Arrow Fail","Archer"
 "EmoteChronos100",219,0,"True","False","sfx/emotes/emotes_archer_supersight_dl.ogg","sc/emotes_archer_supersight_dl.sc","False","False","2023-04-03","Archer Supersight","Archer"
 "EmoteChronos101",220,0,"True","False","sfx/emotes/emotes_darkprince_mace_dl.ogg","sc/emotes_darkprince_mace_dl.sc","False","True","2023-04-03","DarkPrince Mace","Dark Prince"

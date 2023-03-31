@@ -60,7 +60,7 @@
 ,,,,,,,,,,,,,,,12,10,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,20,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,20,,,,,,,,,,,,,,,,,,,,,,,
-"BookCardCommon","TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON","sc/ui_spells.sc","icon_consumable_book_cards_common","icon_consumable_book_cards_common_hires","sc/ui_spells.sc","icon_consumable_book_cards_common","sc/ui_spells.sc","card_image_consumable_book_cards_common",,,"Spell","Common","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE","FALSE",20,50000,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",10,,,"TRUE","consumable_RewardAppear_common_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_COMMON"
+"BookCardCommon","TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON","sc/ui_spells.sc","icon_consumable_book_cards_common","icon_consumable_book_cards_common_hires","sc/ui_spells.sc","icon_consumable_book_cards_common","sc/ui_spells.sc","card_image_consumable_book_cards_common",,,"Spell","Common","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",TRUE,20,2500,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",10,,,"TRUE","consumable_RewardAppear_common_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_COMMON"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -75,7 +75,7 @@
 ,,,,,,,,,,,,,,,12,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,1,,,,,,,,,,,,,,,,,,,,,,,
-"BookCardRare","TID_ITEM_CONSUMABLE_BOOK_CARD_RARE","sc/ui_spells.sc","icon_consumable_book_cards_rare","icon_consumable_book_cards_rare_hires","sc/ui_spells.sc","icon_consumable_book_cards_rare","sc/ui_spells.sc","card_image_consumable_book_cards_rare",,,"Spell","Rare","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE","FALSE",20,100000,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",11,,,"TRUE","consumable_RewardAppear_rare_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_RARE_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_RARE"
+"BookCardRare","TID_ITEM_CONSUMABLE_BOOK_CARD_RARE","sc/ui_spells.sc","icon_consumable_book_cards_rare","icon_consumable_book_cards_rare_hires","sc/ui_spells.sc","icon_consumable_book_cards_rare","sc/ui_spells.sc","card_image_consumable_book_cards_rare",,,"Spell","Rare","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",TRUE,20,2500,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",11,,,"TRUE","consumable_RewardAppear_rare_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_RARE_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_RARE"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -90,7 +90,7 @@
 ,,,,,,,,,,,,,,,12,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,1,,,,,,,,,,,,,,,,,,,,,,,
-"BookCardEpic","TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC","sc/ui_spells.sc","icon_consumable_book_cards_epic","icon_consumable_book_cards_epic_hires","sc/ui_spells.sc","icon_consumable_book_cards_epic","sc/ui_spells.sc","card_image_consumable_book_cards_epic",,,"Spell","Epic","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE","FALSE",20,185000,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",12,,,"TRUE","consumable_RewardAppear_epic_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_EPIC"
+"BookCardEpic","TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC","sc/ui_spells.sc","icon_consumable_book_cards_epic","icon_consumable_book_cards_epic_hires","sc/ui_spells.sc","icon_consumable_book_cards_epic","sc/ui_spells.sc","card_image_consumable_book_cards_epic",,,"Spell","Epic","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",TRUE,20,2500,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",12,,,"TRUE","consumable_RewardAppear_epic_book",,,,,"TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_EPIC"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -105,7 +105,7 @@
 ,,,,,,,,,,,,,,,12,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,1,,,,,,,,,,,,,,,,,,,,,,,
-"BookCardLegendary","TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY","sc/ui_spells.sc","icon_consumable_book_cards_legendary","icon_consumable_book_cards_legendary_hires","sc/ui_spells.sc","icon_consumable_book_cards_legendary","sc/ui_spells.sc","card_image_consumable_book_cards_legendary",,,"Spell","Legendary","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE","FALSE",20,250000,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",13,,,"TRUE","consumable_RewardAppear_legendary_book",,"legendary_vignette",,,"TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_LEGENDARY"
+"BookCardLegendary","TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY","sc/ui_spells.sc","icon_consumable_book_cards_legendary","icon_consumable_book_cards_legendary_hires","sc/ui_spells.sc","icon_consumable_book_cards_legendary","sc/ui_spells.sc","card_image_consumable_book_cards_legendary",,,"Spell","Legendary","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",TRUE,20,2500,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",13,,,"TRUE","consumable_RewardAppear_legendary_book",,"legendary_vignette",,,"TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_LEGENDARY"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -120,7 +120,7 @@
 ,,,,,,,,,,,,,,,12,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,1,,,,,,,,,,,,,,,,,,,,,,,
-"GoldCoin","TID_ITEM_CONSUMABLE_GOLD_COIN","sc/ui_spells.sc","icon_consumable_gold_coin_icon","icon_consumable_gold_coin_icon_hires","sc/ui_spells.sc","icon_consumable_gold_coin_icon","sc/ui_spells.sc","card_image_consumable_gold_coin",,,"Spell",,"TRUE",,0,1,,"TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE","TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT","TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE","FALSE",20,185000,0,100,,"TID_ITEM_CONSUMABLE_GOLD_COIN_INVALID_TARGET",20,,,"TRUE","consumable_RewardAppear_coin",,,,,"TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_GOLD_COIN"
+"GoldCoin","TID_ITEM_CONSUMABLE_GOLD_COIN","sc/ui_spells.sc","icon_consumable_gold_coin_icon","icon_consumable_gold_coin_icon_hires","sc/ui_spells.sc","icon_consumable_gold_coin_icon","sc/ui_spells.sc","card_image_consumable_gold_coin",,,"Spell",,"TRUE",,0,1,,"TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE","TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT","TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",TRUE,20,2500,0,100,,"TID_ITEM_CONSUMABLE_GOLD_COIN_INVALID_TARGET",20,,,"TRUE","consumable_RewardAppear_coin",,,,,"TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_GOLD_COIN"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -135,7 +135,7 @@
 ,,,,,,,,,,,,,,,12,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,1,,,,,,,,,,,,,,,,,,,,,,,
-"ChestKey","TID_ITEM_CONSUMABLE_CHEST_KEY","sc/ui_spells.sc","icon_consumable_chest_key_icon","icon_consumable_chest_key_icon_hires","sc/ui_spells.sc","icon_consumable_chest_key_icon","sc/ui_spells.sc","card_image_consumable_chest_key",,,"Chest",,"TRUE",,0,5,,"TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE","TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT","TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE","FALSE",100,2500,100,0,,"TID_ITEM_CONSUMABLE_CHEST_KEY_INVALID_TARGET",21,,,"TRUE","consumable_RewardAppear_key",,,,,"TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_CHEST_KEY"
+"ChestKey","TID_ITEM_CONSUMABLE_CHEST_KEY","sc/ui_spells.sc","icon_consumable_chest_key_icon","icon_consumable_chest_key_icon_hires","sc/ui_spells.sc","icon_consumable_chest_key_icon","sc/ui_spells.sc","card_image_consumable_chest_key",,,"Chest",,"TRUE",,0,5,,"TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE","TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT","TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE",TRUE,100,2500,100,0,,"TID_ITEM_CONSUMABLE_CHEST_KEY_INVALID_TARGET",21,,,"TRUE","consumable_RewardAppear_key",,,,,"TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_CHEST_KEY"
 ,,,,,,,,,,,,,,,1,5,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,5,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,5,,,,,,,,,,,,,,,,,,,,,,,
@@ -150,7 +150,7 @@
 ,,,,,,,,,,,,,,,12,9,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,10,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,10,,,,,,,,,,,,,,,,,,,,,,,
-"BookCardAll","TID_ITEM_CONSUMABLE_BOOK_CARD_ALL","sc/ui_spells.sc","icon_consumable_book_cards_all","icon_consumable_book_cards_all_hires","sc/ui_spells.sc","icon_consumable_book_cards_all","sc/ui_spells.sc","card_image_consumable_book_cards_all",,,"Spell",,"TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE","TRUE",10,250000,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",19,,,"TRUE","consumable_RewardAppear_book_of_books",,"book_of_book_vignette",,,"TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_ALL"
+"BookCardAll","TID_ITEM_CONSUMABLE_BOOK_CARD_ALL","sc/ui_spells.sc","icon_consumable_book_cards_all","icon_consumable_book_cards_all_hires","sc/ui_spells.sc","icon_consumable_book_cards_all","sc/ui_spells.sc","card_image_consumable_book_cards_all",,,"Spell",,"TRUE",,0,1,,"TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE","TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE","TRUE",10,2500,0,100,,"TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",19,,,"TRUE","consumable_RewardAppear_book_of_books",,"book_of_book_vignette",,,"TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_ALL"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -180,7 +180,7 @@
 ,,,,,,,,,,,,,,,12,200,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,200,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,200,,,,,,,,,,,,,,,,,,,,,,,
-"WildcardChampion","TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION","sc/ui_spells.sc","icon_consumable_wildcard_champion","icon_consumable_wildcard_champion_hires","sc/ui_spells.sc","icon_consumable_wildcard_champion","sc/ui_spells.sc","card_image_consumable_wildcard_champion","sc/ui_chest.sc","icon_consumable_wildcard_front_champion","Spell","Champion","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_WILDCARD_USAGE","TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE","TRUE",200,100000,20000,0,,"TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",4,,,"TRUE","consumable_rewardAppear_champion_wildcard",,,"wildcard_openChest_get_champion","wildcard_openChest_loop_champion","TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_CHAMPION"
+"WildcardChampion","TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION","sc/ui_spells.sc","icon_consumable_wildcard_champion","icon_consumable_wildcard_champion_hires","sc/ui_spells.sc","icon_consumable_wildcard_champion","sc/ui_spells.sc","card_image_consumable_wildcard_champion","sc/ui_chest.sc","icon_consumable_wildcard_front_champion","Spell","Champion","TRUE",,0,1,,"TID_ITEM_CONSUMABLE_WILDCARD_USAGE","TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE","TRUE",200,2500,20000,0,,"TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",4,,,"TRUE","consumable_rewardAppear_champion_wildcard",,,"wildcard_openChest_get_champion","wildcard_openChest_loop_champion","TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION_REWARD_DESCRIPTION",,"TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_CHAMPION"
 ,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -195,7 +195,7 @@
 ,,,,,,,,,,,,,,,12,2,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,13,8,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,14,20,,,,,,,,,,,,,,,,,,,,,,,
-"BoostSingleCard","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD","sc/ui_spells.sc","icon_consumable_boost_potion_card","icon_consumable_boost_potion_card_hires","sc/ui_spells.sc","icon_consumable_boost_potion_card","sc/ui_spells.sc","consumable_boost_potion","sc/ui_chest.sc",,"Spell",,"TRUE",,0,8,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE","FALSE",5,0,500,0,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_INVALID_TARGET",22,,,"TRUE",,,,,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_REWARD_DESCRIPTION",1,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOST_SINGLE_CARD"
+"BoostSingleCard","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD","sc/ui_spells.sc","icon_consumable_boost_potion_card","icon_consumable_boost_potion_card_hires","sc/ui_spells.sc","icon_consumable_boost_potion_card","sc/ui_spells.sc","consumable_boost_potion","sc/ui_chest.sc",,"Spell",,"TRUE",,0,8,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT","TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE",TRUE,5,0,500,0,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_INVALID_TARGET",22,,,"TRUE",,,,,,"TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_REWARD_DESCRIPTION",1,"TID_SHOP_OFFER_INFO_CONSUMABLE_BOOST_SINGLE_CARD"
 ,,,,,,,,,,,,,,,1,8,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,2,8,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,3,8,,,,,,,,,,,,,,,,,,,,,,,
