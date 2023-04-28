@@ -541,7 +541,7 @@
 ,,,,2500,"SpawnEnemy",6000,9000,"Tombstone"
 ,,,,5000,"Spawn",4500,8500,"Earthquake"
 ,,,,11000,"SpawnEnemy",7000,10000,"FirespiritHut"
-,,,,14000,"Spawn",5500,8000,"Earthquake"
+,,,,13000,"Spawn",5500,8000,"Earthquake"
 ,,,,19000,"Reset",,,
 "GoblinGiant","Normal",,-3000,500,"Spawn",3500,17000,"GoblinGiant"
 ,,,,2500,"SpawnEnemy",3500,9000,"Bats"

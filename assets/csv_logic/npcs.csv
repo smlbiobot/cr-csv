@@ -51,8 +51,8 @@
 "Npc49","TrainingCamp","BasicDeck49",5000,28000,14000,14000,34,"true","TID_NPC_49",,"true",,-1,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc50","TrainingCamp","BasicDeck50",5300,28000,14000,14000,34,"true","TID_NPC_50",,"true",,-1,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc51","TrainingCamp","BasicDeck51",5600,28000,14000,14000,34,"true","TID_NPC_51",,"true",,-1,,"NPC4_Start","NPC4_Tower",,"TRUE"
-"Npc52","TrainingCamp","BasicDeck52",6000,7000,7000,7000,38,"true","TID_NPC_52",,"true",,-1,,"NPC4_Start","NPC4_Tower",,
-"Npc53","TrainingCamp","BasicDeck53",6400,6000,6000,6000,38,"true","TID_NPC_53",,"true",,-1,,"NPC4_Start","NPC4_Tower",,
+"Npc52","TrainingCamp","BasicDeck52",6000,7000,7000,7000,38,"true","TID_NPC_52",,"true",,-1,,"NPC4_Start","NPC4_Tower",,"TRUE"
+"Npc53","TrainingCamp","BasicDeck53",6400,6000,6000,6000,38,"true","TID_NPC_53",,"true",,-1,,"NPC4_Start","NPC4_Tower",,"TRUE"
 "Npc1_2","FirstMatch","BasicDeck1",0,120000,120000,120000,1,"true","TID_NPC_1",2,"true",,1,40,,"NPC1_Tower","TRUE",
 "Npc2_2","FirstMatch","BasicDeck2",0,120000,120000,120000,1,"true","TID_NPC_2",3,"true",,1,60,"NPC2_Start","NPC2_Tower",,
 "Npc3_2","FirstMatch","BasicDeck3",0,100000,100000,100000,1,"true","TID_NPC_3",1,"true",,1,60,"NPC3_Start","NPC3_Tower",,
@@ -63,4 +63,4 @@
 "TutorialNPC_1_1","FirstMatch","BasicDeck2",0,120000,120000,120000,1,"true","TID_NPC_1",2,"true",,1,20,"NPC2_Start","NPC1_Tower","TRUE",
 "TutorialNPC_1_2","FirstMatch","BasicDeck3",0,100000,100000,100000,1,"true","TID_NPC_2",1,"true",,1,30,"NPC3_Start","NPC2_Tower",,
 "TutorialNPC_1_3","FirstMatch","TutorialDeck7",0,100000,100000,100000,1,"true","TID_NPC_3",4,"true",,1,40,"NPC4_Start","NPC3_Tower",,
-"Npc_Cheddar_easteregg","TrainingCamp","Trainer_Cheddar_EasterEgg_Deck",6000,28000,14000,14000,38,"true","TID_NPC_52",,"true",,-1,400,"NPC_Cheddar_Start","NPC_Cheddar_Tower",,"TRUE"
+"Npc_Cheddar_easteregg","TrainingCamp","Trainer_Cheddar_EasterEgg_Deck",6000,28000,14000,14000,38,"true","TID_NPC_CHEDDAR_EASTEREGG",,"true",,-1,400,"NPC_Cheddar_Start","NPC_Cheddar_Tower",,
