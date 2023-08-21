@@ -31,7 +31,7 @@
 ,1700,"sc/ui_trophy_road_milestones.sc","tr_4_2","left",1,,,,"Gold_Arena6",,,,,
 ,1750,"sc/ui_trophy_road_milestones.sc","tr_4_3","right",1,"SkeletonArmy","Witch",,,,,,,
 ,1800,"sc/ui_trophy_road_milestones.sc","tr_4_4","left",1250,,,"Gold",,,,,,
-,1850,"sc/ui_trophy_road_milestones.sc","tr_4_5","right",1,"GoblinBarrel","Wallbreakers",,,,,,,
+,1850,"sc/ui_trophy_road_milestones.sc","tr_4_5","right",1,"GoblinBarrel","SkeletonWarriors",,,,,,,
 ,1900,"sc/ui_trophy_road_milestones.sc","tr_4_4","left",1500,,,"Gold",,,,,,
 ,1950,"sc/ui_trophy_road_milestones.sc","tr_4_2","right",1,,,,"Epic_Arena6",,,,,
 ,2050,"sc/ui_trophy_road_milestones.sc","tr_7_1","right",50,"RoyalGiant","RoyalRecruits",,,,,,,
@@ -67,7 +67,7 @@
 ,3750,"sc/ui_trophy_road_milestones.sc","tr_11_7","right",1,,,,"Legendary_Arena_Electric",,,,,
 ,3850,"sc/ui_trophy_road_milestones.sc","tr_12_1","right",50,,,,,,,,,"WildcardCommon"
 ,3900,"sc/ui_trophy_road_milestones.sc","tr_12_2","left",3250,,,"Gold",,,,,,
-,3950,"sc/ui_trophy_road_milestones.sc","tr_12_3","right",2,"SkeletonWarriors","ElectroDragon",,,,,,,
+,3950,"sc/ui_trophy_road_milestones.sc","tr_12_3","right",2,"Wallbreakers","ElectroDragon",,,,,,,
 ,4000,"sc/ui_trophy_road_milestones.sc","tr_12_4","left",1,,,,,18,3,,,
 ,4050,"sc/ui_trophy_road_milestones.sc","tr_12_5","right",25,,,"Diamonds",,,,,,
 ,4100,"sc/ui_trophy_road_milestones.sc","tr_12_6","left",3500,,,"Gold",,,,,,
@@ -117,3 +117,18 @@
 ,7350,"sc/ui_trophy_road_milestones.sc","tr_19_dragon_5","right",5,,,,,,,,,"WildcardEpic"
 ,7400,"sc/ui_trophy_road_milestones.sc","tr_19_dragon_6","left",25,,,"Diamonds",,,,,,
 ,7450,"sc/ui_trophy_road_milestones.sc","tr_19_dragon_3","right",1,,,,,,,,,"WildcardLegendary"
+,7600,"sc/ui_trophy_road_milestones.sc","tr_21_bootcamp_2","left",250,,,,,,,,,"WildcardCommon"
+,7675,"sc/ui_trophy_road_milestones.sc","tr_21_bootcamp_3","right",8500,,,"Gold",,,,,,
+,7750,"sc/ui_trophy_road_milestones.sc","tr_21_bootcamp_4","left",1,,,,,,,,,"WildcardChampion"
+,7825,"sc/ui_trophy_road_milestones.sc","tr_21_bootcamp_1","right",25,,,"Diamonds",,,,,,
+,7900,"sc/ui_trophy_road_milestones.sc","tr_21_bootcamp_2","left",30,,,,,,,,,"WildcardRare"
+,8100,"sc/ui_trophy_road_milestones.sc","tr_22_clashfest_2","left",9000,,,"Gold",,,,,,
+,8175,"sc/ui_trophy_road_milestones.sc","tr_22_clashfest_3","right",1,,,,,,,,,"WildcardLegendary"
+,8250,"sc/ui_trophy_road_milestones.sc","tr_22_clashfest_4","left",25,,,"Diamonds",,,,,,
+,8325,"sc/ui_trophy_road_milestones.sc","tr_22_clashfest_1","right",10,,,,,,,,,"WildcardEpic"
+,8400,"sc/ui_trophy_road_milestones.sc","tr_22_clashfest_2","left",1,,,,"Magic_Arena_L6",,,,,
+,8600,"sc/ui_trophy_road_milestones.sc","tr_23_pancakes_2","left",9500,,,"Gold",,,,,,
+,8675,"sc/ui_trophy_road_milestones.sc","tr_23_pancakes_3","right",1,,,,,,,,,"WildcardChampion"
+,8750,"sc/ui_trophy_road_milestones.sc","tr_23_pancakes_4","left",25,,,"Diamonds",,,,,,
+,8825,"sc/ui_trophy_road_milestones.sc","tr_23_pancakes_1","right",1,,,,,,,,,"WildcardLegendary"
+,8900,"sc/ui_trophy_road_milestones.sc","tr_23_pancakes_2","left",10000,,,"Gold",,,,,,

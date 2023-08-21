@@ -310,17 +310,17 @@
 "EmoteChronos102",221,0,"True","False","sfx/emotes/emotes_darkprince_sleepy_dl.ogg","sc/emotes_darkprince_sleepy_dl.sc","False","False","2023-04-03","DarkPrince Sleepy","Dark Prince"
 "EmoteChronos103",222,0,"True","False","sfx/emotes/emotes_prince_epicsilly_dl.ogg","sc/emotes_prince_epicsilly_dl.sc","False","False","2023-04-03","Prince Epic Silly","Prince"
 "EmoteChronos104",223,0,"True","False","sfx/emotes/emotes_prince_lanceclean_dl.ogg","sc/emotes_prince_lanceclean_dl.sc","False","False","2023-04-03","Prince Lance Clean","Prince"
-"EmoteChronos105",224,0,,,,,,,,,
-"EmoteChronos106",225,0,,,,,,,,,
-"EmoteChronos107",226,0,,,,,,,,,
-"EmoteChronos108",227,0,,,,,,,,,
-"EmoteChronos109",228,0,,,,,,,,,
-"EmoteChronos110",229,0,,,,,,,,,
-"EmoteChronos111",230,0,,,,,,,,,
-"EmoteChronos112",231,0,,,,,,,,,
-"EmoteChronos113",232,0,,,,,,,,,
-"EmoteChronos114",233,0,,,,,,,,,
-"EmoteChronos115",234,0,,,,,,,,,
+"EmoteChronos105",224,0,"True","False","sfx/emotes/emotes_rokkus_angry_dl.ogg","sc/emotes_rokkus_angry_dl.sc","False","True","2023-05-04","HogRider Angry","HogRider"
+"EmoteChronos106",225,0,"True","False","sfx/emotes/emotes_pimpim_smash_dl.ogg","sc/emotes_pimpim_smash_dl.sc","False","False","2023-05-04","Hog Smash","Hog"
+"EmoteChronos107",226,0,"True","False","sfx/emotes/emotes_rokkus_laugh_dl.ogg","sc/emotes_rokkus_laugh_dl.sc","False","True","2023-05-04","HogRider Laugh","HogRider"
+"EmoteChronos108",227,0,"True","False","sfx/emotes/emotes_terry_plunger_dl.ogg","sc/emotes_terry_plunger_dl.sc","False","False","2023-05-04","HogRider Plunger","HogRider"
+"EmoteChronos109",228,0,"True","False","sfx/emotes/emotes_terry_transform_dl.ogg","sc/emotes_terry_transform_dl.sc","False","False","2023-05-04","HogRider Transform","HogRider"
+"EmoteChronos110",229,0,"True","False","sfx/emotes/emotes_archerqueen_rockevolution_dl.ogg","sc/emotes_archerqueen_rockevolution_dl.sc","False","False","2023-05-22","ArcherQueen Rock","ArcherQueen"
+"EmoteChronos111",230,0,"True","False","sfx/emotes/emotes_battlehealer_rainbow_dl.ogg","sc/emotes_battlehealer_rainbow_dl.sc","False","False","2023-05-22","BattleHealer Rainbow","BattleHealer"
+"EmoteChronos112",231,0,"True","False","sfx/emotes/emotes_goldenknight_hairspin_dl.ogg","sc/emotes_goldenknight_hairspin_dl.sc","False","True","2023-05-22","GoldenKnight Hairspin","GoldenKnight"
+"EmoteChronos113",232,0,"True","False","sfx/emotes/emotes_goldenknight_rockevolution_dl.ogg","sc/emotes_goldenknight_rockevolution_dl.sc","False","True","2023-05-22","GoldenKnight Rock","GoldenKnight"
+"EmoteChronos114",233,0,"True","False","sfx/emotes/emotes_rascals_lovegum_dl.ogg","sc/emotes_rascals_lovegum_dl.sc","False","False","2023-05-22","Rascals Lovegum","Rascals"
+"EmoteChronos115",234,0,"True","False","sfx/emotes/emotes_skeletonking_rockevolution_dl.ogg","sc/emotes_skeletonking_rockevolution_dl.sc","False","False","2023-05-22","SkeletonKing Rock","SkeletonKing"
 "EmoteChronos116",235,0,,,,,,,,,
 "EmoteChronos117",236,0,,,,,,,,,
 "EmoteChronos118",237,0,,,,,,,,,
@@ -331,3 +331,53 @@
 "EmoteChronos123",242,0,,,,,,,,,
 "EmoteChronos124",243,0,,,,,,,,,
 "EmoteChronos125",244,0,,,,,,,,,
+"EmoteChronos126",245,0,,,,,,,,,
+"EmoteChronos127",246,0,,,,,,,,,
+"EmoteChronos128",247,0,,,,,,,,,
+"EmoteChronos129",248,0,,,,,,,,,
+"EmoteChronos130",249,0,,,,,,,,,
+"EmoteChronos131",250,0,,,,,,,,,
+"EmoteChronos132",251,0,,,,,,,,,
+"EmoteChronos133",252,0,,,,,,,,,
+"EmoteChronos134",253,0,,,,,,,,,
+"EmoteChronos135",254,0,,,,,,,,,
+"EmoteChronos136",255,0,,,,,,,,,
+"EmoteChronos137",256,0,,,,,,,,,
+"EmoteChronos138",257,0,,,,,,,,,
+"EmoteChronos139",258,0,,,,,,,,,
+"EmoteChronos140",259,0,,,,,,,,,
+"EmoteChronos141",260,0,,,,,,,,,
+"EmoteChronos142",261,0,,,,,,,,,
+"EmoteChronos143",262,0,,,,,,,,,
+"EmoteChronos144",263,0,,,,,,,,,
+"EmoteChronos145",264,0,,,,,,,,,
+"EmoteChronos146",265,0,,,,,,,,,
+"EmoteChronos147",266,0,,,,,,,,,
+"EmoteChronos148",267,0,,,,,,,,,
+"EmoteChronos149",268,0,,,,,,,,,
+"EmoteChronos150",269,0,,,,,,,,,
+"EmoteChronos151",270,0,,,,,,,,,
+"EmoteChronos152",271,0,,,,,,,,,
+"EmoteChronos153",272,0,,,,,,,,,
+"EmoteChronos154",273,0,,,,,,,,,
+"EmoteChronos155",274,0,,,,,,,,,
+"EmoteChronos156",275,0,,,,,,,,,
+"EmoteChronos157",276,0,,,,,,,,,
+"EmoteChronos158",277,0,,,,,,,,,
+"EmoteChronos159",278,0,,,,,,,,,
+"EmoteChronos160",279,0,,,,,,,,,
+"EmoteChronos161",280,0,,,,,,,,,
+"EmoteChronos162",281,0,,,,,,,,,
+"EmoteChronos163",282,0,,,,,,,,,
+"EmoteChronos164",283,0,,,,,,,,,
+"EmoteChronos165",284,0,,,,,,,,,
+"EmoteChronos166",285,0,,,,,,,,,
+"EmoteChronos167",286,0,,,,,,,,,
+"EmoteChronos168",287,0,,,,,,,,,
+"EmoteChronos169",288,0,,,,,,,,,
+"EmoteChronos170",289,0,,,,,,,,,
+"EmoteChronos171",290,0,,,,,,,,,
+"EmoteChronos172",291,0,,,,,,,,,
+"EmoteChronos173",292,0,,,,,,,,,
+"EmoteChronos174",293,0,,,,,,,,,
+"EmoteChronos175",294,0,,,,,,,,,

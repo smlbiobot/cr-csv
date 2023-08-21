@@ -198,12 +198,12 @@ Tutorial_NPC_5_2,false,false,Sequential,Spawn,Knight,true,time_in_line >= 3000,1
 ,,,,Spawn,Knight,true,time_in_line >= 24000,1,5000,4500,0,1
 ,,,,RestartWave,,true,time_in_line >= 35000,,,,,
 ,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+PVE_Test_NPC_1,false,false,Sequential,Spawn,Knight,true,time_in_line >= 3000,3,15000,7500,0,11
+,,,,Spawn,Bomber,true,time_in_line >= 4000,3,15000,7500,0,11
+,,,,Spawn,Giant,true,time_in_line >= 8000,3,3500,7500,0,11
+,,,,Spawn,Archer,true,time_in_line >= 10000,4,15000,7500,0,11
+,,,,Spawn,Knight,true,time_in_line >= 20000,4,5000,4500,0,11
+,,,,RestartWave,,true,time_in_line >= 22000,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,

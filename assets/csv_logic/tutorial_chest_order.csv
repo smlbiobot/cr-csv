@@ -17,4 +17,7 @@
 ,"Silver","Npc7",
 "Wins1","TutorialChest_1_1","TutorialNPC_1_1","TutorialTest_1_1"
 ,"TutorialChest_1_2","TutorialNPC_1_2","TutorialTest_1_2"
-,"TutorialChest_1_3","TutorialNPC_1_3","TutorialTest_1_3"
+,"TutorialChest_1_3","TutorialNPC_1_3","TutorialTest_1_3",
+Wins1_MUTE_SPELLS,"TutorialChest_1_1",TutorialNPC_1_1_MUTE_SPELLS,"TutorialTest_1_1"
+,"TutorialChest_1_2",TutorialNPC_1_2_MUTE_SPELLS,"TutorialTest_1_2"
+,"TutorialChest_1_3",TutorialNPC_1_3_MUTE_SPELLS,"TutorialTest_1_3"

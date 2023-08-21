@@ -12,3 +12,9 @@
 "Summoner3","sc/ui.sc","hp_player_high","hp_enemy_high","hp_player_number","hp_enemy_number",150,,"true",-20,-20,-20,-20,
 "ClanBoatDefense","sc/ui.sc","hp_boat_safe_player","hp_boat_safe","hp_boat_safe","hp_boat_safe",,,"true",,,,,
 "Resurrection","sc/ui.sc","bar_skeleton_king_souls","bar_skeleton_king_souls","hp_shield_player_number","hp_shield_enemy_number",,,,,,,,
+"Small_EV1","sc/ui.sc","hp_player_small_evolution","hp_enemy_small_evolution","hp_player_number_evolution","hp_enemy_number_evolution",0,,"true",,,,,
+"Medium_EV1","sc/ui.sc","hp_player_medium_evolution","hp_enemy_medium_evolution","hp_player_number_evolution","hp_enemy_number_evolution",75,,"true",,,,,
+"High_EV1","sc/ui.sc","hp_player_high_evolution","hp_enemy_high_evolution","hp_player_number_evolution","hp_enemy_number_evolution",150,,"true",,,,,
+"Shield_EV1","sc/ui.sc","hp_shield_player_medium_evolution","hp_shield_enemy_medium_evolution","hp_shield_player_number","hp_shield_enemy_number_evolution",,,"true",,,,,
+"Shield_small_EV1","sc/ui.sc","hp_shield_player_small_evolution","hp_shield_enemy_small_evolution","hp_shield_player_number","hp_shield_enemy_number_evolution",,,"true",,,,,
+"MediumShield_EV1","sc/ui.sc","hp_shield_player_medium_evolution","hp_shield_enemy_medium_evolution","hp_shield_player_number","hp_shield_enemy_number_evolution",,,"true",,,,,"TRUE"
