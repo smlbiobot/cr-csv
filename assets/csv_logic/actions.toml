@@ -1,0 +1,21 @@
+#add here the actions 
+
+#[SuperArcherMorph]
+#MorphCharacter="SuperArcher"
+#ActionDelay
+#NextAction
+#NextActionWait
+#RepeatTimes
+#RepeatDelay
+#SpawnType
+#SpawnData
+#SpawnLevelIndex
+#SpawnTime
+
+[RoyalGiant_EV1_PushBack]
+SpawnType = "AreaEffectType"
+SpawnData = "EvoRoyalGiantPush_EV1"
+
+[Knight_EV1_ProtectionVFX]
+Effect = "evo_knight_shield"
+EffectFlags = "FollowParent,ParticlesFollowParent"

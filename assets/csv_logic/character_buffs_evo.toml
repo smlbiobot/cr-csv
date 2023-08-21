@@ -1,0 +1,45 @@
+# Buff used by evolved cards
+
+[SkeletonDuplication_EV1]
+
+	Rarity = "Common"
+	#Effect = "Spell_rage_hit_effect"
+	#FilterFile = "sc/effects.sc"
+	#FilterExportName = "filter_rage"
+	MarkEffect = "Healing"
+	SpawnNumber = 1
+	SpawnInterval = 50
+	SpawnObject = "Skeleton_EV1"
+	SpawnLimit = 1
+#	SpawnStartTime = 3000
+#	AddAsIndividualBuff = true
+
+[Barbarian_EVO_Rage]
+
+	Rarity = "Common"
+	HitSpeedMultiplier = 150
+	SpeedMultiplier = 150
+	Effect = "Spell_rage_hit_effect"
+	FilterFile = "sc/effects.sc"
+	FilterExportName = "filter_rage"
+	MarkEffect = "Healing"
+	AudioPitchModifier = 80
+	Scale = 105
+	EnableStacking = TRUE
+
+[FirecrackerFireworks_EV1]
+
+	Rarity = "Common"
+	CrownTowerDamagePercent = -70
+	DamagePerSecond = 20
+	HitFrequency = 250
+	Effect = "PoisonSteam"
+	FilterExportName = "filter_damage"
+
+[Knight_Fortify_EV1]
+
+	Rarity = "Common"
+	DamageReduction = 80
+	OnDamageReductionAction = "Knight_EV1_ProtectionVFX"
+	#FilterFile = "sc/effects.sc"
+	#FilterExportName = "filter_shield"

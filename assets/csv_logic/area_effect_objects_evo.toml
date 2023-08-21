@@ -1,0 +1,45 @@
+# AureEffectObjects used by evolved cards
+
+[EvoRoyalGiantPush_EV1]
+
+	Rarity = "Common"
+	LifeDuration = 1
+	Radius = 3000
+	OneShotEffect = "royal_giant_evo_push_back"
+	Pushback = 1000
+	Damage = 32
+	OnlyEnemies = TRUE
+	HitsGround = TRUE
+	Tags = "NO_AOE_PUSHBACK_VFX"
+
+[FirecrackerFireworksBig_EV1]
+
+	Rarity = "Common"
+	LifeDuration = 2500
+	Radius = 2500
+	LoopingEffect = "Evo_fireworks_loop"
+	OneShotEffect = "Evo_fireworks_effect"
+	ScaledEffect = "Evo_fireworks_ground"
+	HitSpeed = 250
+	Buff = "FirecrackerFireworks_EV1"
+	BuffTime = 400
+	BuffNumber = 1
+	OnlyEnemies = TRUE
+	HitsGround = TRUE
+	HitsAir = TRUE
+
+[FirecrackerFireworksSmall_EV1]
+
+	Rarity = "Common"
+	LifeDuration = 2000
+	Radius = 1200
+	LoopingEffect = "Evo_fireworks_small_loop"
+	OneShotEffect = "Evo_fireworks_small_effect"
+	ScaledEffect = "Evo_fireworks_small_ground"
+	HitSpeed = 250
+	Buff = "FirecrackerFireworks_EV1"
+	BuffTime = 400
+	BuffNumber = 1
+	OnlyEnemies = TRUE
+	HitsGround = TRUE
+	HitsAir = TRUE

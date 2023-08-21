@@ -1,0 +1,405 @@
+#Evolved characters
+#this is a patch file that create new cards by using existing cards and modifying them
+
+[Knight_EV1]
+
+	Base="Knight"
+	Hitpoints=["%",130]
+	Damage=["%",110]
+	HitSpeed=["+",-300]
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	Knight_prestige=""
+	PrestigeExportName3=""
+	DeathEffect="Death_card_evolution_M"
+	SpawnEffect="Deploy_Knight_Evolution"
+	HealthBar="Medium_EV1"
+	#LoopingFilter="filter_card_evolution_ingame"
+	BuffWhenNotAttacking="Knight_Fortify_EV1"
+	BuffWhenNotAttackingTime=50
+	CustomSpawnFilter="filter_card_evolution"
+	ClonedVersion="Knight"
+	FileName="sc/chr_knight_evolution.sc"
+	BlueExportName="knight_evolution"
+	RedExportName="knight_evolution_enemy"
+	Scale=78
+	DeployBaseAnimExportName="filter_deploy_unit_legendary"
+	HealthBarOffsetY=["=",-10]
+
+[Archer_EV1]
+
+	Base="Goblin"
+
+[Goblin_EV1]
+
+	Base="Goblin"
+
+[Giant_EV1]
+
+	Base="Goblin"
+
+[Pekka_EV1]
+
+	Base="Goblin"
+
+[Minion_EV1]
+
+	Base="Goblin"
+
+[Balloon_EV1]
+
+	Base="Goblin"
+
+[Witch_EV1]
+
+	Base="Goblin"
+
+[Barbarian_EV1]
+
+	Base="Barbarian"
+	Hitpoints=["%",130]
+	Damage=["%",109]
+	FileName="sc/chr_barbarian_evolution.sc"
+	RedExportName="enemy_barbarian1"
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	DeathEffect="Death_card_evolution_M"
+	SpawnEffect="Deploy_Barbarian_Evolution"
+	HealthBar="Medium_EV1"
+	Scale=56
+	DeployBaseAnimExportName="filter_deploy_unit_legendary"
+	BuffAfterHitsCount=[ 1 ]
+	BuffAfterHitsTime=[ 2000 ]
+	BuffAfterHits=[ "Barbarian_EVO_Rage" ]
+	CustomSpawnFilter="filter_card_evolution"
+	ClonedVersion="Barbarian"
+
+
+[Golem_EV1]
+
+	Base="Goblin"
+
+[Skeleton_EV1]
+
+	Base="Skeleton"
+	FileName="sc/chr_skeleton_evolution.sc"
+	BlueExportName="evoskeleton1"
+	RedExportName="evoskeleton1"
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	PrestigeExportName3=""
+	DeathEffect="Death_card_evolution_S"
+	SpawnEffect="Deploy_Skeleton_Evolution"
+	Scale=["=",40]
+	HealthBar="Small_EV1"
+	HealthBarOffsetY=["=",-10]
+	SpawnCharacterEffect="evolution_skeleton_spawn"
+	DeployBaseAnimExportName="filter_deploy_unit_legendary"
+	BuffAfterHitsCount=[ 1 ]
+	BuffAfterHitsTime=[ 500 ]
+	BuffAfterHits=[ "SkeletonDuplication_EV1" ]
+	CustomSpawnFilter="filter_card_evolution"
+	GroupMaxSize=6
+	ClonedVersion="Skeleton"
+
+[Valkyrie_EV1]
+
+	Base="Goblin"
+
+[SkeletonArmy_EV1]
+
+	Base="Goblin"
+
+[Bomber_EV1]
+
+	Base="Goblin"
+
+[Musketeer_EV1]
+
+	Base="Goblin"
+
+[BabyDragon_EV1]
+
+	Base="Goblin"
+
+[Prince_EV1]
+
+	Base="Goblin"
+
+[Wizard_EV1]
+
+	Base="Goblin"
+
+[MiniPekka_EV1]
+
+	Base="Goblin"
+
+[SpearGoblins_EV1]
+
+	Base="Goblin"
+
+[GiantSkeleton_EV1]
+
+	Base="Goblin"
+
+[HogRider_EV1]
+
+	Base="Goblin"
+
+[MinionHorde_EV1]
+
+	Base="Goblin"
+
+[IceWizard_EV1]
+
+	Base="Goblin"
+
+[RoyalGiant_EV1]
+
+	Base="RoyalGiant"
+	Hitpoints=["%",110]
+	Projectile="RoyalGiantProjectile_EV1"
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	DeathEffect="Death_card_evolution_M"
+	SpawnEffect="Deploy_RoyalGiant_Evolution"
+	HealthBar="High_EV1"
+	#LoopingFilter="filter_card_evolution_ingame"
+	AreaEffectOnHit="Freeze"
+	CustomSpawnFilter="filter_card_evolution"
+	OnAttackAction="RoyalGiant_EV1_PushBack"
+	ClonedVersion="RoyalGiant"
+	FileName="sc/chr_royalgiant_evolution.sc"
+	BlueExportName="royalgiant_evo"
+	RedExportName="enemy_royalgiant_evo"
+	Scale=78
+	DeployBaseAnimExportName="filter_deploy_unit_legendary"
+	ProjectileEffect="evo_royal_giant_projectile_fx"
+	AttackStartEffect=""
+
+[SkeletonWarriors_EV1]
+
+	Base="Goblin"
+
+[Princess_EV1]
+
+	Base="Goblin"
+
+[DarkPrince_EV1]
+
+	Base="Goblin"
+
+[ThreeMusketeers_EV1]
+	
+	Base="Goblin"
+
+[LavaHound_EV1]
+
+	Base="Goblin"
+
+[IceSpirits_EV1]
+
+	Base="Goblin"
+
+[FireSpirits_EV1]
+
+	Base="Goblin"
+
+[Miner_EV1]
+	
+	Base="Goblin"
+
+[ZapMachine_EV1]
+
+	Base="Goblin"
+
+[Bowler_EV1]
+
+	Base="Goblin"
+
+[RageBarbarian_EV1]
+
+	Base="Goblin"
+
+[BattleRam_EV1]
+
+	Base="Goblin"
+
+[InfernoDragon_EV1]
+
+	Base="Goblin"
+
+[IceGolemite_EV1]
+
+	Base="Goblin"
+
+[MegaMinion_EV1]
+
+	Base="Goblin"
+
+[BlowdartGoblin_EV1]
+
+	Base="Goblin"
+
+[GoblinGang_EV1]
+
+	Base="Goblin"
+
+[ElectroWizard_EV1]
+
+	Base="Goblin"
+
+[AngryBarbarians_EV1]
+
+	Base="Goblin"
+
+[Hunter_EV1]
+
+	Base="Goblin"
+
+[AxeMan_EV1]
+
+	Base="Goblin"
+
+[Assassin_EV1]
+
+	Base="Goblin"
+
+[Recruit_EV1]
+
+	Base="Goblin"
+
+[DarkWitch_EV1]
+
+	Base="Goblin"
+
+[Bat_EV1]
+
+	Base="Goblin"
+
+[Ghost_EV1]
+
+	Base="Goblin"
+
+[RamRider_EV1]
+
+	Base="Goblin"
+
+[MiniSparkys_EV1]
+
+	Base="Goblin"
+
+[Rascals_EV1]
+
+	Base="Goblin"
+
+[MovingCannon_EV1]
+
+	Base="Goblin"
+
+[MegaKnight_EV1]
+
+	Base="Goblin"
+
+[SkeletonBalloon_EV1]
+
+	Base="Goblin"
+
+[DartBarrell_EV1]
+
+	Base="Goblin"
+
+[Wallbreakers_EV1]
+
+	Base="Goblin"
+
+[RoyalHogs_EV1]
+
+	Base="Goblin"
+
+[GoblinGiant_EV1]
+
+	Base="Goblin"
+
+[Fisherman_EV1]
+
+	Base="Goblin"
+
+[EliteArcher_EV1]
+
+	Base="Goblin"
+
+[ElectroDragon_EV1]
+
+	Base="Goblin"
+
+[Firecracker_EV1]
+
+	Base="Firecracker"
+	Hitpoints=["%",130]
+	Projectile="FirecrackerProjectile_EV1"
+	ProjectileSpecial="ArcherArrow"
+	DeathEffect="Death_card_evolution_M"
+	SpawnEffect="Deploy_Firecracker_Evolution"
+	HealthBar="Small_EV1"
+#	LoopingFilter="filter_card_evolution_ingame"
+	CustomSpawnFilter="filter_card_evolution"
+	FileName="sc/chr_firecracker_evolution.sc"
+	BlueExportName="evofirecracker"
+	RedExportName="evofirecracker_enemy"
+	Scale=42
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	PrestigeRedExportName=""
+	PrestigeRedExportName2=""
+	DeployBaseAnimExportName="filter_deploy_unit_legendary"
+	ClonedVersion="Firecracker"
+	ProjectileEffect="evo_firecracker_attack"
+
+[MightyMiner_EV1]
+
+	Base="Goblin"
+
+[ElixirGolem_EV1]
+
+	Base="Goblin"
+
+[BattleHealer_EV1]
+
+	Base="Goblin"
+
+[SkeletonKing_EV1]
+
+	Base="Goblin"
+
+[ArcherQueen_EV1]
+
+	Base="Goblin"
+
+[GoldenKnight_EV1]
+
+	Base="Goblin"
+
+[Monk_EV1]
+
+	Base="Goblin"
+
+[SkeletonDragons_EV1]
+
+	Base="Goblin"
+
+[WitchMother_EV1]
+
+	Base="Goblin"
+
+[ElectroSpirit_EV1]
+
+	Base="Goblin"
+
+[ElectroGiant_EV1]
+
+	Base="Goblin"
+
+[Phoenix_EV1]
+
+	Base="Goblin"

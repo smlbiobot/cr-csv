@@ -1,0 +1,67 @@
+# EVO version of buildings, this is a patch files it stores only the differences. Note that order of cards is important
+
+[Cannon_EV1]
+
+	Base="Cannon"
+
+[GoblinHut_EV1]
+
+	Base="Cannon"
+
+[Mortar_EV1]
+
+	Base="Mortar"
+	Hitpoints=["%",120]
+	HitSpeed=["=",4000]
+	Projectile="MortarProjectile_EV1"
+	PrestigeSWF=""
+	PrestigeExportName2=""
+	PrestigeExportName3=""
+	HealthBar="_EV1"
+	DeathEffect="Death_card_evolution_M"
+	SpawnEffect="Deploy_Mortar_Evolution"
+	CustomSpawnFilter="filter_card_evolution"
+	FileName="sc/building_mortar_evolution.sc"
+	BlueExportName="mortar_evolution"
+	RedExportName="enemy_mortar_evolution"
+	ProjectileEffect="evo_mortar_attack"
+
+[InfernoTower_EV1]
+
+	Base="Cannon"
+
+[BombTower_EV1]
+
+	Base="Cannon"
+
+[BarbarianHut_EV1]
+
+	Base="Cannon"
+
+[Tesla_EV1]
+
+	Base="Tesla"
+
+[Elixir_Collector_EV1]
+
+	Base="Cannon"
+
+[Xbow_EV1]
+
+	Base="Cannon"
+
+[Tombstone_EV1]
+
+	Base="Cannon"
+
+[FirespiritHut_EV1]
+
+	Base="Cannon"
+
+[GoblinCage_EV1]
+
+	Base="Cannon"
+
+[GoblinDrill_EV1]
+
+	Base="Cannon"

@@ -1,0 +1,86 @@
+# Implementation of projectils for evolution
+
+[RoyalGiantProjectile_EV1]
+
+	Rarity = "Common"
+	Speed = 1000
+	FileName = "sc/chr_royalgiant_evolution.sc"
+	ExportName = "RoyalGiant_Evolution_projectile"
+	ShadowExportName = "RoyalGiant_Evolution_projectile_shadow"
+	Scale = 60
+	Homing = true
+	HitEffect = "royal_giant_projectile_hit"
+	Damage = 120
+	Radius = 250
+	AoeToGround = true
+	OnlyEnemies = true
+	ProjectileRadius = 250
+	ProjectileStartExtraRadius = 400
+	ConstantHeight = 1500
+	DeflectBehaviour = "IgnoreHeight"
+
+[FirecrackerProjectile_EV1]
+
+	Rarity = "Common"
+	Speed = 400
+	FileName = "sc/chr_firecracker_evolution.sc"
+	ExportName = "evofirecracker_projectile"
+	ShadowExportName = "evofirecracker_projectile_shadow"
+	Scale = 80
+	HitEffect = "firecracker_hit"
+	AoeToAir = true
+	AoeToGround = true
+	OnlyEnemies = true
+	Gravity = 50
+	TrailEffect = "firecracker_projectile_Emitter"
+	SpawnAreaEffectObject = "FirecrackerFireworksBig_EV1"
+	SpawnProjectile = "FirecrackerExplosion_EV1"
+	Scatter = "Line"
+
+[FirecrackerExplosion_EV1]
+
+	Rarity = "Common"
+	Speed = 550
+	FileName = "sc/chr_firecracker_dl.sc"
+	ExportName = "firecracker_projectile2"
+	ShadowExportName = "firecracker_projectile2_shadow"
+	Scale = 150
+	HitEffect = "firecracker_hit2"
+	Damage = 25
+	Radius = 400
+	AoeToAir = TRUE
+	AoeToGround = TRUE
+	OnlyEnemies = true
+	Gravity = 50
+	SpawnAreaEffectObject = "FirecrackerFireworksSmall_EV1"
+	TrailEffect = "firecracker_projectile2_emitter"
+	ProjectileRadius = 400
+	ProjectileStartExtraRadius = 650
+	ProjectileRange = 5000
+	SpawnCount = 5
+	SpawnRadius = 80
+	MinDistance = 5000
+	ConstantHeight = 1000
+	ShakesTargets = TRUE
+	ShakesShooter = 500
+	Scatter = "Circle"
+	DeflectBehaviour = "InvertDirection"
+
+[MortarProjectile_EV1]
+
+	Rarity = "Common"
+	Speed = 300
+	FileName = "sc/effects_evolution.sc"
+	ExportName = "mortar_evolved_projectile_v2"
+	RedExportName = "enemy_mortar_evolved_projectile"
+	Scale = 150
+	HitEffect = "mortar_hit"
+	Damage = 104
+	Radius = 2000
+	AoeToGround = true
+	OnlyEnemies = true
+	Gravity = 60
+	SpawnCharacterDeployTime = 200
+	SpawnCharacter = "Goblin"
+	SpawnConstPriority = TRUE
+
