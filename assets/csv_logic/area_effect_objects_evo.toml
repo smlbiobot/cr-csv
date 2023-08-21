@@ -8,8 +8,8 @@
 	OneShotEffect = "royal_giant_evo_push_back"
 	Pushback = 1000
 	Damage = 32
-	OnlyEnemies = TRUE
-	HitsGround = TRUE
+	OnlyEnemies = true
+	HitsGround = true
 	Tags = "NO_AOE_PUSHBACK_VFX"
 
 [FirecrackerFireworksBig_EV1]
@@ -24,9 +24,9 @@
 	Buff = "FirecrackerFireworks_EV1"
 	BuffTime = 400
 	BuffNumber = 1
-	OnlyEnemies = TRUE
-	HitsGround = TRUE
-	HitsAir = TRUE
+	OnlyEnemies = true
+	HitsGround = true
+	HitsAir = true
 
 [FirecrackerFireworksSmall_EV1]
 
@@ -40,6 +40,6 @@
 	Buff = "FirecrackerFireworks_EV1"
 	BuffTime = 400
 	BuffNumber = 1
-	OnlyEnemies = TRUE
-	HitsGround = TRUE
-	HitsAir = TRUE
+	OnlyEnemies = true
+	HitsGround = true
+	HitsAir = true

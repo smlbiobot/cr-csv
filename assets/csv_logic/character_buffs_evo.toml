@@ -25,7 +25,7 @@
 	MarkEffect = "Healing"
 	AudioPitchModifier = 80
 	Scale = 105
-	EnableStacking = TRUE
+	EnableStacking = true
 
 [FirecrackerFireworks_EV1]
 

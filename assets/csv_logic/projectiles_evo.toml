@@ -48,8 +48,8 @@
 	HitEffect = "firecracker_hit2"
 	Damage = 25
 	Radius = 400
-	AoeToAir = TRUE
-	AoeToGround = TRUE
+	AoeToAir = true
+	AoeToGround = true
 	OnlyEnemies = true
 	Gravity = 50
 	SpawnAreaEffectObject = "FirecrackerFireworksSmall_EV1"
@@ -61,7 +61,7 @@
 	SpawnRadius = 80
 	MinDistance = 5000
 	ConstantHeight = 1000
-	ShakesTargets = TRUE
+	ShakesTargets = true
 	ShakesShooter = 500
 	Scatter = "Circle"
 	DeflectBehaviour = "InvertDirection"
@@ -82,5 +82,5 @@
 	Gravity = 60
 	SpawnCharacterDeployTime = 200
 	SpawnCharacter = "Goblin"
-	SpawnConstPriority = TRUE
+	SpawnConstPriority = true
 
